@@ -43,3 +43,43 @@ I didn’t have the opportunity to work with Brad. It is clear, however, that he
 ## Erin Boyd
 
 Brad and I knew each other briefly at IBM, and then became friends as we worked closely together at Red Hat. We often disagreed about design and implementations, but our mutual respect for one another allowed us to work through high stress situations to find the best solution. Outside of work we talked about life and I was often trying to set Brad up with friends of mine or random people I met at conferences. We joked I was his ‘wing woman.’ He was a sounding board for me, as I was for him when we would become frustrated with grind. The last time I saw Brad we were sitting outside on the patio at Barcelona telling me I needed to relax more and live in the moment. He would almost always see through the bs and call people out on it and I will miss his genuine spirit.
+
+## Saad Ali
+
+Brad and I served as co-chairs of Kubernetes SIG Storage. We worked together to shepard many of the great projects the SIG delivered including the PV/PVC controller rewrite, creation of the attach/detach controller, dynamic volume provisioning with StorageClasses, and so much more. Brad was always so easy to work with, and willing to help. Beyond being a dependable lead for SIG Storage, I remember Brad as being quick with a joke and just a fun person to be around. He knew how to lighten the mood and defuse tension when there were big disagreements in the group. I always looked forward to talking to seeing him at conferences. You will be missed Brad, rest in peace!
+
+## Jeff Vance
+
+Like everyone I was utterly shocked and saddened to hear about Brad. He was a constant to me, in both his unique personality and as an ear, a sounding board for ideas and opinions. He really was always available to help. I regret, when we were all at Kubecon in Austin, not taking him up on his invite to hang out at his place at the end of the day. I should have because then I would have gotten to know him a little better. I am so sorry for his family and all his close friends. Brad touched a lot of lives and will be deeply missed…
+
+## Tim Hockin
+
+I think I knew Brad for less than 12 hours before he felt that it was appropriate to “flip me the bird”.  It was totally appropriate.
+
+## Michael Rubin
+
+I remember my first f2f in 2015. There were about a dozen of us in a San Jose office looking at a mountain of problems. Brad made it into a party. He made everyone welcome and made everything look easy. I miss him.
+
+## Christian Huffman
+
+I regret not spending more time with Brad. He was introduced to me roughly six months ago, and he was always a friendly, knowledgeable face that invited me to ask questions. Brad wanted to see people grow, and did his best to help them do so. His absence leaves a void that cannot be filled, and he will be incredibly missed.
+
+## Rejy M Cyriac
+
+I did not have the good fortune to know Brad Childs personally. But I have known him through the technology he fostered and through the collaborative spirit that he encouraged across teams. He was great at both, and we will deeply miss him. Through his immense contributions he lives on.
+
+## Sudhir Prasad
+
+Brad was always helpful, regardless of the ask or the situation. I met him two years back. From day one, he helped me with the container-native storage, its direction, and how jointly we can help customers. He certainly made his mark in the storage community with his care for people around him and his passion for technology. I will miss him and his laugh.
+
+## Vijay Bellur
+
+Brad was always kind and helpful in all my interactions with him. He was very open to new ideas & people. I will definitely miss having him around.
+
+## Atin Mukherjee
+
+I didn’t have an opportunity to interact with Brad but he has demonstrated his technical leadership in many areas in persistent storage for container storage topics. Red Hat will definitely miss him.
+
+## Tomas Smetana
+
+I have worked with Brad for about three years and he was such a great guy to have around: fun, easy-going, always willing to help... He even let us stay at his house during the KubeCon conference in Austin. He drove us to the airport on our way back and when I was about to shake his hand, thank him and say goodbye he just hugged me instead saying "Come on! We're friends now". I lost a friend.
