@@ -1,4 +1,4 @@
-# In Memory of Bradley Childs (XXXX-2019)
+# In Memory of Bradley Childs
 
 Dear community and friends,
 
