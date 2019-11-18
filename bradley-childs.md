@@ -83,3 +83,6 @@ I didn’t have an opportunity to interact with Brad but he has demonstrated his
 ## Tomas Smetana
 
 I have worked with Brad for about three years and he was such a great guy to have around: fun, easy-going, always willing to help... He even let us stay at his house during the KubeCon conference in Austin. He drove us to the airport on our way back and when I was about to shake his hand, thank him and say goodbye he just hugged me instead saying "Come on! We're friends now". I lost a friend.
+
+## Michelle Au
+When I joined the SIG three years ago, Brad welcomed me like I was part of his team, and would always lend an ear, in both good and difficult times. Brad was able to connect with anyone and I fondly remember the times we were able to meet in person, try out good food, and talk about life. I will miss him greatly.
