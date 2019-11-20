@@ -4,6 +4,8 @@ Dear community and friends,
 
 I thought it might be a good idea for us all to gather our thoughts, memories and stories of Brad and what he meant to us in one place. Please add your contribution below via a pull request.
 
+[Tribute Video from Kubecon North America 2019](https://youtu.be/4eI2PTAJ-sE)
+
 ## Huamin Chen
 
 Brad is a true friend. His personality, curiosity, motivation, and perseverance will stay with us.
