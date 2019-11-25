@@ -2,7 +2,11 @@
 
 Dear community and friends,
 
-I thought it might be a good idea for us all to gather our thoughts, memories and stories of Brad and what he meant to us in one place. Please add your contribution below via a pull request.
+I thought it might be a good idea for us all to gather our thoughts, memories and stories of Brad and what he meant to us in one place. Please add your contribution below via a pull request. 
+
+## KubeCon 2019 memorial video for Brad
+
+[![CNCF Memorial Video for Bradley Childs](http://i3.ytimg.com/vi/4eI2PTAJ-sE/maxresdefault.jpg)](https://www.youtube.com/watch?v=4eI2PTAJ-sE&feature=youtu.be)
 
 ## Huamin Chen
 
