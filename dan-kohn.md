@@ -21,3 +21,8 @@ I will miss our fun conversations and plans... while I have lost a close friend,
 My last message to Dan, which he didn't see:
 
 Dan, I heard the news from Jim and I’m devastated. Thank you for everything you’ve done for the open source community and for me personally. You’ve changed the world in ways that very few people have, and that impact will live on. You’ve certainly changed the trajectory of my career and thousands others, and we’ll take good care of everything you’ve worked so hard for. Thank you again and all my love to you and your family.
+
+
+## Łukasz Gryglicki
+
+I met Dan while he was working at Spreemo, then followed him to the CNCF. He was the best boss I have ever had in my life. For the first time, I had a boss, a mentor, and a loyal friend at the same time. It was thanks to Dan that I had my first opportunity to visit the world. We met many times, practically at every KubeCon conference. We often discussed things not related to work, such as traveling. We have worked together for over five years. Dan was a wonderful man, and the news of his sudden and premature death saddened and surprised me. Rest in peace, dear friend—sincere condolences to the whole family.
