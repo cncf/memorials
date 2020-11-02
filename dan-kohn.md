@@ -44,3 +44,7 @@ Dan had a massive positive influence on my life and career. He believed and foug
 Dan, as I, am an introvert in an extrovert field. I will never forget our almost-dinner at MWC in Barcelona. People were dropping out of going to the conference, but Dan and I were still going to go if the conference was held! I suggested we have dinner together. Dan told me that he doesn't really like people, so we would go to dinner together, sit at different tables in the same restaurant, and just read out books (or whatever). With us both being introverts - it was going to be the best dinner ever! :)
 
 I will forever hear his laugh. And I leave one word: Grammerly. :)
+
+## Jim Haughwout
+
+Dan was not only a tremendous leader in the open source community, but a kind person who made all feel welcome. I still remember meeting him at my first KubeCon event, at the Tivoli in Copenhagen. He will be missed--but not forgotten. His work is now being carried on by a 100,000+ committers, building a better community for all. RIP!
