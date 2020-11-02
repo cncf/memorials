@@ -36,3 +36,11 @@ A bit less than year later I've joined CNCF as a full-time staff member, and abi
 Dan was a truly extraordinary person, and his impact on the whole open source industry is significant. I have a strong feeling that most of us (including myself) would not be there where we are now and would not do what we are doing now if we'd not met Dan.
 
 Thank you, Dan.
+
+## Kim McMahon
+
+Dan had a massive positive influence on my life and career. He believed and fought for me when others would not. He is an amazing mentor to me and his advice and guidance is something I use every day. I am in an amazing career at an amazing company because of Dan and I can’t thank him enough. 
+
+Dan, as I, am an introvert in an extrovert field. I will never forget our almost-dinner at MWC in Barcelona. People were dropping out of going to the conference, but Dan and I were still going to go if the conference was held! I suggested we have dinner together. Dan told me that he doesn't really like people, so we would go to dinner together, sit at different tables in the same restaurant, and just read out books (or whatever). With us both being introverts - it was going to be the best dinner ever! :)
+
+I will forever hear his laugh. And I leave one word: Grammerly. :)
