@@ -48,3 +48,11 @@ I will forever hear his laugh. And I leave one word: Grammerly. :)
 ## Jim Haughwout
 
 Dan was not only a tremendous leader in the open source community, but a kind person who made all feel welcome. I still remember meeting him at my first KubeCon event, at the Tivoli in Copenhagen. He will be missed--but not forgotten. His work is now being carried on by a 100,000+ committers, building a better community for all. RIP!
+
+## Joe Beda
+
+The last several years of my life have been intimately entangled with Kubernetes and the CNCF.  And Dan was a fundamental part of making the CNCF what it is.  I didn't always agree with him, but it was always above board.  He always worked hard to balance all of the various forces to create win-win situations and success for everyone involved.  Whenever we met at a conference or event he was always easy to talk to and clearly cared about fostering a community.
+
+The big thing I'll remember Dan for is his work and dedication for including, diversity and equity.  In multiple instances Dan would go beyond what was easy to really try and move the our community (and, by small increments, the larger industry) forward.  He really worked to make sure that KubeCon (and the CNCF as a whole) were at the forefront of things like diversity scholorships. I know that this had an impact on *many* in our community.  Beyond just KubeCon, he took feedback around diversity in the governing structure of the CNCF (TOC, GB) very seriously.  He put himself out on a limb multiple times to do the right thing to lead in this space.  I was and am impressed with his commitment.
+
+Goodbye Dan. You will be missed.
