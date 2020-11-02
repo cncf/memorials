@@ -16,4 +16,8 @@ is bringing the spirit of open source to global health authorities.
 
 I will miss our fun conversations and plans... while I have lost a close friend, we have also lost a tireless champion for open source across the world.
 
-## TODO
+## Cheryl Hung
+
+My last message to Dan, which he didn't see:
+
+Dan, I heard the news from Jim and I’m devastated. Thank you for everything you’ve done for the open source community and for me personally. You’ve changed the world in ways that very few people have, and that impact will live on. You’ve certainly changed the trajectory of my career and thousands others, and we’ll take good care of everything you’ve worked so hard for. Thank you again and all my love to you and your family.
