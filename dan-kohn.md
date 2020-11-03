@@ -22,7 +22,6 @@ My last message to Dan, which he didn't see:
 
 Dan, I heard the news from Jim and I’m devastated. Thank you for everything you’ve done for the open source community and for me personally. You’ve changed the world in ways that very few people have, and that impact will live on. You’ve certainly changed the trajectory of my career and thousands others, and we’ll take good care of everything you’ve worked so hard for. Thank you again and all my love to you and your family.
 
-
 ## Łukasz Gryglicki
 
 I met Dan while he was working at Spreemo, then followed him to the CNCF. He was the best boss I have ever had in my life. For the first time, I had a boss, a mentor, and a loyal friend at the same time. It was thanks to Dan that I had my first opportunity to visit the world. We met many times, practically at every KubeCon conference. We often discussed things not related to work, such as traveling. We have worked together for over five years. Dan was a wonderful man, and the news of his sudden and premature death saddened and surprised me. Rest in peace, dear friend—sincere condolences to the whole family.
@@ -57,6 +56,15 @@ The big thing I'll remember Dan for is his work and dedication for including, di
 
 Goodbye Dan. You will be missed.
 
+## John Mertic
+
+Dan taught me by example on how to be a leader in an open source foundation, with his focus on putting the community first and always making sure the work output reflected how much he put that community first. He was one of the few that would reach out with words of encouragement as I was navigating the foundations I was leading, and always willing to jump in as a speaker or make connections to help the community thrive.
+
+Landscapes were one of his passions. I remember him helping me at a moments notice, proactively making adjustments and getting logos fixed to ensure it looked great ( along with the occasional lesson on SVG quality ;-) ). Even once it was launched, he would often get to pull requests faster than I could! I remember thanking him and telling him he didn't need to do that, and he told me "I enjoy it. It's the one part of my job that has clear outcomes." 
+
+Dan - you are gone ( too soon ) but will never be forgotten.
+
+
 ## Julie Dam
 
 I met Dan in the summer of 2016. He was late to our appointment, having had a not-so-great briefing with a reporter who didn't seem to get what he was pitching. He was making the rounds, talking about Kubernetes and containers, and not everyone was ready to get on the bandwagon yet. He showed me the same deck that hadn't impressed that reporter and told me about his plans for CNCF, including holding big conferences around the world. 
@@ -66,3 +74,4 @@ That day, he took a chance on me, a former celebrity magazine editor, figuring t
 Sure enough, over the next few years, I wrote *lots* of case studies, and when we'd see each other at a KubeCon in Berlin or Shanghai, he'd give me a knowing smile: See? What did I tell you?
 
 One of the last times I spoke to Dan, he asked me what I wanted to be when I grew up. That made me laugh then. But now I think of it as his way of saying that there's always more to do in life, new things to start, new stories to tell. Dan, I wish we'd been lucky enough to see everything you were going to do when you grew up. I'm grateful to have known you.
+
