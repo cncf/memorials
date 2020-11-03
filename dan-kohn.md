@@ -97,5 +97,16 @@ For the world, CNCF, and Open Source community, Dan always had been an extraordi
 
 I only imagine that by now, in the afterlife, God and Dan having an intense brainstorming session about setting up a conference to make people happier, and bringing more joy to them.  And, that his phone buzzes with Slack message in my signature words "Hello Sir, How are you ? How is your day over there ?"
 
-I really miss you Dan. With tears and sadness. Kylix 
+I really miss you Dan. With tears and sadness. 
 
+## Eduardo Silva
+
+I cannot remember the exact date when I met Dan for the first time, but it was in a very early stage of CNCF. Every time that I had a conversation with him it was very valuable, he always had something to help with, he was a truly open person, you could talk about everything, not just technology.
+
+I always admired his dedication, the day before KubeCon US 2016 just started, late evening, I was walking around the venue and watching how all things were being prepared for the next big day. I walked into the main theater and Dan was on the stage practicing his speech for the next day, more than just watching I was analyzing how he approached the presentation like body expressions, story, movements, etc... I wanted to learn. At that moment he kept practicing over and over to reach perfection. That's the dedication that I admire, he was truly devoted to making things perfect through discipline.
+
+While traveling around conferences, more than once he introduces me to his family, Julie, and the kids, he is really proud of them. I was glad to see that a very busy person, had his family as priority #1.
+
+Dan was very supportive, I could see that in the open source community, he helped to shape a huge healthy ecosystem, Fluentd won't be the same without CNCF and his help...
+
+He will be definitely missed, his labor in this world has ended and now I am sure he is in a 'higher' level of life. His time in this world made a positive impact on many people, and that is priceless.
