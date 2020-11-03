@@ -87,3 +87,15 @@ The last time we talked was a few months ago and he seemed unhappy, more concern
 Even more important than his technical legacy, he has a legacy in his family, in his children; it was always obvious how deeply he cared about them and I hope that they will look back - while not happily about the loss - happily and positively at the person, and about their shared time.
 
 2020 is not the easiest of years and I will miss the banter, the shared passion, and the jokes. Goodbye friend, goodbye.
+
+## Eduardo Silva
+
+I cannot remember the exact date when I met Dan for the first time, but it was in a very early stage of CNCF. Every time that I had a conversation with him it was very valuable, he always had something to help with, he was a truly open person, you could talk about everything, not just technology.
+
+I always admired his dedication, the day before KubeCon US 2016 just started, late evening, I was walking around the venue and watching how all things were being prepared for the next big day. I walked into the main theater and Dan was on the stage practicing his speech for the next day, more than just watching I was analyzing how he approached the presentation like body expressions, story, movements, etc... I wanted to learn. At that moment he kept practicing over and over to reach perfection. That's the dedication that I admire, he was truly devoted to making things perfect through discipline.
+
+While traveling around conferences, more than once he introduces me to his family, Julie, and the kids, he is really proud of them. I was glad to see that a very busy person, had his family as priority #1.
+
+Dan was very supportive, I could see that in the open source community, he helped to shape a huge healthy ecosystem, Fluentd won't be the same without CNCF and his help...
+
+He will be definitely missed, his labor in this world has ended and now I am sure he is in a 'higher' level of life. His time in this world made a positive impact on many people, and that is priceless.
