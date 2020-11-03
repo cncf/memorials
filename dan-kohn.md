@@ -56,3 +56,12 @@ The last several years of my life have been intimately entangled with Kubernetes
 The big thing I'll remember Dan for is his work and dedication for including, diversity and equity.  In multiple instances Dan would go beyond what was easy to really try and move the our community (and, by small increments, the larger industry) forward.  He really worked to make sure that KubeCon (and the CNCF as a whole) were at the forefront of things like diversity scholorships. I know that this had an impact on *many* in our community.  Beyond just KubeCon, he took feedback around diversity in the governing structure of the CNCF (TOC, GB) very seriously.  He put himself out on a limb multiple times to do the right thing to lead in this space.  I was and am impressed with his commitment.
 
 Goodbye Dan. You will be missed.
+
+## John Mertic
+
+Dan taught me by example on how to be a leader in an open source foundation, with his focus on putting the community first and always making sure the work output reflected how much he put that community first. He was one of the few that would reach out with words of encouragement as I was navigating the foundations I was leading, and always willing to jump in as a speaker or make connections to help the community thrive.
+
+Landscapes were one of his passions. I remember him helping me at a moments notice, proactively making adjustments and getting logos fixed to ensure it looked great ( along with the occasional lesson on SVG quality ;-) ). Even once it was launched, he would often get to pull requests faster than I could! I remember thanking him and telling him he didn't need to do that, and he told me "I enjoy it. It's the one part of my job that has clear outcomes." 
+
+Dan - you are gone ( too soon ) but will never be forgotten.
+
