@@ -56,6 +56,10 @@ The big thing I'll remember Dan for is his work and dedication for including, di
 
 Goodbye Dan. You will be missed.
 
+## T.E.Shaw
+
+I worked w/ Dan on the foundations of the Linux Foundation Public Health. Even though I'm myself 40 years in computing, I decided to be his tea boy and learn from his clear vision and meticulous way of work. The fire he ignited will burn for a long time.
+
 ## John Mertic
 
 Dan taught me by example on how to be a leader in an open source foundation, with his focus on putting the community first and always making sure the work output reflected how much he put that community first. He was one of the few that would reach out with words of encouragement as I was navigating the foundations I was leading, and always willing to jump in as a speaker or make connections to help the community thrive.
@@ -63,7 +67,6 @@ Dan taught me by example on how to be a leader in an open source foundation, wit
 Landscapes were one of his passions. I remember him helping me at a moments notice, proactively making adjustments and getting logos fixed to ensure it looked great ( along with the occasional lesson on SVG quality ;-) ). Even once it was launched, he would often get to pull requests faster than I could! I remember thanking him and telling him he didn't need to do that, and he told me "I enjoy it. It's the one part of my job that has clear outcomes." 
 
 Dan - you are gone ( too soon ) but will never be forgotten.
-
 
 ## Julie Dam
 
@@ -74,4 +77,3 @@ That day, he took a chance on me, a former celebrity magazine editor, figuring t
 Sure enough, over the next few years, I wrote *lots* of case studies, and when we'd see each other at a KubeCon in Berlin or Shanghai, he'd give me a knowing smile: See? What did I tell you?
 
 One of the last times I spoke to Dan, he asked me what I wanted to be when I grew up. That made me laugh then. But now I think of it as his way of saying that there's always more to do in life, new things to start, new stories to tell. Dan, I wish we'd been lucky enough to see everything you were going to do when you grew up. I'm grateful to have known you.
-
