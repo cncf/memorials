@@ -56,3 +56,7 @@ The last several years of my life have been intimately entangled with Kubernetes
 The big thing I'll remember Dan for is his work and dedication for including, diversity and equity.  In multiple instances Dan would go beyond what was easy to really try and move the our community (and, by small increments, the larger industry) forward.  He really worked to make sure that KubeCon (and the CNCF as a whole) were at the forefront of things like diversity scholorships. I know that this had an impact on *many* in our community.  Beyond just KubeCon, he took feedback around diversity in the governing structure of the CNCF (TOC, GB) very seriously.  He put himself out on a limb multiple times to do the right thing to lead in this space.  I was and am impressed with his commitment.
 
 Goodbye Dan. You will be missed.
+
+## T.E.Shaw
+
+I worked w/ Dan on the foundations of the Linux Foundation Public Health. Even though I'm myself 40 years in computing, I decided to be his tea boy and learn from his clear vision and meticulous way of work. The fire he ignited will burn for a long time.
