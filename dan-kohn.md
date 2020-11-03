@@ -110,3 +110,10 @@ While traveling around conferences, more than once he introduces me to his famil
 Dan was very supportive, I could see that in the open source community, he helped to shape a huge healthy ecosystem, Fluentd won't be the same without CNCF and his help...
 
 He will be definitely missed, his labor in this world has ended and now I am sure he is in a 'higher' level of life. His time in this world made a positive impact on many people, and that is priceless.
+
+## Mark Atwood
+
+I honestly cannot remember when I first met Dan.  He was one of those people that seemed to be everywhere, helping with everything, at every Linux Foundation project and event.
+
+He was a force for good and a force for improvement, and I will miss working with him.
+
