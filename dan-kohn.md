@@ -56,3 +56,13 @@ The last several years of my life have been intimately entangled with Kubernetes
 The big thing I'll remember Dan for is his work and dedication for including, diversity and equity.  In multiple instances Dan would go beyond what was easy to really try and move the our community (and, by small increments, the larger industry) forward.  He really worked to make sure that KubeCon (and the CNCF as a whole) were at the forefront of things like diversity scholorships. I know that this had an impact on *many* in our community.  Beyond just KubeCon, he took feedback around diversity in the governing structure of the CNCF (TOC, GB) very seriously.  He put himself out on a limb multiple times to do the right thing to lead in this space.  I was and am impressed with his commitment.
 
 Goodbye Dan. You will be missed.
+
+## Julie Dam
+
+I met Dan in the summer of 2016. He was late to our appointment, having had a not-so-great briefing with a reporter who didn't seem to get what he was pitching. He was making the rounds, talking about Kubernetes and containers, and not everyone was ready to get on the bandwagon yet. He showed me the same deck that hadn't impressed that reporter and told me about his plans for CNCF, including holding big conferences around the world. 
+
+That day, he took a chance on me, a former celebrity magazine editor, figuring that even if I didn't know what a cluster was, I knew how to tell a story. And his plans included having many end users with stories to tell.
+
+Sure enough, over the next few years, I wrote *lots* of case studies, and when we'd see each other at a KubeCon in Berlin or Shanghai, he'd give me a knowing smile: See? What did I tell you?
+
+One of the last times I spoke to Dan, he asked me what I wanted to be when I grew up. That made me laugh then. But now I think of it as his way of saying that there's always more to do in life, new things to start, new stories to tell. Dan, I wish we'd been lucky enough to see everything you were going to do when you grew up. I'm grateful to have known you.
