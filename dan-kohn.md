@@ -87,3 +87,15 @@ The last time we talked was a few months ago and he seemed unhappy, more concern
 Even more important than his technical legacy, he has a legacy in his family, in his children; it was always obvious how deeply he cared about them and I hope that they will look back - while not happily about the loss - happily and positively at the person, and about their shared time.
 
 2020 is not the easiest of years and I will miss the banter, the shared passion, and the jokes. Goodbye friend, goodbye.
+
+
+## Kylix
+
+I bursted with tears when I read Julie's Tweet about Dan's passing. Like 1000s of others in the CNCF, and Open Source community, Dan had a mountainous impact on my life, career, goals, and studies. For the past three years, Dan had been my father figure. My days would start with exchanging a greeting with Dan enquiring "Hello Sir, How are you? How is your day over there?". We have chatted days into nights and nights into days, touching on every face of life, career, technology, community, and much more. He had been my true well wisher and been a great mentor all the while. He took a deep personal interest in my Kubernetes journey from the day we met, to the day of his passing. I couldn't imagine my days without Dan's presence. He has always been my go to person for anything Kubernetes, Docker, containers, and entire cloud native eco-system. He had one of the amazingly impressive personalities in my life. He was the beacon that guided me to CNCF Meetups. His deep personal interest in my learning has brought me to great heights in my journey, and gave me the wonderful and challenging opportunities to learn and explore the CNCF landscape. Dan strongly encouraged me to participate in every Kubernetes events and certifications. Dan was not only a tremendous leader but also a visionary leader. He was very kind to me and everyone out there. He has been a catalyst in sprint after sprint of my career. Like CNCF, I also forever grateful and thankful to Dan.
+
+For the world, CNCF, and Open Source community, Dan always had been an extraordinary person. He will forever remain in the DNA of CNCF and Open Source community. Thank you very much Dan.
+
+I only imagine that by now, in the afterlife, God and Dan having an intense brainstorming session about setting up a conference to make people happier, and bringing more joy to them.  And, that his phone buzzes with Slack message in my signature words "Hello Sir, How are you ? How is your day over there ?"
+
+I really miss you Dan. With tears and sadness. Kylix 
+
