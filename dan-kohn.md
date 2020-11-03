@@ -77,3 +77,13 @@ That day, he took a chance on me, a former celebrity magazine editor, figuring t
 Sure enough, over the next few years, I wrote *lots* of case studies, and when we'd see each other at a KubeCon in Berlin or Shanghai, he'd give me a knowing smile: See? What did I tell you?
 
 One of the last times I spoke to Dan, he asked me what I wanted to be when I grew up. That made me laugh then. But now I think of it as his way of saying that there's always more to do in life, new things to start, new stories to tell. Dan, I wish we'd been lucky enough to see everything you were going to do when you grew up. I'm grateful to have known you.
+
+## Richard "RichiH" Hartmann
+
+Working with Dan on the background bits of Prometheus over the years, he was always kind, smart, thoughtful, and to the point. CNCF would not nearly be the same without him. Dan shaped a large part of how technology will develop in the next years.
+
+The last time we talked was a few months ago and he seemed unhappy, more concerned. Given how stressful life is, how he was bootstrapping LF Public Health, and how COVID had ravaged NYC, I brushed it off and didn't follow up more closely. If only I had...
+
+Even more important than his technical legacy, he has a legacy in his family, in his children; it was always obvious how deeply he cared about them and I hope that they will look back - while not happily about the loss - happily and positively at the person, and about their shared time.
+
+2020 is not the easiest of years and I will miss the banter, the shared passion, and the jokes. Goodbye friend, goodbye.
