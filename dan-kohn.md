@@ -120,3 +120,7 @@ He was a force for good and a force for improvement, and I will miss working wit
 ## Rick
 
 Dan was very friendly. I met with him several times in China. Thank him for the contribution in Open-Source.
+
+## Chris Abraham
+
+Dan and I interacted 97% of the time on Slack though that added up to a lot over the past few years.  I am yet another person who Dan found and brought on to the team with him believing in my abilities such that I too eventually believed.  Like many others, I was touched by his kindness, his huge intellectual capacity, and the fact that he always seemed to be available, day and night.  He seemed to have time and space for everyone.  I got to hang out with him a few times doing things like touring Shanghai by bike and going to a Soul Cycle class in NYC.  I miss working for him, his comments and approval, his attention to doing things completely and correctly, and I know it'll be a long while before I meet another mind like his.
