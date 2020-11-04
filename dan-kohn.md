@@ -117,3 +117,6 @@ I honestly cannot remember when I first met Dan.  He was one of those people tha
 
 He was a force for good and a force for improvement, and I will miss working with him.
 
+## Haifeng Liu
+
+Dan is a great helper when I joined the CNCF board, and I will always remember the meetings with Dan in Beijing, Shanghai, and San Francisco. Dan, thank you again for your leadership in building the cloud native computing communities. You will be definitely missed. 
