@@ -117,6 +117,10 @@ I honestly cannot remember when I first met Dan.  He was one of those people tha
 
 He was a force for good and a force for improvement, and I will miss working with him.
 
+## Justin Cormack
+
+The first time I spent a lot of time with Dan was at a rainy Amsterdam conference, Software Circus in 2017, when he had decided to try out ice sculpting project logos with chainsaws as a dry run for KubeCon. Well, not really a dry run in that rain. We spent a lot of time talking about project plans. He was a constant around the CNCF, and it is such a shock that he was taken from us, and from his family so young and so suddenly.
+
 ## Walid A. Shaari
 
 Unlike others before me, I did not have the good fortune to know Dan or meet or listen to him in person.  However, I have known him through social media, news announcements and CNCF heroes and leaders I follow and respect; he was an inspiration and motivator to them, an inspiration to me. The technology he helped promote and foster, more importantly, the CNCF community and culture he built through collaboration, openness and inclusion. he left us an example and a legacy that will make his family, kids and us proud. Thank you, Dan, you will be missed.
