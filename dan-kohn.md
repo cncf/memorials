@@ -117,3 +117,6 @@ I honestly cannot remember when I first met Dan.  He was one of those people tha
 
 He was a force for good and a force for improvement, and I will miss working with him.
 
+## Rick
+
+Dan was very friendly. I met with him several times in China. Thank him for the contribution in Open-Source.
