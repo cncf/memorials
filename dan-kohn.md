@@ -117,3 +117,7 @@ I honestly cannot remember when I first met Dan.  He was one of those people tha
 
 He was a force for good and a force for improvement, and I will miss working with him.
 
+## Walid A. Shaari
+
+I did not have the good fortune to know Dan in person.  However, I have known him through social media, news annocument and CNCF heros and leaders I follow, he was an inspiration and motivator to them, an inspiration to me. The technology he helped promote and foster, and more importantly the CNCF community and culture he built through collaboration, openess and inclusion. he left us an example and a legacy that will make his family, kids and us proud. thank you Dan, you will be missed.
+
