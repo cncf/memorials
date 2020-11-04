@@ -136,3 +136,11 @@ Dan was very friendly. I met with him several times in China. Thank him for the 
 ## Chris Abraham
 
 Dan and I interacted 97% of the time on Slack though that added up to a lot over the past few years.  I am yet another person who Dan found and brought on to the team with him believing in my abilities such that I too eventually believed.  Like many others, I was touched by his kindness, his huge intellectual capacity, and the fact that he always seemed to be available, day and night.  He seemed to have time and space for everyone.  I got to hang out with him a few times doing things like touring Shanghai by bike and going to a Soul Cycle class in NYC.  I miss working for him, his comments and approval, his attention to doing things completely and correctly, and I know it'll be a long while before I meet another mind like his.
+
+## Sam Ramji
+
+Dan was a fighter, an evangelist, and a dreamer.  He made something out of nothing and the coming decades will be built on a technology ecosystem he willed into being.  I’ll miss arguing with him and working with him.  
+
+I met Dan when I was CEO of Cloud Foundry Foundation and we worked in close physical and corporate proximity - both of us depended on the Linux Foundation as a platform to drive all the things we were doing for our projects, and our projects were sometimes seen as competitors, but never by Dan or by me.  I was the CNCF board member for Google and worked with him a lot in that role.  He had a great combination of patience and stubbornness that was mandatory for the success of a giant collective with competing styles and interests. His devotion to his family was often evident and I learned from him in this domain - balancing his availability for work with his availability for his family.
+
+Let's remember him kindly and keep his presence in our hearts.
