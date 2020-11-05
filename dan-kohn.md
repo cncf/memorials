@@ -162,3 +162,8 @@ I don’t remember Dan ever reflecting on the kind of impact he was making but I
 ## Sriram Subramanian
 
 I first met Dan during KubeCon/ CloudNativeCon in Seattle in 2015. Since then, I've witnessed his passion to grow this community adhering to the values of diversity and inclusion. When KubeCon returned to Seattle in 2016 and again in 2019, the results were clear. I also got a chance to hear more about his kids and their passions during KubeCon Vancouver, where my kids took the programming session along with his. I will always remember Dan for his passion, energy, and honesty. You will be missed, Dan!
+
+
+## Joseph Jacks
+
+I met Dan Kohn as the CNCF was forming in late summer of 2016. Over the last 4 years, I was lucky enough to learn from, interact with and collaborate with Dan on many occasions. Dan was an incredibly authentic and sincere leader, relentlessly kind and understanding, incredibly hard working and deeply intelectually curious. I am still in shock that Dan is gone. Dan offered a great deal of feedback, insight and advice in the early days and developments of OSS Capital, as well as in my own personal professional evolution. He was a friend, a gentleman and a great human. Dan's work positively affected the lives of millions.
