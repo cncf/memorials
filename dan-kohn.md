@@ -163,7 +163,15 @@ I don’t remember Dan ever reflecting on the kind of impact he was making but I
 
 I first met Dan during KubeCon/ CloudNativeCon in Seattle in 2015. Since then, I've witnessed his passion to grow this community adhering to the values of diversity and inclusion. When KubeCon returned to Seattle in 2016 and again in 2019, the results were clear. I also got a chance to hear more about his kids and their passions during KubeCon Vancouver, where my kids took the programming session along with his. I will always remember Dan for his passion, energy, and honesty. You will be missed, Dan!
 
-
 ## Joseph Jacks
 
 I met Dan Kohn as the CNCF was forming in late summer of 2016. Over the last 4 years, I was lucky enough to learn from, interact with and collaborate with Dan on many occasions. Dan was an incredibly authentic and sincere leader, relentlessly kind and understanding, incredibly hard working and deeply intelectually curious. I am still in shock that Dan is gone. Dan offered a great deal of feedback, insight and advice in the early days and developments of OSS Capital, as well as in my own personal professional evolution. He was a friend, a gentleman and a great human. Dan's work positively affected the lives of millions.
+
+## Chris Short
+
+Dan and I didn't always see eye to eye on things. That was probably a healthy thing for the community and maybe not so much our relationship. But, Dan Kohn (along with CNCF) saved my career in 2017. I was coming out of a role I left due to several reasons. The day before Thanksgiving, the company I was starting with the coming Monday rescinded their offer after a fairly long courtship. Jobless, as the sole breadwinner in your household, is never where you want to be. I knew I needed to be at KubeCon the following week to job hunt and network. After naively asking on Twitter how I could somehow procure a ticket. Dan DM'd me for details, made sure I had what I needed once I got to Austin, and covered the hotel so I could actively job hunt and network without the guilt of leaving the family behind. That trip lead to me becoming a CNCF Ambassador (thank you goes to Jorge Castro for telling me to apply).
+
+Dan stuck up for Ambassadors too, even in the face of enormous pressure. We are humans; we aren't robots. If we shared opinions about certain vendors, yes, we might get a phone call one day from the head of CNCF while we're both at airports (I was at Logan, he was at Kennedy if memory serves) asking to put a disclaimer at the top. But, CNCF members have fundamental human rights; Dan was never going to censor an ambassador. That let me know I was in the right place. I needed to put even more effort into this community. To give back for helping my family and me in our time of need. We don't forget things like Dan getting me into KubeCon Austin 2017 or telling vendors people can share their opinions.
+
+Dan was one of the folks out there trying to take the skills and talents they had to try to make the world a better place. Agree or disagree on anything, sure. But, I respect the hell out of someone like Dan. His impact has been made. Dan Kohn's legacy is a sea change in the technology landscape like the world hadn't seen since the introduction of the Linux kernel. Dan will truly be missed.
+
