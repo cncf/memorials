@@ -175,6 +175,14 @@ Dan stuck up for Ambassadors too, even in the face of enormous pressure. We are 
 
 Dan was one of the folks out there trying to take the skills and talents they had to try to make the world a better place. Agree or disagree on anything, sure. But, I respect the hell out of someone like Dan. His impact has been made. Dan Kohn's legacy is a sea change in the technology landscape like the world hadn't seen since the introduction of the Linux kernel. Dan will truly be missed.
 
+## Randy Abernethy
+
+I met Dan shortly after he became Executive Director at the CNCF. His influence was swift, powerful, intuitive, direct and, most importantly, driven 100% by positive energy. Dan transformed and shaped the CNCF in perhaps its most formative and critical window. The result was one of the fastest growing and most important software organiztions in history. His dna will remain in the organization for the rest of its existence.
+
+More importantly to me personally was the way Dan set an example for folks around him. He showed people that you can be kind, understanding, open minded and sensitive while still being frank, fierce and driven in business. I was very happy to be in his orbit and have sympathy for anyone who may have had to compete with him. As driven as he was, he always had time for CNCF members and, really, people in general. You didn't have to be the CEO of X, Y or Z to get a kind, encouraging word from Dan or a minute of his time. He was always out front, one step ahead, and yet open to sharing his views and insight with everyone.
+
+We could use more people in this world with Dan's outstanding character, intellect and kindness. I missed him the day he left the CNCF and will miss him so much more now. 
+
 ## Liz Rice
 
 Dan was a giant in our community, and his influence over the CNCF and the broader open source world was tremendous.
