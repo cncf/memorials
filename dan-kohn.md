@@ -183,3 +183,18 @@ More importantly to me personally was the way Dan set an example for folks aroun
 
 We could use more people in this world with Dan's outstanding character, intellect and kindness. I missed him the day he left the CNCF and will miss him so much more now. 
 
+## Liz Rice
+
+Dan was a giant in our community, and his influence over the CNCF and the broader open source world was tremendous.
+
+I will forever be grateful to Dan for the life-changing opportunity he gave me to be be co-chair of KubeCon + CloudNativeCon in 2018. He later encouraged me to stand for the TOC, a role I'm not sure I'd have had the confidence to aspire to without his support.
+
+Our paths crossed many times all around the world, usually at CNCF events. Dan loved to travel, and he would make the most of every trip. I was lucky enough to be part of his entourage on a memorable sightseeing tour around Bangalore. There was a day trip from Seoul where we originally planned to visit the DMZ but, due to a combination of swine flu and fog, the closest we got was a very indistinct view of North Korea through binoculars from an observation point across the river. In Australia, Dan persuaded me to climb the Sydney Harbour Bridge despite my fear of heights; sadly that idea had to be abandoned due to fires in the area at the time. (Climate change was another thing he cared about deeply, and I remember him commenting that the smoke and wild-fire situation was like being in a post-apocalyptic future, except that it wasn't the future.) He was a regular at SoulCycle, and if there was a branch in town he'd usually talk a few of us into getting up in the morning to join him for a class.
+
+He was incredibly proud of his family, and I think we all felt we got to know them a little bit through Dan - remember his keynote about Minecraft?
+
+As other folks have mentioned, Dan really was the driving force behind diversity initiatives in the CNCF, and that's a huge part of what makes it the welcoming community, and ultimately the success, that it is today. He worked tirelessly to build the ecosystem and encourage folks to get involved at whatever level was right for them. Dan had time for everyone, whether they were a senior exec from a cloud vendor, or a student figuring out the first steps in their career.
+
+This year it was amazing to see his determination in building LF Public Health. He had it up and running in such a short time, convincing people, projects and health partners to work together under the LF umbrella. Yet another example of how Dan made a positive impact on the world.
+
+Thank you, Dan.
