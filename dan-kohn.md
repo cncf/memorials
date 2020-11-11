@@ -220,3 +220,10 @@ In 2016 when I and my colleagues had decided to open source our internal tools, 
 I had met Dan Kohn personally at every KubeCon. Every time he was kind he take time to discuss and listen to us, he was grateful for our effort thanked me for the work we were doing, and our effort to spread the CNCF vision in France.
 
 My deepest thoughts, prayers, and condolences are with his family.
+
+## Bryan Cantrill
+
+I am saddened by Dan's passing, and it brings to mind one of my own adventures with him.  Once upon a time, an open source company capsized suddenly due to their gross mismangement.  Their software was popular but while it was open source, it was also under a license that was going to prevent its uptake.  The community wanted to fight for it, so I floated an idea by Dan:  could the Linux Foundation somehow buy the resources of the dead company from whatever investor ended up with them?  Dan's response was Dan at his finest:  he loved to be at the confluence of corporate and open source interests, and the ability to liberate an open source community from a corporate carcass felt like a role that he was born to play.  He embraced it enthusastically and performed masterfully:  he got an incredible deal, managing to purchase not just the software but quite literally every piece of intellectual property owned by the dead company, bringing the project into the Linux Foundation and relicensed it in a single stroke.  Some feathers were rankled (largely by rival companies thinking that favorites were being played), but Dan stood by it:  he knew -- and I knew -- that there was an open source community at the other end of this transaction, one that deserved to control its own fate.
+
+I didn't always agree with Dan, but I also never questioned his commitment to finding sustainable pathways for open source within the broader corporate world; the open source world is worse for having lost him.  And beyond his technical contribution, Dan was unfailingly decent:  my heart goes out to his family, who has prematurely lost a devoted husband and father.
+
