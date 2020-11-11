@@ -56,6 +56,18 @@ The big thing I'll remember Dan for is his work and dedication for including, di
 
 Goodbye Dan. You will be missed.
 
+## Alexis Richardson
+
+Dan always used to say "fill out a pull request", "make a pull request".  Here is my last PR for you Dan.
+
+First: What Joe said, LGTM.
+
+And then obviously this: CNCF would not be here in such a wonderful state, but for Dan's constant efforts.  Especially in the first 2-3 years.  People may not remember this now, but some of our meetings were a bit like the wild west.  A two horse town and a few strangers.  But, it grew from there.  Dan was front of house, bar manager, banker, sheriff and janitor all in one, as more people and projects joined.  Without his commitment to *community* people would not have stayed as they did and made what you see today.  Thank-you Dan.
+
+Memories of Dan.  Well mostly he was a font of quite embarrassing stories.  Dan would tell these again and again, always watching with great care.  The number one story was of course "how I invented e-commerce".  It turns out that Dan, as a recent graduate, started an online shop selling CDs.  This did not become Netflix or Amazon, but it did sell at least one CD -- by Sting.  My heart warms imagining the scene where Dan "Dansplained" this to Sting some years later.  (Yes really)
+
+And then his family and kids.  Dan was always talking about them with enormous pride.  He would take his kids on protests in NY, and end up taking selfies with the politicians and other public figures he ran into.  This was Dan all the way.
+
 ## T.E.Shaw
 
 I worked w/ Dan on the foundations of the Linux Foundation Public Health. Even though I'm myself 40 years in computing, I decided to be his tea boy and learn from his clear vision and meticulous way of work. The fire he ignited will burn for a long time.
