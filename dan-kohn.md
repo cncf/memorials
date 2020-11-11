@@ -227,3 +227,5 @@ I am saddened by Dan's passing, and it brings to mind one of my own adventures w
 
 I didn't always agree with Dan, but I also never questioned his commitment to finding sustainable pathways for open source within the broader corporate world; the open source world is worse for having lost him.  And beyond his technical contribution, Dan was unfailingly decent:  my heart goes out to his family, who has prematurely lost a devoted husband and father.
 
+## Deepak Vij
+Dan was Mr. CNCF. Under Dan’s tutelage, CNCF is where it is today, one of the most successful open source foundation. Dan was one of the nicest gentleman I have met. Always extremely supportive and went out of his way to make things happen. Dan, you will be sorely missed by everyone. It was an honor to have interacted with you all this time. May your soul rest in peace! Lastly, my deep condolences to the Dan’s family.
