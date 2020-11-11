@@ -7,12 +7,12 @@ I thought it might be a good idea for us all to gather our thoughts, memories an
 ## Chris Aniszczyk
 
 I first met Dan as I was bootstrapping CNCF and we were entering our crazy growth phase and needed to expand the team. While Dan and I didn't always agree on everything,
-I had the pleasure of working with Dan on a daily basis the last few years cultivating CNCF and other LF projects. Dan was committed to building a global and diverse community, 
-he always took the time to chat with community members all over the world and ensured that CNCF was using its resources to uplift the community.  We spent many hours on the road 
+I had the pleasure of working with Dan on a daily basis the last few years cultivating CNCF and other LF projects. Dan was committed to building a global and diverse community,
+he always took the time to chat with community members all over the world and ensured that CNCF was using its resources to uplift the community.  We spent many hours on the road
 together away from family which can be tough for a father with young children. However, Dan always ensured that he would bring something back for the kids, or
 better yet, find a way to bring them along to involve them in the community like handing our swag at our event in India earlier this year. After CNCF, Dan's next
-project was establishing LF Public Health as a shared resource not just to fight COVID-19 but to combat future health crises. LFPH has already seen success and 
-is bringing the spirit of open source to global health authorities. 
+project was establishing LF Public Health as a shared resource not just to fight COVID-19 but to combat future health crises. LFPH has already seen success and
+is bringing the spirit of open source to global health authorities.
 
 I will miss our fun conversations and plans... while I have lost a close friend, we have also lost a tireless champion for open source across the world.
 
@@ -38,7 +38,7 @@ Thank you, Dan.
 
 ## Kim McMahon
 
-Dan had a massive positive influence on my life and career. He believed and fought for me when others would not. He is an amazing mentor to me and his advice and guidance is something I use every day. I am in an amazing career at an amazing company because of Dan and I can’t thank him enough. 
+Dan had a massive positive influence on my life and career. He believed and fought for me when others would not. He is an amazing mentor to me and his advice and guidance is something I use every day. I am in an amazing career at an amazing company because of Dan and I can’t thank him enough.
 
 Dan, as I, am an introvert in an extrovert field. I will never forget our almost-dinner at MWC in Barcelona. People were dropping out of going to the conference, but Dan and I were still going to go if the conference was held! I suggested we have dinner together. Dan told me that he doesn't really like people, so we would go to dinner together, sit at different tables in the same restaurant, and just read out books (or whatever). With us both being introverts - it was going to be the best dinner ever! :)
 
@@ -64,13 +64,13 @@ I worked w/ Dan on the foundations of the Linux Foundation Public Health. Even t
 
 Dan taught me by example on how to be a leader in an open source foundation, with his focus on putting the community first and always making sure the work output reflected how much he put that community first. He was one of the few that would reach out with words of encouragement as I was navigating the foundations I was leading, and always willing to jump in as a speaker or make connections to help the community thrive.
 
-Landscapes were one of his passions. I remember him helping me at a moments notice, proactively making adjustments and getting logos fixed to ensure it looked great ( along with the occasional lesson on SVG quality ;-) ). Even once it was launched, he would often get to pull requests faster than I could! I remember thanking him and telling him he didn't need to do that, and he told me "I enjoy it. It's the one part of my job that has clear outcomes." 
+Landscapes were one of his passions. I remember him helping me at a moments notice, proactively making adjustments and getting logos fixed to ensure it looked great ( along with the occasional lesson on SVG quality ;-) ). Even once it was launched, he would often get to pull requests faster than I could! I remember thanking him and telling him he didn't need to do that, and he told me "I enjoy it. It's the one part of my job that has clear outcomes."
 
 Dan - you are gone ( too soon ) but will never be forgotten.
 
 ## Julie Dam
 
-I met Dan in the summer of 2016. He was late to our appointment, having had a not-so-great briefing with a reporter who didn't seem to get what he was pitching. He was making the rounds, talking about Kubernetes and containers, and not everyone was ready to get on the bandwagon yet. He showed me the same deck that hadn't impressed that reporter and told me about his plans for CNCF, including holding big conferences around the world. 
+I met Dan in the summer of 2016. He was late to our appointment, having had a not-so-great briefing with a reporter who didn't seem to get what he was pitching. He was making the rounds, talking about Kubernetes and containers, and not everyone was ready to get on the bandwagon yet. He showed me the same deck that hadn't impressed that reporter and told me about his plans for CNCF, including holding big conferences around the world.
 
 That day, he took a chance on me, a former celebrity magazine editor, figuring that even if I didn't know what a cluster was, I knew how to tell a story. And his plans included having many end users with stories to tell.
 
@@ -97,7 +97,7 @@ For the world, CNCF, and Open Source community, Dan always had been an extraordi
 
 I only imagine that by now, in the afterlife, God and Dan having an intense brainstorming session about setting up a conference to make people happier, and bringing more joy to them.  And, that his phone buzzes with Slack message in my signature words "Hello Sir, How are you ? How is your day over there ?"
 
-I really miss you Dan. With tears and sadness. 
+I really miss you Dan. With tears and sadness.
 
 ## Eduardo Silva
 
@@ -127,7 +127,7 @@ Unlike others before me, I did not have the good fortune to know Dan or meet or 
 
 ## Haifeng Liu
 
-Dan is a great helper when I joined the CNCF board, and I will always remember the meetings with Dan in Beijing, Shanghai, and San Francisco. Dan, thank you again for your leadership in building the cloud native computing communities. You will be definitely missed. 
+Dan is a great helper when I joined the CNCF board, and I will always remember the meetings with Dan in Beijing, Shanghai, and San Francisco. Dan, thank you again for your leadership in building the cloud native computing communities. You will be definitely missed.
 
 ## Rick
 
@@ -149,11 +149,11 @@ Let's remember him kindly and keep his presence in our hearts.
 
 He always towered over me but I never felt small. That’s how I remember Dan.
 
-My first interaction with Dan was when he asked me to be a co-chair for KubeCon+CloudNativeCon in 2017. I worked closely with him and Kelsey Hightower on planning the events that year, the tracks, picking keynotes and sessions. While we were picking keynotes, Dan offered me a keynote slot. I think I indirectly said no to be honest thinking what in the world would I even say. Over the next few days, he brought it up repeatedly. I ended up taking that slot and doing so helped open opportunities in my career that did not previously exist but even more special to me, it gave me the confidence to share my opinions in any size room. 
+My first interaction with Dan was when he asked me to be a co-chair for KubeCon+CloudNativeCon in 2017. I worked closely with him and Kelsey Hightower on planning the events that year, the tracks, picking keynotes and sessions. While we were picking keynotes, Dan offered me a keynote slot. I think I indirectly said no to be honest thinking what in the world would I even say. Over the next few days, he brought it up repeatedly. I ended up taking that slot and doing so helped open opportunities in my career that did not previously exist but even more special to me, it gave me the confidence to share my opinions in any size room.
 
 I learned a lot about conference planning from that experience and I was always in awe at how Dan cared about the aesthetics as much as he cared about the content. From the conference venue to the keynote stage and the gift bags, he was excited to make each part beautiful. He actively sought advice on all aspects of the event. He was creative and always open to new ideas. He took feedback with no ego involved and no one executed the way Dan executed. Take a look at pictures of any keynote stage at any KubeCon+CloudNativeCon event for evidence.
 
-Shortly after completing my role as co-chair, I also became one of the two Developer Representatives on the CNCF Governing Board. I had never been on any board and being a software engineer, I felt sort of out of place amongst the VPs and CEOs sitting next to me at board meetings. Dan gave me the utmost respect and showed me the ropes. I have these mixed feelings now because there were times where I disagreed with him. Looking back, the way that he empowered me though even when I disagreed with him was incredible. He always gave me the platform to voice my opinions on the board and in all settings. 
+Shortly after completing my role as co-chair, I also became one of the two Developer Representatives on the CNCF Governing Board. I had never been on any board and being a software engineer, I felt sort of out of place amongst the VPs and CEOs sitting next to me at board meetings. Dan gave me the utmost respect and showed me the ropes. I have these mixed feelings now because there were times where I disagreed with him. Looking back, the way that he empowered me though even when I disagreed with him was incredible. He always gave me the platform to voice my opinions on the board and in all settings.
 
 Dan fought hard to make the foundation and the conference places where the people and the projects in the community could flourish and places that were safe and inclusive. He made it public that he supported all people. He never hesitated to take a stand. He did the same thing behind the scenes too. It was admirable to see Dan in board meetings not afraid to propose, defend, and execute bold investments to increase diversity and inclusion in the CNCF.
 
@@ -181,7 +181,7 @@ I met Dan shortly after he became Executive Director at the CNCF. His influence 
 
 More importantly to me personally was the way Dan set an example for folks around him. He showed people that you can be kind, understanding, open minded and sensitive while still being frank, fierce and driven in business. I was very happy to be in his orbit and have sympathy for anyone who may have had to compete with him. As driven as he was, he always had time for CNCF members and, really, people in general. You didn't have to be the CEO of X, Y or Z to get a kind, encouraging word from Dan or a minute of his time. He was always out front, one step ahead, and yet open to sharing his views and insight with everyone.
 
-We could use more people in this world with Dan's outstanding character, intellect and kindness. I missed him the day he left the CNCF and will miss him so much more now. 
+We could use more people in this world with Dan's outstanding character, intellect and kindness. I missed him the day he left the CNCF and will miss him so much more now.
 
 ## Liz Rice
 
@@ -198,3 +198,13 @@ As other folks have mentioned, Dan really was the driving force behind diversity
 This year it was amazing to see his determination in building LF Public Health. He had it up and running in such a short time, convincing people, projects and health partners to work together under the LF umbrella. Yet another example of how Dan made a positive impact on the world.
 
 Thank you, Dan.
+
+## Reda Benzair
+
+Words can’t express how saddened, I was to hear our loss. Dan had incredible an impact on the open-source community, introducing the diversity and the equity, he revolutionized. When we look a the way run through all the difficulties and challenges, we can only say thank you Dan.
+
+In 2016 when I and my colleagues had decided to open source our internal tools, Kubespray, we started looking how we can contribute more to the community. I first met Dan and Chris over a call to understand the CNCF vision and discuss how we can help.He was an Open mind to us, great support, and help us to create the CNCF France.
+
+I had met Dan Kohn personally at every KubeCon. Every time he was kind he take time to discuss and listen to us, he was grateful for our effort thanked me for the work we were doing, and our effort to spread the CNCF vision in France.
+
+My deepest thoughts, prayers, and condolences are with his family.
