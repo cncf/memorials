@@ -228,4 +228,14 @@ I am saddened by Dan's passing, and it brings to mind one of my own adventures w
 I didn't always agree with Dan, but I also never questioned his commitment to finding sustainable pathways for open source within the broader corporate world; the open source world is worse for having lost him.  And beyond his technical contribution, Dan was unfailingly decent:  my heart goes out to his family, who has prematurely lost a devoted husband and father.
 
 ## Deepak Vij
+
 Dan was Mr. CNCF. Under Dan’s tutelage, CNCF is where it is today, one of the most successful open source foundation. Dan was one of the nicest gentleman I have met. Always extremely supportive and went out of his way to make things happen. Dan, you will be sorely missed by everyone. It was an honor to have interacted with you all this time. May your soul rest in peace! Lastly, my deep condolences to Dan’s family.
+
+## Ricardo Aravena
+
+I was shocked and very saddened to learn of Dan's passing.
+
+I first saw Dan speak at KubeCon Berlin 2017 and many other CNCF events in recent years.  It was great to meet Dan in person in Seoul last year at one of the conferences, and I can say that his presence and leadership in the CNCF and Linux Foundation were vital to making them thriving and inclusive communities.
+
+The world has lost a powerful force for diversity in tech, open source software and its ecosystem. Thank you, Dan. We'll miss you and my thoughts and prayers are with your family.
+
