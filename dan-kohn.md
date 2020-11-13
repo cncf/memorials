@@ -254,3 +254,10 @@ You will continue to inspire us...
 Thank You
 SODA Foundation
 
+## Frederick Kautz
+
+I had the fortune of working closely with Dan on various projects for the past several years. First, establishing a Telecom strategy for the CNCF, then with the LFPH, helping develop its initial direction and organizing potential new companies to join.  While we didn't always agree on an approach, he would spend the time to share and receive feedback gently. He was thoughtful about his delivery and made the time to make sure others would benefit personally and professionally.
+
+Despite his high impact and towering presence in the community, he was always the most humble person in the room. Instead, his real pride and joy was his family. In our private conversations, he never missed an opportunity to say something nice about his sons.
+
+His departure profoundly saddens me, and we will deeply miss him.
