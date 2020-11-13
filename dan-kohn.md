@@ -239,6 +239,21 @@ I first saw Dan speak at KubeCon Berlin 2017 and many other CNCF events in recen
 
 The world has lost a powerful force for diversity in tech, open source software and its ecosystem. Thank you, Dan. We'll miss you and my thoughts and prayers are with your family.
 
+## Steven Tan @SODAFoundation
+
+I have known Dan since 2016. Our encounters these past few years look like a round-the-world chase - Austin, Barcelona, Beijing, Bengaluru, Berlin, Half Moon Bay, Lake Tahoe, Lyon, Prague, San Diego, Seoul, Shenzhen, Tokyo, ... and Dan made himself available, no matter how impossible his schedule might be. He possesses so many positive traits behind that big friendly smile. He is the gentle giant we wish we have as a friend. Rest well my friend.
+
+On behalf of SODA Foundation...
+
+You believed in us when all we had was an idea.
+You encouraged us when the going got tough.
+You guided us when we got lost.
+You inspired us.
+You will continue to inspire us...
+
+Thank You
+SODA Foundation
+
 ## Frederick Kautz
 
 I had the fortune of working closely with Dan on various projects for the past several years. First, establishing a Telecom strategy for the CNCF, then with the LFPH, helping develop its initial direction and organizing potential new companies to join.  While we didn't always agree on an approach, he would spend the time to share and receive feedback gently. He was thoughtful about his delivery and made the time to make sure others would benefit personally and professionally.
