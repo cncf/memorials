@@ -261,3 +261,20 @@ I had the fortune of working closely with Dan on various projects for the past s
 Despite his high impact and towering presence in the community, he was always the most humble person in the room. Instead, his real pride and joy was his family. In our private conversations, he never missed an opportunity to say something nice about his sons.
 
 His departure profoundly saddens me, and we will deeply miss him.
+
+## Amye Scavarda Perrin
+A lot of people have told stories about Dan on stage or at conferences.
+Let me tell you a story about working with Dan. 
+I had just joined CNCF and was finding my feet with helping the SIGs get up and running, and there were a lot of moving parts. 
+I don't know if people have told you this, but Dan was Particular about how things were run. 
+I was always a bit on my feet about making sure we were moving in a direction that was aligned with the organization, even on the smallest pieces. 
+
+One October morning, I woke up to a message from Dan. 
+
+"Amye, we have one sacred rule for creating new GitHub repos. Puns must be involved." 
+
+
+That was Dan. 
+That was Dan, every day. 
+That's his care for community, the care for the smallest things, and making sure you understood who you were being in community as we helped everyone move forward. 
+Thanks, friend. 
