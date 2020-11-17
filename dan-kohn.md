@@ -4,6 +4,8 @@ Dear community and friends,
 
 I thought it might be a good idea for us all to gather our thoughts, memories and stories of Dan and what he meant to us in one place.
 
+If you would like donate to a scholarship fund for his family, visit https://www.linuxfoundation.org/in-memoriam-dan-kohn/
+
 ## Chris Aniszczyk
 
 I first met Dan as I was bootstrapping CNCF and we were entering our crazy growth phase and needed to expand the team. While Dan and I didn't always agree on everything,
