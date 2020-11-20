@@ -280,3 +280,7 @@ That was Dan.
 That was Dan, every day. 
 That's his care for community, the care for the smallest things, and making sure you understood who you were being in community as we helped everyone move forward. 
 Thanks, friend. 
+
+## Andrew Randall
+
+Dan had an outsized impact on so many of us. The community he built, that I was part of, is a legacy that most of us can only aspire to. Despite everything he had achieved, he was remarkably down-to-earth; he had a knack for putting everyone around him at ease, making you feel genuinely welcomed with a ready smile and laugh (that laugh!). It was a privilege to have known Dan, and been a small part of his life journey. Godspeed, Dan.
