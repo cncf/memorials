@@ -284,3 +284,9 @@ Thanks, friend.
 ## Andrew Randall
 
 Dan had an outsized impact on so many of us. The community he built, that I was part of, is a legacy that most of us can only aspire to. Despite everything he had achieved, he was remarkably down-to-earth; he had a knack for putting everyone around him at ease, making you feel genuinely welcomed with a ready smile and laugh (that laugh!). It was a privilege to have known Dan, and been a small part of his life journey. Godspeed, Dan.
+
+## Saiyam Pathak
+
+I met Dan for the first time this year when he came to India with his kids, I have talked to him on slack a few times and he has always motivated me, answered my queries and always encouraged me to do better. The things that he did for CNCF is remarkable due to which it has grown to become the best. His work has always inspired everyone to be a better human being.
+Thank you, Dan.
+
