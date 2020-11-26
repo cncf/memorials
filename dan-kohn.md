@@ -290,3 +290,7 @@ Dan had an outsized impact on so many of us. The community he built, that I was 
 I met Dan for the first time this year when he came to India with his kids, I have talked to him on slack a few times and he has always motivated me, answered my queries and always encouraged me to do better. The things that he did for CNCF is remarkable due to which it has grown to become the best. His work has always inspired everyone to be a better human being.
 Thank you, Dan.
 
+## Lin Sun
+
+I met Dan the first time in person at KubeCon EU 2019 in Barcelona. I was super surprised that he was truly friendly and approachable as a senior executive. Later that year, I met Dan again in person at the open source summit NA 2019 in San Diego, along with his beautiful wife and kids. Dan is such a positive person and always willing to help when I have any questions about CNCF. It was a priviledge to have known Dan and Dan inspired me to be humble, approachable and welcoming when interacting with others. Thank you, Dan. 
+
