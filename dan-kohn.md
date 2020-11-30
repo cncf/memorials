@@ -294,3 +294,6 @@ Thank you, Dan.
 
 I met Dan the first time in person at KubeCon EU 2019 in Barcelona. I was super surprised that he was truly friendly and approachable as a senior executive. Later that year, I met Dan again in person at the open source summit NA 2019 in San Diego, along with his beautiful wife and kids. Dan is such a positive person and always willing to help when I have any questions about CNCF. It was a priviledge to have known Dan and Dan inspired me to be humble, approachable and welcoming when interacting with others. Thank you, Dan. 
 
+## Mark Shan
+
+Miss you, always, your passion and your smile.
