@@ -297,3 +297,7 @@ I met Dan the first time in person at KubeCon EU 2019 in Barcelona. I was super 
 ## Mark Shan
 
 Miss you, always, your passion and your smile.
+
+## Runcy Oommen
+
+Dan goes the extra mile in helping and caring for the people and communities. I would like to recall an incident in mid 2019 where we (GDG Cloud, Bangalore) were looking for a large enough venue to host the upcoming DevFest conference scheduled later that year. Having attended Kubernetes Day India held at Infosys earlier in 2019, where I really liked the arrangements made, I just shot an email to Nikhita (K8s contributor) who connected me to Dan. He just replied on top of the email connecting me to the Infosys facility head and helped me with the venue setup and eventually conducting the event. What I wanted to convey is, Dan reached out to help anyone and everyone even if he had not physically met or connected with that person or even if the event had any connection whatsoever with CNCF. He was a true champion for making tech communities better everywhere. Thank you so much Dan!
