@@ -297,3 +297,12 @@ I met Dan the first time in person at KubeCon EU 2019 in Barcelona. I was super 
 ## Mark Shan
 
 Miss you, always, your passion and your smile.
+
+## John Opiyo Adamsy
+I had shared a **#KubeCon** wish via a tweet. I received a response almost immediately the same day;  https://twitter.com/dankohn1/status/990304786313633793?s=20 from the other far corner of the world. This was in April of 2018. My first and only encounter with Dan. I had never met Dan and he never new me. I felt his kindness from right there and then. It was really sad to find out early this year of his departure. We do miss you intensely. 
+
+Thank you. 
+Thank you for inspiring so many people around the world. 
+Thank you for your great work in tech.
+My thoughts and prayers are with your family. 
+Rest well Dan. 
