@@ -303,6 +303,7 @@ Miss you, always, your passion and your smile.
 Dan goes the extra mile in helping and caring for the people and communities. I would like to recall an incident in mid 2019 where we (GDG Cloud, Bangalore) were looking for a large enough venue to host the upcoming DevFest conference scheduled later that year. Having attended Kubernetes Day India held at Infosys earlier in 2019, where I really liked the arrangements made, I just shot an email to Nikhita (K8s contributor) who connected me to Dan. He just replied on top of the email connecting me to the Infosys facility head and helped me with the venue setup and eventually conducting the event. What I wanted to convey is, Dan reached out to help anyone and everyone even if he had not physically met or connected with that person or even if the event had any connection whatsoever with CNCF. He was a true champion for making tech communities better everywhere. Thank you so much Dan!
 
 ## John Opiyo Adamsy
+
 I had shared a **#KubeCon** wish via a tweet. I received a response almost immediately the same day;  https://twitter.com/dankohn1/status/990304786313633793?s=20 from the other far corner of the world. This was in April of 2018. My first and only encounter with Dan. I had never met Dan and he never new me. I felt his kindness from right there and then. It was really sad to find out early this year of his departure. We do miss you intensely. 
 
 Thank you. 
@@ -310,3 +311,8 @@ Thank you for inspiring so many people around the world.
 Thank you for your great work in tech.
 My thoughts and prayers are with your family. 
 Rest well Dan.
+
+## Jose Barahona    
+
+I meet him in person by change in some OSSUMMIT, he gave me some pointers for me career that have change my life for good, surely will be miss.
+
