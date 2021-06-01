@@ -19,3 +19,14 @@ We lost an extraordinary Kubernetes contributor from India. Will miss you, frien
 Peeyush was a great contributpr to the Kubernetes community and my good friend. We used to discuss a lot of open source initiatives, hcktoberfest streams etc.
 He was also there with me on the APAC Coordinators team and always willing to do and contribute more. We did a stream together, we used to talk for all the Kubernetes activities happening in India and how cn we amplify that, make it better. 
 Really sad that I lost a good friend and a great human being. Going to miss him a lot.
+
+## Ashutosh Kumar
+
+Peeyush was a wonderful person and an extraordinary contributor to open-source 
+projects and communities. He helped with many crucial contributions in
+the OpenEBS project too. We had a couple of great discussions around open source,
+community, etc. I can't forget his outstanding welcome of mine in one of the
+Hacktoberfest streams. Thank you Peeyush for your outstanding contributions. We
+lost a fantastic human being and contributor from India. You will be missed.
+
+        
