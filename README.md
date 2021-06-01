@@ -6,3 +6,4 @@ This area is intended to rejoice in them, their contributions, and to keep their
 
 * [Bradley Childs](bradley-childs.md)
 * [Dan Kohn](dan-kohn.md)
+* [Peeyush Gupta](peeyush-gupta.md)
