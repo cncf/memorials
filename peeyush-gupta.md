@@ -29,4 +29,6 @@ community, etc. I can't forget his outstanding welcome of mine in one of the
 Hacktoberfest streams. Thank you Peeyush for your outstanding contributions. We
 lost a fantastic human being and contributor from India. You will be missed.
 
-        
+## Manoj Kumar
+
+Peeyush and I worked together at IBM.  Though we worked in different geographies, it was easy to colloborate with him. He was a active community contributor keeping our IBM platforms relevant in a lot of spaces. He also eager to lend others a helping hand. Eventually I did to meet him in person during Kubecon, and got to hang out with him for a bulk of that week.  Will miss you.
