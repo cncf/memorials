@@ -32,3 +32,9 @@ lost a fantastic human being and contributor from India. You will be missed.
 ## Manoj Kumar
 
 Peeyush and I worked together at IBM.  Though we worked in different geographies, it was easy to colloborate with him. He was a active community contributor keeping our IBM platforms relevant in a lot of spaces. He also eager to lend others a helping hand. Eventually I did to meet him in person during Kubecon, and got to hang out with him for a bulk of that week.  Will miss you.
+
+## Manjunath Kumatagi
+
+I worked with Peeyush at IBM, shared the same project and cubicle for 4+ years. Helped us making ppc64le platform supported in many cloud opensource projects and also one of the active opensource contributor. We just lost a great human being and a good friend. I'm going to miss him for sure.
+
+May God give enough strength to the family to bear the irreparable loss, Rest in peace.
