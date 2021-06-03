@@ -38,3 +38,7 @@ Peeyush and I worked together at IBM.  Though we worked in different geographies
 I worked with Peeyush at IBM, shared the same project and cubicle for 4+ years. Helped us making ppc64le platform supported in many cloud opensource projects and also one of the active opensource contributor. We just lost a great human being and a good friend. I'm going to miss him for sure.
 
 May God give enough strength to the family to bear the irreparable loss, Rest in peace.
+
+## Kiran Mova
+
+Peeyush had one of the most wonderful and friendly smiles that he graciously shared with anyone that he met. His smiling demeanor made all the difference in helping the first-timers to Bangalore Meetups feel at ease. I met him at one such event and he remained a constant source of inspiration in helping the Bangalore community grow. It was awesome to see his open-source trajectory from being a contributor to organizing Hacktoberfests and becoming a core maintainer on the projects. He was a living example of an individual who put community before company. I still can't believe that - just a couple of weeks before the loss hit, he was helping us with preparing for BugBash for the KubeCon EU. His sudden loss has left me rattled. I truly wish that all the goodness that he offered to the world can help in providing the much-required strength and support to the loved ones he left behind. Rest in peace. 
