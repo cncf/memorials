@@ -51,3 +51,8 @@ Peeyush had one of the most wonderful and friendly smiles that he graciously sha
 ## Vineeth Pothulapati
 
 Peeyush was an amazing person and great energy in the community. I still remember talking to him about his new role last year. I could see the passion in all his work, sense of committment and always an helping hand in the community. He helped many individuals in getting started with CNCF. Will miss you friend, Rest in peace.  
+
+## Kunal Kushwaha
+
+I used to meet Peeyush every week on Friday in the Marketing meeting. He was one of the first people who helped me in starting with my contributions. He was very welcoming to everyone in the Open Source community and was also my team lead for Kubernetes 1.22. I was excited to work with him during this cycle. I am going to miss him. Gone too soon, may God bless you. Rest in peace.
+
