@@ -48,5 +48,11 @@ May God give enough strength to the family to bear the irreparable loss, Rest in
 
 Peeyush had one of the most wonderful and friendly smiles that he graciously shared with anyone that he met. His smiling demeanor made all the difference in helping the first-timers to Bangalore Meetups feel at ease. I met him at one such event and he remained a constant source of inspiration in helping the Bangalore community grow. It was awesome to see his open-source trajectory from being a contributor to organizing Hacktoberfests and becoming a core maintainer on the projects. He was a living example of an individual who put community before company. I still can't believe that - just a couple of weeks before the loss hit, he was helping us with preparing for BugBash for the KubeCon EU. His sudden loss has left me rattled. I truly wish that all the goodness that he offered to the world can help in providing the much-required strength and support to the loved ones he left behind. Rest in peace. 
 
+## Vineeth Pothulapati
+
+Peeyush was an amazing person and great energy in the community. I still remember talking to him about his new role last year. I could see the passion in all his work, sense of committment and always an helping hand in the community. He helped many individuals in getting started with CNCF. Will miss you friend, Rest in peace.  
+
 ## Kunal Kushwaha
+
 I used to meet Peeyush every week on Friday in the Marketing meeting. He was one of the first people who helped me in starting with my contributions. He was very welcoming to everyone in the Open Source community and was also my team lead for Kubernetes 1.22. I was excited to work with him during this cycle. I am going to miss him. Gone too soon, may God bless you. Rest in peace.
+
