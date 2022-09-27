@@ -8,7 +8,7 @@ https://twitter.com/K8sContributors/status/1574809587785601024
 
 Please add your contribution below via a pull request. 
 
-Also, please consider donating to: TBD
+Also, please consider donating to: https://everloved.com/life-of/cody-crudgington/
 
 ## Chris Aniszczyk
 
