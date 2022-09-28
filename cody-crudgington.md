@@ -6,7 +6,7 @@ I thought it might be a good idea for us all to gather our thoughts, memories an
 
 https://twitter.com/K8sContributors/status/1574809587785601024
 
-Please add your contribution below via a pull request. 
+Please add your contribution below via a pull request.
 
 Also, please consider donating to: https://everloved.com/life-of/cody-crudgington/
 
@@ -17,8 +17,9 @@ I had the honor of working with Cody in the Austin Kubernetes community where we
 You will be missed, rest in peace.
 
 ## Marky Jackson
-I knew Cody from some Red Hat channel partners, we also both went on to work at Sysdig together. 
-I was close with Cody. We shared a lot of the same passions for cooking and family. Our bond was really formed over sharing our wins and loses.
+
+I knew Cody from some Red Hat channel partners, we also both went on to work at Sysdig together.  
+I was close with Cody. We shared a lot of the same passions for cooking and family. Our bond was really formed over sharing our wins and loses.  
 I will miss you Cody, everyday. I look forward to hugging you again brother.
 
 ## Seth McCombs
@@ -32,3 +33,13 @@ Cody was one of those people that made the open source world feel like a real co
 My best memories of Cody are of a lot of great times at conferences, and hanging out on zoom way too late into the night after Kubernetes Atlanta meetups.
 
 He'll be missed.
+
+## Chris Short
+
+Cody and I spoke at length at KubeCon L.A. last year. We surprisingly had a lot more in common than either of us realized. Both of us had older daughters and younger sons. Our virtual encounters were almost as extraordinary as our real-life ones.
+
+A story about Cody's selflessness and desire to make the world a better place: at KubeCon L.A., I met a friend for lunch earlier in the week who helps veterans. She asked if I could muster some attention for local homeless veterans (social media was easy, but Cody took it to another level). When I told Cody about it later that day, he said he'd come with me if I could break away from the conference. We'd meet her at the local VA to hand out supplies and assist with housing homeless veterans who were about to be removed by the same VA that is supposed to support them. He didn't hesitate, saying, "If you can get us a ride, I'll go with you." We didn't end up going due to work needs and logistics issues, but I wish we had gone and pushed work aside now.
+
+Cody was a good person and would drop everything to help folks who needed it.
+
+He will be truly missed.
