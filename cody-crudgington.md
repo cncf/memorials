@@ -48,3 +48,7 @@ He will be truly missed.
 
 Cody was one of the smartest and kindest humans I've ever met. 
 His enthusiasm, energy and willingness to help others were shining in everything he did. We first met at one of the KubeCons and stayed in touch since then, he was always an inspiration and a true gem. I will miss him a lot.  
+
+## Rey Lejano
+
+I got to know Cody while working on the 2021 Kubernetes contributor awards we co-presented together. Throughout meetings leading up to the contributor celebration, as we gathered award nominees and prepared for the presentation, we got to know each other. We talked a lot about family and life transitions. At that time, my partner and I were expecting a son. Cody shared some experiences as a father that eased my anxiousness. Contributor Summits won't be the same without Cody.
