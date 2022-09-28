@@ -20,3 +20,12 @@ You will be missed, rest in peace.
 I knew Cody from some Red Hat channel partners, we also both went on to work at Sysdig together. 
 I was close with Cody. We shared a lot of the same passions for cooking and family. Our bond was really formed over sharing our wins and loses.
 I will miss you Cody, everyday. I look forward to hugging you again brother.
+
+
+## Alex Barnes
+
+Cody was one of those people that made the open source world feel like a real community. I was talking with Marky and told him "I don't even know how I met Cody, he was just always around". He was always there, always making everyone feel welcome. He was easy to be around, and easy to feel at ease with. The kind of person that is the glue that holds the community together.
+
+My best memories of Cody are of a lot of great times at conferences, and hanging out on zoom way too late into the night after Kubernetes Atlanta meetups.
+
+He'll be missed.
