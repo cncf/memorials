@@ -43,3 +43,8 @@ A story about Cody's selflessness and desire to make the world a better place: a
 Cody was a good person and would drop everything to help folks who needed it.
 
 He will be truly missed.
+
+## Mars Toktonaliev
+
+Cody was one of the smartest and kindest humans I've ever met. 
+His enthusiasm, energy and willingness to help others were shining in everything he did. We first met at one of the KubeCons and stayed in touch since then, he was always an inspiration and a true gem. I will miss him a lot.  
