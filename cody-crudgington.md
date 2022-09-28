@@ -21,6 +21,9 @@ I knew Cody from some Red Hat channel partners, we also both went on to work at 
 I was close with Cody. We shared a lot of the same passions for cooking and family. Our bond was really formed over sharing our wins and loses.
 I will miss you Cody, everyday. I look forward to hugging you again brother.
 
+## Seth McCombs
+
+I had the immense pleasure of working with Cody while I was at Sysdig. Throughout my time there, both at work and outside, he was an amazing friend. A rock to hold you down when things got rough, and always just willing to listen. We met at KubeCon San Diego before I even worked at Sysdig, and he made sure that if there was ever a moment that weekend I needed someone to hang out with, something to do, someone to help, he was there. We'd never met before, and he opened his heart to make sure that I was welcomed to the fold, without a second glance. We kept in touch here and there after we both found new jobs, he was always checking in to make sure his friends were ok. He was a genuine human being, and I count myself so so lucky to have known him.
 
 ## Alex Barnes
 
