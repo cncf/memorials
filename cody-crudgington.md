@@ -58,3 +58,8 @@ He would volunteer to help what most people call "the little things" at KubeCons
 The mood always got better when he showed up and it always subconcisouly reminded us to just have fun with what we're doing. 
 
 I don't even remember how I met him it was like the universe randomly assigned him to make us all better and he had been there the whole time.
+
+## Rey Lejano
+
+I got to know Cody while working on the 2021 Kubernetes contributor awards we co-presented together. Throughout meetings leading up to the contributor celebration, as we gathered award nominees and prepared for the presentation, we got to know each other. We talked a lot about family and life transitions. At that time, my partner and I were expecting a son. Cody shared some experiences as a father that eased my anxiousness. Contributor Summits won't be the same without Cody.
+
