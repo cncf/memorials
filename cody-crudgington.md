@@ -63,3 +63,10 @@ I don't even remember how I met him it was like the universe randomly assigned h
 
 I got to know Cody while working on the 2021 Kubernetes contributor awards we co-presented together. Throughout meetings leading up to the contributor celebration, as we gathered award nominees and prepared for the presentation, we got to know each other. We talked a lot about family and life transitions. At that time, my partner and I were expecting a son. Cody shared some experiences as a father that eased my anxiousness. Contributor Summits won't be the same without Cody.
 
+## Jim Angel
+
+Cody had special a gift of bringing people together. Cody had this magic ability to make you feel like the coolest, most welcomed, person in the room. He would always would greet me with a giant hug (that I would have to stand on my toes for lol). Whenever we were out, he'd ensure that everyone knew everyone and introduce those that didn't. Usually that would include an over-the-top story or two about the person being introduced.
+
+I met Cody when we revamped the Austin local Kubernetes meetup. He lived not too far from me, and we'd chat at lengths about the community and how to improve the meetup. Cody's ability to get stuff done and connect people was incredible.
+
+Cody was taken from us way too soon. Miss ya! ❤️
