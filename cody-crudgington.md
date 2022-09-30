@@ -70,3 +70,9 @@ Cody had special a gift of bringing people together. Cody had this magic ability
 I met Cody when we revamped the Austin local Kubernetes meetup. He lived not too far from me, and we'd chat at lengths about the community and how to improve the meetup. Cody's ability to get stuff done and connect people was incredible.
 
 Cody was taken from us way too soon. Miss ya! ❤️
+
+## Ader Fu
+
+Cody is a warm and friendly person. When I think about his contribution to the community, I want to say thank you to him.
+
+I will continue to work hard to contribute to the community.
