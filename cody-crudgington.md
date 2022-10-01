@@ -76,3 +76,10 @@ Cody was taken from us way too soon. Miss ya! ❤️
 Cody is a warm and friendly person. When I think about his contribution to the community, I want to say thank you to him.
 
 I will continue to work hard to contribute to the community.
+
+## Sarah Corleissen
+
+I got to know Cody through SIG Docs. He was such a warm, caring soul. He made a point to
+build up the people around him, and he made the Kubernetes community better for his presence.
+I remember meeting him in San Diego and seeing how his big, friendly grin was even more
+genuine in person. He made the world better. I miss him so much. 
