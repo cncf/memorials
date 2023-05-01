@@ -12,6 +12,10 @@ Carolyn was an amazing friend, both at work and outside. 2020 was a really tough
 
 Rest in peace, Carolyn. 🌈 ✨
 
+## Lachlan Evenson
+
+Carolyn was a great friend and colleague and will be dearly missed. Carolyn's dedication to the open source community was inspiring. She worked tirelessly to make sure that everyone felt welcome and included. Simply put, we have Carolyn to thank for open source communities being as inclusive and welcoming to contributors as they are today. I have no doubt that her legacy will live on through cloud native projects and communities. It's been my honor to work alongside Carolyn; she was one of the best engineers I've ever had the opportunity to work with. Her technical acumen, dedication to process, and thoroughness were things that I always admired about her and am thankful that I was able to be part of. She was always willing to help out and was a great mentor to many. I will miss her dearly. My thoughts are with her family and friends through this difficult season.
+
 
 
   
