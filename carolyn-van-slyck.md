@@ -16,6 +16,10 @@ Rest in peace, Carolyn. 🌈 ✨
 
 Carolyn was a great friend and colleague and will be dearly missed. Carolyn's dedication to the open source community was inspiring. She worked tirelessly to make sure that everyone felt welcome and included. Simply put, we have Carolyn to thank for open source communities being as inclusive and welcoming to contributors as they are today. I have no doubt that her legacy will live on through cloud native projects and communities. It's been my honor to work alongside Carolyn; she was one of the best engineers I've ever had the opportunity to work with. Her technical acumen, dedication to process, and thoroughness were things that I always admired about her and am thankful that I was able to be part of. She was always willing to help out and was a great mentor to many. I will miss her dearly. My thoughts are with her family and friends through this difficult season.
 
+## Matt Butcher
 
+Carolyn and I were on the same team during the worst of the covid pandemic. Mid-lockdown, we were all emotionally spent. Carolyn worked hard to create an online environment of support for the team. She was quick to be there for her teammates (including me) even when she was herself drained and dispirited. We chatted about favorite ramen at our team virtual lunch. She whooped everyone during team trivia. And she modeled and invited vulnerability as the team walked the covid path together.
 
-  
+Carolyn was an exceptional engineer. I have often told the story of how she came up with the idea for Porter in the middle of a team offsite. While the rest of us were all going down another path, she hit a moment of insight and shared it. It was brilliant. And we pivoted. Carolyn also displayed a profound passion for community. While she built more than a few successful ones, her real passion was making community building into a repeatable practice.
+
+Thank you, Carolyn, for all you did for me, for your team, and for the community.
