@@ -64,4 +64,7 @@ Carolyn had a heart of gold and kindness that was on another level. It shined th
 
 We had some deep personal and professional conversations over the years that I will cherish forever. I love open source because of people like Carolyn. I will never stop advocating for the maintainer; Carolyn didn't intend to stop either. I'm still in disblief that I'm typing this. She was far too young and just not done yet. In honor of Carolyn, lets all take care of each other, be kinder to the newcomer in open source, mentor people around us, and write those docs. So much love, Carolyn <3
 
+## Chris Aniszczyk
+
+Carolyn was a tour de force when it came to welcoming new folks in the cloud native community on top of being a strong project maintainer awarded for her amazing efforts. Her work in growing TAG Contributor Strategy is something I deeply admired and reflects the best of the cloud native community in my opinion. I always appreciated conversations with her she will be missed dearly.
 
