@@ -103,3 +103,11 @@ I just now realized how much of a privilege it was to call Carolyn a friend.... 
 She was a true leader of Women Who Go where she was there to support everybody in every way. From proposing an awesome emoji set to getting financial support for setting up a chapter she did it all. A driving force that will be greatly missed…
 
 We will all miss you very much Carolyn 🌈🦄✨.
+
+## Carmen Andoh
+
+Carolyn so deeply cared about every single community she was in. She brought empathy, inclusivity, and access to an open source ecosystem that needed it. A true heart of gold. 
+
+A little known fact about Carolyn: she would spend her own money helping many people to travel to and attend Go conferences who would otherwise not be able to afford it. Many of the individuals she silently sponsored were able to get access to opportunities as a result. She also didn't want to be publicly commended for this, at it was just her way.  I commend her now, and will endeavor to honor her memory by embodying that same spirit of generosity and selflessness. 
+
+Thank you Carolyn. You will be missed. 💛💛💛  
