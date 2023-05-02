@@ -104,6 +104,14 @@ She was a true leader of Women Who Go where she was there to support everybody i
 
 We will all miss you very much Carolyn 🌈🦄✨.
 
+## Carmen Andoh
+
+Carolyn so deeply cared about every single community she was in. She brought empathy, inclusivity, and access to an open source ecosystem that needed it. A true heart of gold. 
+
+A little known fact about Carolyn: she would spend her own money helping many people to travel to and attend Go conferences who would otherwise not be able to afford it. Many of the individuals she silently sponsored were able to get access to opportunities as a result. She also didn't want to be publicly commended for this, at it was just her way.  I commend her now, and will endeavor to honor her memory by embodying that same spirit of generosity and selflessness. 
+
+Thank you Carolyn. You will be missed. 💛💛💛  
+
 ## Alex Jones
 
 My interactions with Carolyn were only just starting and I admired her activities within the community in so many ways. I felt inspired by her drive to make the community a better place and her ability to bring people together. 
@@ -127,3 +135,4 @@ You will be missed, Carolyn. ✨
 ## Catherine Paganini
 
 Carolyn was an active and beloved member of our community. Dedicated and hardworking, she was always willing to lend a helping hand. Her commitment to providing open source projects with the tools they need to succeed played a crucial role in developing the TAG-CS Contributor Growth Working Group. Despite her many accomplishments, Carolyn remained humble and always eager to share her experiences and lessons learned with others. She was a wonderful human being, and her passing is a great loss to the entire community. We will greatly miss her 💔
+
