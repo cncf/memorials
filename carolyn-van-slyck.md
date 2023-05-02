@@ -83,3 +83,10 @@ Carolyn always advocate OSS community culture and cloud native community events 
 ## Chris Lentricchia
 
 I was just reviewing some reimbursed reciepts from you yesterday while filing Operation Dvoretskyi's taxes, so I'm not quite sure what to say right now. This all a bit sudden, so I guess I'll keep it brief: I didn't know you that well beyond Operation Dvoretskyi's business. If someone asked me what your favorite food - or color - was, I'd have no idea. I've been guilty of not stopping to smell the roses, so maybe that's my fault. What I do know is that you helped us out of the kindness of your heart, and that speaks to your character and told me all I really needed to know. I think everyone meets their judgement day in some form, where they're reminded of the good they did in the world, or the hurt they've caused to others. You helped a lot of people - some that that you'd never even met yourself - I have about $800.00 in Windows 11 licenses that you bought with your employee discount to prove it. I hope you were reminded of that. Thanks for being there, Carolyn.
+
+## Brendan Burns
+
+I enjoyed every single interaction I ever had with Carolyn. She was endlessly enthusiastic, friendly and interested in both technical problems and the best way
+to build things that others would find useful. In other words the ideal member of a team and of the broader open source community. I've known here from the
+early days of service catalog all the way through her recent work on Porter and CNAB. I'm grateful for all of her contributions to cloud native and open source
+on Azure. You will be missed.
