@@ -30,3 +30,7 @@ Carolyn is the best human I know; for me that present tense will last a long tim
 Later, she joined the team I work with more directly. What I discovered was a caring, intelligent person who believed not that "I" as a dev or PM should be able to use these tools; she cared that anyone, literally anyone at all with the motivation could use those tools. And even more, she cared that anyone could enter the tool community and learn how to use and build and contribute and even just chat about the tools. Carolyn wasn't a gifted ux person for software; she was a gifted ux person for people. I used to think I was the most open-minded, welcoming person to new tools, new ecosystems -- the user is always right!
 
 No, I discovered, that wasn't enough. For her, the good-faith humans are always right. And that approach extended to every conversation I eventually had with her, about the world, this crap we call living, family, friends, you name it. I will carry Carolyn with me everywhere I go, because she fundamentally changed who I am for the better by being the model she was. It's hard to bear her loss. I sure I'm one of many.
+
+## Josh Gavant
+
+I just talked with Carolyn a couple weeks ago about building the Chicago cloud community - I suppose that's a fitting ending with someone that was always committed to supporting others. She was a consistent, helpful partner when we introduced Go on Azure. Her commitment to helping others and supporting the broader community inspired and taught me a lot. She will be missed.
