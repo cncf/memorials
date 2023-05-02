@@ -140,3 +140,6 @@ You will be missed, Carolyn. ✨
 
 Carolyn was an active and beloved member of our community. Dedicated and hardworking, she was always willing to lend a helping hand. Her commitment to providing open source projects with the tools they need to succeed played a crucial role in developing the TAG-CS Contributor Growth Working Group. Despite her many accomplishments, Carolyn remained humble and always eager to share her experiences and lessons learned with others. She was a wonderful human being, and her passing is a great loss to the entire community. We will greatly miss her 💔
 
+## John Reese
+
+Carolyn embodied people and community. Her talk on designing CLIs for _people_ at GopherCon 2019, my first Go conference, changed my perception of how we should be building software. Focus on the people, and everything else will fall into place. I had so many questions after the talk, too many for a single interaction that she invited me to a dinner that she and other Gophers were attending. She made me feel so welcome in the community, and it's something that I have never forgotten. You will be greatly missed, Carolyn. 🌈 ✨
