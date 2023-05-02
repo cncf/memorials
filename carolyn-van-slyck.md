@@ -103,3 +103,7 @@ I just now realized how much of a privilege it was to call Carolyn a friend.... 
 She was a true leader of Women Who Go where she was there to support everybody in every way. From proposing an awesome emoji set to getting financial support for setting up a chapter she did it all. A driving force that will be greatly missed…
 
 We will all miss you very much Carolyn 🌈🦄✨.
+
+## Catherine Paganini
+
+Carolyn was an active and beloved member of our community. Dedicated and hardworking, she was always willing to lend a helping hand. Her commitment to providing open source projects with the tools they need to succeed played a crucial role in developing the TAG-CS Contributor Growth Working Group. Despite her many accomplishments, Carolyn remained humble and always eager to share her experiences and lessons learned with others. She was a wonderful human being, and her passing is a great loss to the entire community. We will greatly miss her 💔
