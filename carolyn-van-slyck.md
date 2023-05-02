@@ -213,3 +213,9 @@ During that KubeCon, she guided me, whenever we had a session in common, she wou
 2 weeks ago, I was at KubeCon and she was not there, but our close friends were there. We made a picture and they send it to her. The next day they gave me her message: "I miss you very much". I replied I missed her too, a lot... Tu vas me manquer énormément mon amie ❤️
 
 May you rest in peace, your legacy definitively lives on 🦄🌈
+
+## Ryan Hartje
+
+I'm devistated to hear the news. Carolyn was a rare force of kindness, engineering, and personality. I didn't get the pleasure to work closely with her save for occasional Porter workshops and other CNCF events, but every time she brought an undeniable energy to every occasion. It's a sad day for us all to have lost someone who set a high bar for human compansion coupled with great engineering talent. My condolenses especially to the family.
+
+Let us all try a little harder to be kind to each other in her honor. 
