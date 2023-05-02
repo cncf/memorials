@@ -77,3 +77,7 @@ We will miss you, Carolyn.
 ## Nick Eberts
 
 I met Carolyn when she came over to Microsoft in 2017. We quickly bonded when I noticed that she named her NUC kubernetes nodes after My Little Pony characters and I told her about my kids shared obsession. Anytime we talked she would ask about them. Carolyn was always the kindest soul on any call we were on and ALWAYS took the time to mentor me when I needed some help. She didn't care that you knew how great an engineer she was and she was a great engineer. It is a sad day. :(
+
+## Feynman Zhou
+
+Carolyn always advocate OSS community culture and cloud native community events to the world. She is enthusiastic about his work in the OSS community. She helped Porter and other cloud native projects become inclusive and welcoming to contributors as they are today. Carolyn was an inspiration to others, and her memory will continue to inspire those who knew her. 
