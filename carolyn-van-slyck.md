@@ -164,3 +164,9 @@ Carolyn's inventive and boundary-pushing work left an everlasting influence on t
 As we reflect on Carolyn's life and accomplishments, let us remember her and the lasting impact she has had on the industry. For many years to come, her efforts will continue to impact and define the future of technology.
 
 I extend my heartfelt sympathies to Carolyn's family and loved ones during this terrible time. She will be greatly missed, but her contributions to the tech community will live on. ✨
+
+## Kent Rancourt
+
+When I heard the news, I felt sick. I still do. Carolyn was a brilliant engineer, as so many have noted, but more importantly, she was a true friend. I had the privilege of working directly with her at times, but we spent many years in the same orbit. Even when not collaborating directly, she was a reliable confidant and sage source of advice. I could always count on Carolyn to back me up when I needed it, but I could also count on her to challenge me at times when I needed to see things from a different perspective. Sometimes, she was even a shoulder to cry on. I'm a better person for having had her in my life. Reading through all the tributes on this page, it's heartwarming, but not the least bit surprising, to see so many feel the same. Perhaps the thing that I admired most about her was her flare for building inclusive communities whose members not only felt safe, but also felt seen, heard, and inspired. On both the technical and _human_ level, Carolyn was the very embodiment of open source ideals. (On that note, I cannot help but smile at how fitting it is that our tributes to our friend and colleague take the form of _PRs_.) I will miss my friend dearly, but I know that I will be hearing her echoes in our community for years to come, especially in the form of the countless engineers she inspired and mentored... and every time I sense one of those echoes, I'll remember her warmly and smile.
+
+Rest easy, my friend. ❤️🦄🖖
