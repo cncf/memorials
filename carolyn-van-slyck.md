@@ -104,6 +104,15 @@ She was a true leader of Women Who Go where she was there to support everybody i
 
 We will all miss you very much Carolyn 🌈🦄✨.
 
+## Radu Matei
+
+Carolyn was brilliant, kind, and an incredible engineer. I had the privilege and joy of working with her on the same team for a few years, and that had a profound impact on me. Fostering welcoming and inclusive communities and focusing on building an amazing UX are two things Carolyn always prioritized, and was always happy to help, mentor, and spend time helping people.
+
+Whether it was talking about our favorite dumplings and ramen, or trying to solve difficult engineering problems, she was always there to help, uplift, and make things better.
+
+You will be missed, Carolyn. ✨
+
 ## Catherine Paganini
 
 Carolyn was an active and beloved member of our community. Dedicated and hardworking, she was always willing to lend a helping hand. Her commitment to providing open source projects with the tools they need to succeed played a crucial role in developing the TAG-CS Contributor Growth Working Group. Despite her many accomplishments, Carolyn remained humble and always eager to share her experiences and lessons learned with others. She was a wonderful human being, and her passing is a great loss to the entire community. We will greatly miss her 💔
+
