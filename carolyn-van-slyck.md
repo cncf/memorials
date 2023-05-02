@@ -257,3 +257,13 @@ I had the good fortune of meeting Carolyn in 2017 when she joined Microsoft, and
 One of the recent highlights of my career was going to get ramen with Carolyn and David after GopherCon 2022. That day stands out in my mind because it represents some important things Carolyn valued - finding room for human connection and taking the time to experience life to its fullest, even when we're busy.
 
 Carolyn, I'm lucky to have called you my friend. Thank you for being there for me during difficult times, and thank you for being a role model. I, like so many others, will miss you dearly. Rest in peace.
+
+# Matt Fisher
+
+I met Carolyn back at KubeCon EU 2018 where her and Jonathan Berkhahn gave a talk on Kubectl plugins. We both worked at Microsoft, but I never met her beforehand. After their talk, I found her in the speaker's lounge, where we brainstormed on how the technology could be applied to other pieces of technology in the CNCF ecosystem. Her focus on building a community and the user experience were both awe inspiring and thoughtful. She made me feel welcome, valued, and enthusiastic to see how the work could be expanded. Even though I never got around to an implementation, our conversation left a lasting impression on me; how could someone could be so friendly and accomodating to a total stranger on the conference floor, especially someone who just interrupted her break time at the speakers lounge? Oops.
+
+Later on she joined the DeisLabs team where we worked together on many open source projects. She came up with the name of several of those open source projects (including artwork and logos!), and became known as the "Chief Emoji Officer" for all of the fun and creative emojis she added to our Slack channel. My personal favourite she added to the channel was `:salute:`, which was Rainbow Dash giving a small salute. When I left the team to join another company, I made sure to export all of the custom emojis from that channel and I still use `:salute:` to this day, and it always reminds me of her. I'm attaching it here in memoriam of her contribution to the team's fun and welcoming culture.
+
+You will be greatly missed, Carolyn.
+
+![9669b24e3473a2c7](https://user-images.githubusercontent.com/1360539/235773919-6b5b16f0-bb0b-4f62-a721-0275fabdfac4.png)
