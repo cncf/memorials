@@ -213,3 +213,9 @@ During that KubeCon, she guided me, whenever we had a session in common, she wou
 2 weeks ago, I was at KubeCon and she was not there, but our close friends were there. We made a picture and they send it to her. The next day they gave me her message: "I miss you very much". I replied I missed her too, a lot... Tu vas me manquer énormément mon amie ❤️
 
 May you rest in peace, your legacy definitively lives on 🦄🌈
+
+## Danilo (Dan) Chiarlone
+
+When I first joined the Steelthread team, Carolyn was the very first person to set up a meeting with me to welcome me to the team. She said that starting to work with a new group of people can be overwhelming, and just want to make sure I knew she would always be around to help me with anything I needed. Just recently, with most of our team being at KubeCon, I had the pleasure of having another meeting with her where there was only the two of us. This time, having worked together for over a year already, we went beyond the superficial and got a chance to talk about our lives, cats, ordering bulk assorted nuts, and a ton more, but, just like back when I had first joined the team, she reminded me she was always down to have 1:1s like so to catch-up and chat. I wish I had had the chance to do that more. Carolyn was a kind, and thoughtful person, who was very committed to making any place she passed by a better one.
+
+You were taken too soon, Carolyn. I miss you very much.
