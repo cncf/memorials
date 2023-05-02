@@ -155,3 +155,12 @@ As so many others in this memorial have attested, Carolyn was a uniquely talente
 
 It is with profound sadness I say goodbye, Carolyn, but it has been a privilege to get to know you. Thank you, and we will all be missing you.
 
+## Usman Malik
+
+My heartfelt condolences on Carolyn's loss. She was a fantastic developer who made significant contributions to various projects, including Kubernetes, CNAB, and Porter. We say farewell to such a talented and dedicated individual with tremendous sadness.
+
+Carolyn's inventive and boundary-pushing work left an everlasting influence on the IT industry throughout her career. Her love of her work was contagious, and she was a great inspiration to many.
+
+As we reflect on Carolyn's life and accomplishments, let us remember her and the lasting impact she has had on the industry. For many years to come, her efforts will continue to impact and define the future of technology.
+
+I extend my heartfelt sympathies to Carolyn's family and loved ones during this terrible time. She will be greatly missed, but her contributions to the tech community will live on. ✨
