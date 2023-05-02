@@ -95,3 +95,11 @@ on Azure. You will be missed.
 ## Josh Dolitsky
 
 Carolyn deeply understood the importance of "how" we do things. The news of her passing affected me not because she was a great developer (which she was), but because her approach to software was people-oriented, enthusiastic, and compassionate. This community has suffered a great loss. Thank you Carolyn for showing us the way things could and should be. May we honor you by following your lead.
+
+## Maartje Eyskens
+
+I just now realized how much of a privilege it was to call Carolyn a friend.... She was an amazing person who despite everything continued to bring wholesomeness to our community in her work in many communities. She had a dedicated drive to make open source a truly open and welcoming space for everyone involved.
+
+She was a true leader of Women Who Go where she was there to support everybody in every way. From proposing an awesome emoji set to getting financial support for setting up a chapter she did it all. A driving force that will be greatly missed…
+
+We will all miss you very much Carolyn 🌈🦄✨.
