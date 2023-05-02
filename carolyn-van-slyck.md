@@ -181,3 +181,10 @@ I’ve appreciated working with her for years, sharing our days from collaborati
 
 Carolyn’s enduring legacy lies in her mindful support of new participants in our technical endeavors via inclusive communities, welcoming documentation, and joyful emoji.🌈✨
 
+## Bob Killen
+
+Carolyn truly embodied the best of open source. Kind, patient, always willing to help and an amazing engineer. We first met back in the SIG Service Catalog days when I was just coming back into open source world and she went out of her way to make me feel welcomed. We bonded quickly exchanging pictures of our cats and memes...I'm dearly going to miss the random dm from her.
+
+She was an inspiration and will forever be remembered. Her legacy will continue through the hundreds of people shes helped and guided.
+
+Rest in peace, Carolyn. 🦄🌈
