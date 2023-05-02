@@ -172,3 +172,7 @@ I met Carolyn at my first KubeCon in Austin at one of the women networking event
 Carolyn and I would run across each other occassionally and I'm sad to say I lost track of her (and many people :() during the pandemic. I will always remember her for her welcoming nature, smile, laugh, brilliance, and being part of the community.
 
 My hugs and strength to Carolyn's family during this time. 
+
+## Jerod Santo
+
+I only had the pleasure of meeting Carolyn once, when we hosted her on Go Time in 2021. She was so kind, so thoughtful, and so downright _interesting_ (as both a technologist and as a person) that I later asked her to become a regular panelist on the show. Unfortunately for us, Carolyn declined the offer because she was already overcommitted. I wish I'd had the opportunity to get to know her better. She was special.
