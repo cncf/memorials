@@ -164,3 +164,11 @@ Carolyn's inventive and boundary-pushing work left an everlasting influence on t
 As we reflect on Carolyn's life and accomplishments, let us remember her and the lasting impact she has had on the industry. For many years to come, her efforts will continue to impact and define the future of technology.
 
 I extend my heartfelt sympathies to Carolyn's family and loved ones during this terrible time. She will be greatly missed, but her contributions to the tech community will live on. ✨
+
+## Kim McMahon
+
+I met Carolyn at my first KubeCon in Austin at one of the women networking events. I'm new to the community and I didn't know anyone. I put my extrovert hat on and walked up to this group of 3 women and started chatting. They were all technical and brillian engineers. And they talked to me! A 'marketing' person. 
+
+Carolyn and I would run across each other occassionally and I'm sad to say I lost track of her (and many people :() during the pandemic. I will always remember her for her welcoming nature, smile, laugh, brilliance, and being part of the community.
+
+My hugs and strength to Carolyn's family during this time. 
