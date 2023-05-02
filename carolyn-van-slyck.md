@@ -267,3 +267,16 @@ Later on she joined the DeisLabs team where we worked together on many open sour
 You will be greatly missed, Carolyn.
 
 ![9669b24e3473a2c7](https://user-images.githubusercontent.com/1360539/235773919-6b5b16f0-bb0b-4f62-a721-0275fabdfac4.png)
+
+
+## Rashmi Nagpal
+
+I met Carolyn in 2018 during my first ever GopherCon, with a full-ride scholarship. Never in my wildest dreams I could imagine writing here for you. Carolyn, thank you for touching the lives of many in your lifetime, my friend! Your unwavering dedication to Women Who Go was genuinely inspiring, and your memories have profoundly impacted my life, to say the least.
+
+Thank you for motivating me to start the Women Who Go Delhi chapter and your encouragement that led me to volunteer to set up new chapters globally and organize conference scholarships; without your clarity, support, and warmth - that shone through every interaction, this would never have been possible. You have left a lasting impression on all those fortunate enough to cross paths with you.
+
+During my first international conference talk at FOSDEM'2019 in Brussels, thank you for cheering from the audience, and your support was unwavering. Your dedication to inclusivity and community building was awe-inspiring, and your legacy will undoubtedly live on through the countless lives that you touched.
+
+I wish that your spirit lives on through the warmth, love, and compassion you sowed in the Women Who Go community. Though I cannot hug you one last time, we can honor your memory by carrying on your work and embodying the values you held dear!
+
+Rest in peace and infinite love, Carolyn. I will miss you dearly, but your impact will never be forgotten!
