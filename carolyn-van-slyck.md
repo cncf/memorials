@@ -74,10 +74,12 @@ Carolyn embodied what an open source community should be. She was always kind an
   
 We will miss you, Carolyn.
 
-## Nick Eberts
-
-I met Carolyn when she came over to Microsoft in 2017. We quickly bonded when I noticed that she named her NUC kubernetes nodes after My Little Pony characters and I told her about my kids shared obsession. Anytime we talked she would ask about them. Carolyn was always the kindest soul on any call we were on and ALWAYS took the time to mentor me when I needed some help. She didn't care that you knew how great an engineer she was and she was a great engineer. It is a sad day. :(
 
 ## Feynman Zhou
 
 Carolyn always advocate OSS community culture and cloud native community events to the world. She is enthusiastic about his work in the OSS community. She helped Porter and other cloud native projects become inclusive and welcoming to contributors as they are today. Carolyn was an inspiration to others, and her memory will continue to inspire those who knew her. 
+
+
+## Chris Lentricchia
+
+I was just reviewing some reimbursed reciepts from you yesterday while filing Operation Dvoretskyi's taxes, so I'm not quite sure what to say right now. This all a bit sudden, so I guess I'll keep it brief: I didn't know you that well beyond Operation Dvoretskyi's business. If someone asked me what your favorite food - or color - was, I'd have no idea. I've been guilty of not stopping to smell the roses, so maybe that's my fault. What I do know is that you helped us out of the kindness of your heart, and that speaks to your character and told me all I really needed to know. I think everyone meets their judgement day in some form, where they're reminded of the good they did in the world, or the hurt they've caused to others. You helped a lot of people - some that that you'd never even met yourself - I have about $800.00 in Windows 11 licenses that you bought with your employee discount to prove it. I hope you were reminded of that. Thanks for being there, Carolyn.
