@@ -25,11 +25,20 @@ Carolyn was an exceptional engineer. I have often told the story of how she came
 Thank you, Carolyn, for all you did for me, for your team, and for the community.
 
 ## Ralph Squillace
+
 Carolyn is the best human I know; for me that present tense will last a long time. I met her when she was on another team working on svcat; -- a way of binding cloud services into a cluster as a crd in a coordinated way that didn't quite hit the sweet spot for one reason or another -- and her passion for making it easy to do the simple thing was acres beyond anyone I'd ever met. She'd ask me what I'd done, and why, and what was I thinking, and then she'd change it that night with an insight into what my mind wanted to do but with a modification that wasn't "for me" -- it included intuitive obviousness for others to one side of my brainspace or the other.
 
 Later, she joined the team I work with more directly. What I discovered was a caring, intelligent person who believed not that "I" as a dev or PM should be able to use these tools; she cared that anyone, literally anyone at all with the motivation could use those tools. And even more, she cared that anyone could enter the tool community and learn how to use and build and contribute and even just chat about the tools. Carolyn wasn't a gifted ux person for software; she was a gifted ux person for people. I used to think I was the most open-minded, welcoming person to new tools, new ecosystems -- the user is always right!
 
 No, I discovered, that wasn't enough. For her, the good-faith humans are always right. And that approach extended to every conversation I eventually had with her, about the world, this crap we call living, family, friends, you name it. I will carry Carolyn with me everywhere I go, because she fundamentally changed who I am for the better by being the model she was. It's hard to bear her loss. I sure I'm one of many.
+
+## Michelle Dhanani
+
+Thank you for the time you spent with me Carolyn. For the encouragement and support. For speaking up for those around you. For helping me through complicated times. For your compassion and your strength. For your intellect, your enthusiasm and your energy. I learned so much from you that I carry with me still. I hate that I am typing this and I'm sorry you were taken too soon.
+
+Carolyn named the Porter logo after me. She sent me a link to the website one day out of the blue and on it was a whole paragraph about me. I was floored. She encouraged and supported me in public and in private. She was there for me during multiple uncomfortable situations. She had a great ear and gave sound, balanced advice. She was a sweet and kind person. She was funny and incredibly intelligent and generous. I am grateful I got to know her and work with her.
+
+Rest in peace Carolyn.
 
 ## Josh Gavant
 
@@ -44,3 +53,4 @@ I first met Carolyn at GopherCon, where she helped make me feel welcome in the G
 Carolyn had a heart of gold and kindness that was on another level. It shined through her work on Porter, Kubernetes SIG Service Catalog, TAG Contributor Strategy, and bootstrapping the Kubernetes Code of Conduct Committee. We first met while she was working with the SIG Service Catalog group and asked me for advice on growing their contributor base and attracting new contributors. I knew then that I had an advocate and future friend. Same team, same mission. As the years grew, I asked Carolyn along to most things I got into that had a mission of contributor strategy and community growth. Anytime I needed a "plus one" or a co-leader, Carolyn was there for both. Even if I left the project like retirement from Chairing TAG Contributor Strategy, I knew she was part of the strong leadership team and trusted that she would rise to the occassion. She did so gloriously and in ways I didn't even imagine.
 
 We had some deep personal and professional conversations over the years that I will cherish forever. I love open source because of people like Carolyn. I will never stop advocating for the maintainer; Carolyn didn't intend to stop either. I'm still in disblief that I'm typing this. She was far too young and just not done yet. In honor of Carolyn, lets all take care of each other, be kinder to the newcomer in open source, mentor people around us, and write those docs. So much love, Carolyn <3
+
