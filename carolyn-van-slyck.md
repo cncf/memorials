@@ -73,3 +73,7 @@ Carolyn was a tour de force when it came to welcoming new folks in the cloud nat
 Carolyn embodied what an open source community should be. She was always kind and welcoming no matter who you are. I met her years ago when she was working on the service catalog and she welcomed new contributors like myself to OSBA. I learned alot from her. It was then she introduced me to [Women Who Go](https://womenwhogo.org/) and other open source community initiatives she was deeply involved with. She really cared about the developer experience and her work reflects that. She always made an effort to make sure the solution is easy to use both for new contributors and end users. She was also a great speaker giving talks at GopherCon, KubeCon, FOSDEM and more. I will miss geeking out with her.
   
 We will miss you, Carolyn.
+
+## Nick Eberts
+
+I met Carolyn when she came over to Microsoft in 2017. We quickly bonded when I noticed that she named her NUC kubernetes nodes after My Little Pony characters and I told her about my kids shared obsession. Anytime we talked she would ask about them. Carolyn was always the kindest soul on any call we were on and ALWAYS took the time to mentor me when I needed some help. She didn't care that you knew how great an engineer she was and she was a great engineer. It is a sad day. :(
