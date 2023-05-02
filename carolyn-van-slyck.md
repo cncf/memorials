@@ -258,7 +258,7 @@ One of the recent highlights of my career was going to get ramen with Carolyn an
 
 Carolyn, I'm lucky to have called you my friend. Thank you for being there for me during difficult times, and thank you for being a role model. I, like so many others, will miss you dearly. Rest in peace.
 
-# Matt Fisher
+## Matt Fisher
 
 I met Carolyn back at KubeCon EU 2018 where her and Jonathan Berkhahn gave a talk on Kubectl plugins. We both worked at Microsoft, but I never met her beforehand. After their talk, I found her in the speaker's lounge, where we brainstormed on how kubectl plugins could be applied to other pieces of technology in the CNCF ecosystem. Her focus on building a community and the user experience were both awe inspiring and thoughtful. She made me feel welcome, valued, and enthusiastic to see how the work could be expanded. Even though I never got around to an implementation, our conversation left a lasting impression on me; how could someone could be so friendly and accomodating to a total stranger on the conference floor, especially someone who just interrupted her break time at the speakers lounge? Oops.
 
