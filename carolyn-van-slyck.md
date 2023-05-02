@@ -103,3 +103,9 @@ I just now realized how much of a privilege it was to call Carolyn a friend.... 
 She was a true leader of Women Who Go where she was there to support everybody in every way. From proposing an awesome emoji set to getting financial support for setting up a chapter she did it all. A driving force that will be greatly missed…
 
 We will all miss you very much Carolyn 🌈🦄✨.
+
+## Celeste Horgan 
+
+Carolyn always had time to welcome people to the CNCF community and teach them the ropes. She was the consummate contributor's contributor and passionate about building onramps to open source for anyone who wanted to contribute. Carolyn took on the hard work of community building and did it with aplomb.
+
+It was wonderful bonding with you over cute CNCF project logos (Porter is still, objectively, the cutest), community work, and everything in between. Your presence influenced how I contribute to open source. You will be missed. 
