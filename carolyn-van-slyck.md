@@ -172,3 +172,12 @@ I met Carolyn at my first KubeCon in Austin at one of the women networking event
 Carolyn and I would run across each other occassionally and I'm sad to say I lost track of her (and many people :() during the pandemic. I will always remember her for her welcoming nature, smile, laugh, brilliance, and being part of the community.
 
 My hugs and strength to Carolyn's family during this time. 
+
+
+## Bob Killen
+
+Carolyn truly embodied the best of open source. Kind, patient, always willing to help and an amazing engineer. We first met back in the SIG Service Catalog days when I was just coming back into open source world and she went out of her way to make me feel welcomed. We bonded quickly exchanging pictures of our cats and memes...I'm dearly going to miss the random dm from her.
+
+She was an inspiration and will forever be remembered. Her legacy will continue through the hundreds of people shes helped and guided.
+
+Rest in peace, Carolyn. 🦄🌈
