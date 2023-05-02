@@ -173,6 +173,13 @@ Carolyn and I would run across each other occassionally and I'm sad to say I los
 
 My hugs and strength to Carolyn's family during this time. 
 
+## Bridget Kromhout
+
+Carolyn possessed keen engineering acumen and paired it with a powerful drive to build sustainable human-centered open source systems. Simply put, she saw the opportunity to make the world a better place, and she said yes.
+
+I’ve appreciated working with her for years, sharing our days from collaborating on conferences to commenting on each other's cat pictures, while bonding over Great Lakes regional weather and being Central Time denizens of a Pacific Time world. Every day Carolyn brought encouragement to learn and share and laugh.
+
+Carolyn’s enduring legacy lies in her mindful support of new participants in our technical endeavors via inclusive communities, welcoming documentation, and joyful emoji.🌈✨
 
 ## Bob Killen
 
