@@ -143,3 +143,12 @@ Carolyn was an active and beloved member of our community. Dedicated and hardwor
 ## John Reese
 
 Carolyn embodied people and community. Her talk on designing CLIs for _people_ at GopherCon 2019, my first Go conference, changed my perception of how we should be building software. Focus on the people, and everything else will fall into place. I had so many questions after the talk, too many for a single interaction that she invited me to a dinner that she and other Gophers were attending. She made me feel so welcome in the community, and it's something that I have never forgotten. You will be greatly missed, Carolyn. 🌈 ✨
+
+## David Justice
+
+Carolyn and I have worked on the same team for the past year and a half. I had admired her work from afar long before we ever had the opportunity to work on the same team. What I didn't realize from afar was Carolyn's immense gravity of personality. Teams adopt personality traits and behaviors of members, but not in equal amounts. Ours was influenced profoundly by Carolyn's kindness, equity, and love of community. She willed it to be through smiles, infectious laughter, cat pics, positivity, and boundless optimism.
+
+As so many others in this memorial have attested, Carolyn was a uniquely talented engineer. She was the type of person to see the path from A to C without going through B. That is to say, she intuitively sensed solutions that were both pleasing to users and elegantly implemented. Carolyn was not just talented, but also driven. When she committed herself, you better help or get out the way, because Carolyn could not be stopped when she applied herself.
+
+It is with profound sadness I say goodbye, Carolyn, but it has been a privilege to get to know you. Thank you, and we will all be missing you.
+
