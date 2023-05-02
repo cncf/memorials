@@ -213,3 +213,10 @@ During that KubeCon, she guided me, whenever we had a session in common, she wou
 2 weeks ago, I was at KubeCon and she was not there, but our close friends were there. We made a picture and they send it to her. The next day they gave me her message: "I miss you very much". I replied I missed her too, a lot... Tu vas me manquer énormément mon amie ❤️
 
 May you rest in peace, your legacy definitively lives on 🦄🌈
+
+## Joshua Bezaleel Abednego
+The chance I had to contributing to Porter and to know Carolyn was one of the best time I had in life, the one that I will always treasure for the rest of it. She was the kindest and the best of open source there is. She shaped the lives of so many people for the better. The interaction I had with her didn't just make me a better software engineer, but as Ralph said, she gave the example on how to be human and how to treat others. She made sure there's room for everyone which then she greeted with smile and welcoming hands. 
+
+I hope her kindness and warmth lives on. Let's make sure her kindness and warmth lives on through each and everyone of us. In open source community, and in life. 
+
+You will be dearly missed, Carolyn. Thank you for everything. Rest in love.
