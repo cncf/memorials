@@ -203,3 +203,13 @@ I only had the pleasure of meeting Carolyn once, when we hosted her on Go Time i
 ## Mat Ryer
 
 Carolyn lit up any conversation. On many occasions I would see her surrounded by smiling faces at conferences where she was working hard to uplift and empower others. Her work in OSS and the Women Who Go group has touched countless lives, and unlocked new careers for many of those lucky enough to cross paths with her. Carolyn stands out as one of my favourite people, and I feel like the world is a little darker without her shining light.
+
+## Nuno do Carmo
+
+Carolyn welcomed me to the Cloud Native like no other. Back in 2018, I heard about Porter and wanted to test it "in my way". Carolyn helped me by answering basic questions, never getting mad or impatient, rather she was always motivating me to reach for the next level in understanding and encouraged me to make a demo on how I used Porter to the whole team. When I did it, she was actively pushing for me to come to KubeCon and with the help of close friends, I did attend my first KubeCon thanks to them. 
+
+During that KubeCon, she guided me, whenever we had a session in common, she would seat next to me and we would talk about the session and also on how a friend of the speaker would **always** seat front row as a support. And that's what she was, even if it we were far away, she was my friend, my mentor and I became a better community member thanks to her. 
+
+2 weeks ago, I was at KubeCon and she was not there, but our close friends were there. We made a picture and they send it to her. The next day they gave me her message: "I miss you very much". I replied I missed her too, a lot... Tu vas me manquer énormément mon amie ❤️
+
+May you rest in peace, your legacy definitively lives on 🦄🌈
