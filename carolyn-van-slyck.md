@@ -199,3 +199,7 @@ Rest easy, my friend. ❤️🦄🖖
 ## Jerod Santo
 
 I only had the pleasure of meeting Carolyn once, when we hosted her on Go Time in 2021. She was so kind, so thoughtful, and so downright _interesting_ (as both a technologist and as a person) that I later asked her to become a regular panelist on the show. Unfortunately for us, Carolyn declined the offer because she was already overcommitted. I wish I'd had the opportunity to get to know her better. She was special.
+
+## Mat Ryer
+
+Carolyn lit up any conversation. On many occasions I would see her surrounded by smiling faces at conferences where she was working hard to uplift and empower others. Her work in OSS and the Women Who Go group has touched countless lives, and unlocked new careers for many of those lucky enough to cross paths with her. Carolyn stands out as one of my favourite people, and I feel like the world is a little darker without her shining light.
