@@ -103,3 +103,9 @@ I just now realized how much of a privilege it was to call Carolyn a friend.... 
 She was a true leader of Women Who Go where she was there to support everybody in every way. From proposing an awesome emoji set to getting financial support for setting up a chapter she did it all. A driving force that will be greatly missed…
 
 We will all miss you very much Carolyn 🌈🦄✨.
+
+## Alex Jones
+
+My interactions with Carolyn were only just starting and I admired her activities within the community in so many ways. I felt inspired by her drive to make the community a better place and her ability to bring people together. 
+
+Thank you for everything, you will be missed.
