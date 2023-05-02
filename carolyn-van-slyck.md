@@ -38,6 +38,10 @@ Carolyn was a great friend and mentor. We started working as a team since 2022 d
 
 I will miss her dearly. Rest in peace, Carolyn.
 
+## Sarah Corleissen
+
+When I think of the Cloud Native community, I think of Carolyn. She was incredibly kind, and also quite funny. She was a tireless cheerleader for good documentation and for women in computing. Her impact will make a difference for years to come. We are all the poorer for her loss, and the richer for having known her. Carolyn, may you rest in peace and rise in glory.
+
 ## Michelle Dhanani
 
 Thank you for the time you spent with me Carolyn. For the encouragement and support. For speaking up for those around you. For helping me through complicated times. For your compassion and your strength. For your intellect, your enthusiasm and your energy. I learned so much from you that I carry with me still. I hate that I am typing this and I'm sorry you were taken too soon.
@@ -59,4 +63,5 @@ I first met Carolyn at GopherCon, where she helped make me feel welcome in the G
 Carolyn had a heart of gold and kindness that was on another level. It shined through her work on Porter, Kubernetes SIG Service Catalog, TAG Contributor Strategy, and bootstrapping the Kubernetes Code of Conduct Committee. We first met while she was working with the SIG Service Catalog group and asked me for advice on growing their contributor base and attracting new contributors. I knew then that I had an advocate and future friend. Same team, same mission. As the years grew, I asked Carolyn along to most things I got into that had a mission of contributor strategy and community growth. Anytime I needed a "plus one" or a co-leader, Carolyn was there for both. Even if I left the project like retirement from Chairing TAG Contributor Strategy, I knew she was part of the strong leadership team and trusted that she would rise to the occassion. She did so gloriously and in ways I didn't even imagine.
 
 We had some deep personal and professional conversations over the years that I will cherish forever. I love open source because of people like Carolyn. I will never stop advocating for the maintainer; Carolyn didn't intend to stop either. I'm still in disblief that I'm typing this. She was far too young and just not done yet. In honor of Carolyn, lets all take care of each other, be kinder to the newcomer in open source, mentor people around us, and write those docs. So much love, Carolyn <3
+
 
