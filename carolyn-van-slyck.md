@@ -241,3 +241,7 @@ I am having trouble processing how it is possible to lose someone who was such a
 I can't believe I am having to write this and am devastated to have lost such an incredible, welcoming, kind individual that I was slowly starting to call friend! I only had the pleasure of knowing Carolyn for just around 18 months and that is not enough time to spend with such an amazing human being! To see the passion she approached her job and the joy she lived her life with is something to aspire to.
 
 Carolyn, thank you from the bottom of my heart for introducing me to the wonderful community you were a part of. I will forever be grateful for the impact you had on me. I was looking forward to working with you for the foreseeable future and learning everything I could! You were a wealth of knowledge and enthusiasm and will be so greatly missed by everyone whose life you touched. We will see your legacy moved forward and never let the memory of what you brought to us be lost.
+
+## Jonathan Berkhahn
+
+I met Carolyn when we both worked on Service Catalog. We worked on subprojects toegther, we gave talks at Kubecon together. She worked tirelessly to better the communities she was a part of of and herself. I hadn't spoken to her much since she moved on to better and brighter things with the CNCF TAG. I wish I had. I don't know what else to say. Goodbye Carolyn.
