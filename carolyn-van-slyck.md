@@ -280,3 +280,10 @@ During my first international conference talk at FOSDEM'2019 in Brussels, thank 
 I wish that your spirit lives on through the warmth, love, and compassion you sowed in the Women Who Go community. Though I cannot hug you one last time, we can honor your memory by carrying on your work and embodying the values you held dear!
 
 Rest in peace and infinite love, Carolyn. I will miss you dearly, but your impact will never be forgotten!
+
+## Jaana Dogan
+
+Carolyn and my paths crossed many times in Go and CNCF projects. She was an outstanding engineer
+and really cared about what she built and the people she built with. She had a deep impact on many
+people in her communities. She was truly a positive element in everything she touched. It's hard
+to process that she is gone so soon. Rest in peace, Carolyn.
