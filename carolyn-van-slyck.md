@@ -32,6 +32,12 @@ Later, she joined the team I work with more directly. What I discovered was a ca
 
 No, I discovered, that wasn't enough. For her, the good-faith humans are always right. And that approach extended to every conversation I eventually had with her, about the world, this crap we call living, family, friends, you name it. I will carry Carolyn with me everywhere I go, because she fundamentally changed who I am for the better by being the model she was. It's hard to bear her loss. I sure I'm one of many.
 
+## Jiaxiao (Joe) Zhou
+
+Carolyn was a great friend and mentor. We started working as a team since 2022 during the pandemic. She was always there to cheer up the team and share her happiness with us. Her care and support for the open source communities were inspiring, especially her dedication to create an inclusive and open environment for everyone. I still wear the Gopher shirt that I ordered online from Women Who Go which she ran. I watched many of her talks at CNCF on YouTube and they were all great and taught me a lot on public speaking. I enjoyed every minute of the casual and non-work related talk with Carolyn on the Faces meetings. Carolyn helped me to understand how community meeting works, how to write a great proposal for talks, and how to become a caring and supportive community member. More importantly, she taught me how to be a better version of myself.
+
+I will miss her dearly. Rest in peace, Carolyn.
+
 ## Sarah Corleissen
 
 When I think of the Cloud Native community, I think of Carolyn. She was incredibly kind, and also quite funny. She was a tireless cheerleader for good documentation and for women in computing. Her impact will make a difference for years to come. We are all the poorer for her loss, and the richer for having known her. Carolyn, may you rest in peace and rise in glory.
