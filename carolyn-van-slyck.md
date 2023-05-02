@@ -68,3 +68,7 @@ We had some deep personal and professional conversations over the years that I w
 
 Carolyn was a tour de force when it came to welcoming new folks in the cloud native community on top of being a strong project maintainer awarded for her amazing efforts. Her work in growing TAG Contributor Strategy is something I deeply admired and reflects the best of the cloud native community in my opinion. I always appreciated conversations with her she will be missed dearly.
 
+## Nick Eberts
+
+I met Carolyn when she came over to Microsoft in 2017. We quickly bonded when I noticed that she named her NUC kubernetes nodes after My Little Pony characters and I told her about my kids shared obsession. Anytime we talked she would ask about them. Carolyn was always the kindest soul on any call we were on and ALWAYS took the time to mentor me when I needed some help. She didn't care that you knew how great an engineer she was and she was a great engineer. It is a sad day. :(
+
