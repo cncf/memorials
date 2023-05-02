@@ -95,3 +95,7 @@ on Azure. You will be missed.
 ## Josh Dolitsky
 
 Carolyn deeply understood the importance of "how" we do things. The news of her passing affected me not because she was a great developer (which she was), but because her approach to software was people-oriented, enthusiastic, and compassionate. This community has suffered a great loss. Thank you Carolyn for showing us the way things could and should be. May we honor you by following your lead.
+
+## Madhav Jivrajani
+
+I had the chance to work with Carolyn in the Go community where she went out of her way to help folks get started, check in with folks on how they're doing and ensure that people felt like they were equipped and empowered to do things like write up talk proposals, give talks and share experiences. I feel fortunate to have worked with someone like her, who truly emobodied the open source and community spirit. I hope we can follow in her footsteps.
