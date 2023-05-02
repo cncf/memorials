@@ -140,3 +140,10 @@ You will be missed, Carolyn. ✨
 
 Carolyn was an active and beloved member of our community. Dedicated and hardworking, she was always willing to lend a helping hand. Her commitment to providing open source projects with the tools they need to succeed played a crucial role in developing the TAG-CS Contributor Growth Working Group. Despite her many accomplishments, Carolyn remained humble and always eager to share her experiences and lessons learned with others. She was a wonderful human being, and her passing is a great loss to the entire community. We will greatly miss her 💔
 
+## David Justice
+
+Carolyn and I have worked on the same team for the past year and a half. I had admired her work from afar long before we ever had the opportunity to work on the same team. What I didn't realize from afar was Carolyn's immense gravity of personality. Teams adopt personality traits and behaviors of members, but not in equal amounts. Ours was influenced profoundly by Carolyn's kindness, equity, and love of community. She willed it to be through smiles, infectious laughter, cat pics, positivity, and boundless optimism.
+
+As so many others in this memorial have attested, Carolyn was a uniquely talented engineer. She was the type of person to see the path from A to C without going through B. That is to say, she intuitively sensed solutions that were both pleasing to users and elegantly implemented. Carolyn was not just talented, but also driven. When she committed herself, you better help or get out the way, because Carolyn could not be stopped when she applied herself.
+
+It is with profound sadness I say goodbye, Carolyn, but it has been a privilege to get to know you. Thank you, and we will all be missing you.
