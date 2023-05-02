@@ -104,6 +104,12 @@ She was a true leader of Women Who Go where she was there to support everybody i
 
 We will all miss you very much Carolyn 🌈🦄✨.
 
+## Celeste Horgan 
+
+Carolyn always had time to welcome people to the CNCF community and teach them the ropes. She was the consummate contributor's contributor and passionate about building onramps to open source for anyone who wanted to contribute. Carolyn took on the hard work of community building and did it with aplomb.
+
+It was wonderful bonding with you over cute CNCF project logos (Porter is still, objectively, the cutest), community work, and everything in between. Your presence influenced how I contribute to open source. You will be missed. 
+
 ## Radu Matei
 
 Carolyn was brilliant, kind, and an incredible engineer. I had the privilege and joy of working with her on the same team for a few years, and that had a profound impact on me. Fostering welcoming and inclusive communities and focusing on building an amazing UX are two things Carolyn always prioritized, and was always happy to help, mentor, and spend time helping people.
