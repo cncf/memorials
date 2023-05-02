@@ -31,6 +31,10 @@ Later, she joined the team I work with more directly. What I discovered was a ca
 
 No, I discovered, that wasn't enough. For her, the good-faith humans are always right. And that approach extended to every conversation I eventually had with her, about the world, this crap we call living, family, friends, you name it. I will carry Carolyn with me everywhere I go, because she fundamentally changed who I am for the better by being the model she was. It's hard to bear her loss. I sure I'm one of many.
 
+## Josh Gavant
+
+I just talked with Carolyn a couple weeks ago about building the Chicago cloud community - I suppose that's a fitting ending with someone that was always committed to supporting others. She was a consistent, helpful partner when we introduced Go on Azure. Her commitment to helping others and supporting the broader community inspired and taught me a lot. She will be missed.
+
 ## Josh Berkus
 
 I first met Carolyn at GopherCon, where she helped make me feel welcome in the Go community.  And that's what she did for many, many others for the years afterwards: make people feel welcome. From helping create TAG-CS Contributor Growth WG, her work in Kubernetes, and building an exemplary contributor infrastructure for Porter, she was all about helping other people make their best contributions.  I'm going to miss her; her ideas, her relentless optimism, her presence, her fun conversation.
@@ -40,4 +44,3 @@ I first met Carolyn at GopherCon, where she helped make me feel welcome in the G
 Carolyn had a heart of gold and kindness that was on another level. It shined through her work on Porter, Kubernetes SIG Service Catalog, TAG Contributor Strategy, and bootstrapping the Kubernetes Code of Conduct Committee. We first met while she was working with the SIG Service Catalog group and asked me for advice on growing their contributor base and attracting new contributors. I knew then that I had an advocate and future friend. Same team, same mission. As the years grew, I asked Carolyn along to most things I got into that had a mission of contributor strategy and community growth. Anytime I needed a "plus one" or a co-leader, Carolyn was there for both. Even if I left the project like retirement from Chairing TAG Contributor Strategy, I knew she was part of the strong leadership team and trusted that she would rise to the occassion. She did so gloriously and in ways I didn't even imagine.
 
 We had some deep personal and professional conversations over the years that I will cherish forever. I love open source because of people like Carolyn. I will never stop advocating for the maintainer; Carolyn didn't intend to stop either. I'm still in disblief that I'm typing this. She was far too young and just not done yet. In honor of Carolyn, lets all take care of each other, be kinder to the newcomer in open source, mentor people around us, and write those docs. So much love, Carolyn <3
-
