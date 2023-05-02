@@ -173,6 +173,29 @@ Carolyn and I would run across each other occassionally and I'm sad to say I los
 
 My hugs and strength to Carolyn's family during this time. 
 
+## Bridget Kromhout
+
+Carolyn possessed keen engineering acumen and paired it with a powerful drive to build sustainable human-centered open source systems. Simply put, she saw the opportunity to make the world a better place, and she said yes.
+
+I’ve appreciated working with her for years, sharing our days from collaborating on conferences to commenting on each other's cat pictures, while bonding over Great Lakes regional weather and being Central Time denizens of a Pacific Time world. Every day Carolyn brought encouragement to learn and share and laugh.
+
+Carolyn’s enduring legacy lies in her mindful support of new participants in our technical endeavors via inclusive communities, welcoming documentation, and joyful emoji.🌈✨
+
+## Bob Killen
+
+Carolyn truly embodied the best of open source. Kind, patient, always willing to help and an amazing engineer. We first met back in the SIG Service Catalog days when I was just coming back into open source world and she went out of her way to make me feel welcomed. We bonded quickly exchanging pictures of our cats and memes...I'm dearly going to miss the random dm from her.
+
+She was an inspiration and will forever be remembered. Her legacy will continue through the hundreds of people shes helped and guided.
+
+Rest in peace, Carolyn. 🦄🌈
+
+## Kent Rancourt
+
+When I heard the news, I felt sick. I still do. Carolyn was a brilliant engineer, as so many have noted, but more importantly, she was a true friend. I had the privilege of working directly with her at times, but we spent many years in the same orbit. Even when not collaborating directly, she was a reliable confidant and sage source of advice. I could always count on Carolyn to back me up when I needed it, but I could also count on her to challenge me at times when I needed to see things from a different perspective. Sometimes, she was even a shoulder to cry on. I'm a better person for having had her in my life. Reading through all the tributes on this page, it's heartwarming, but not the least bit surprising, to see so many feel the same. Perhaps the thing that I admired most about her was her flare for building inclusive communities whose members not only felt safe, but also felt seen, heard, and inspired. On both the technical and _human_ level, Carolyn was the very embodiment of open source ideals. (On that note, I cannot help but smile at how fitting it is that our tributes to our friend and colleague take the form of _PRs_.) I will miss my friend dearly, but I know that I will be hearing her echoes in our community for years to come, especially in the form of the countless engineers she inspired and mentored... and every time I sense one of those echoes, I'll remember her warmly and smile.
+
+Rest easy, my friend. ❤️🦄🖖
+
+
 ## Jerod Santo
 
 I only had the pleasure of meeting Carolyn once, when we hosted her on Go Time in 2021. She was so kind, so thoughtful, and so downright _interesting_ (as both a technologist and as a person) that I later asked her to become a regular panelist on the show. Unfortunately for us, Carolyn declined the offer because she was already overcommitted. I wish I'd had the opportunity to get to know her better. She was special.
