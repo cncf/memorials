@@ -249,3 +249,11 @@ I met Carolyn when we both worked on Service Catalog. We worked on subprojects t
 ## Simon Davies
 
 I have worked on the same team as Carolyn for the past 3 years. Much has already been said above about her qualities. I knew her as someone who was deeply passionate and caring, this applied to everything she did, the technology she was using, the technology she was creating, the people that she wanted to benefit from her innovation, the people she wanted to help and the people that she worked with in our team , in Microsoft and in the community. She was always willing and able to give sound advice and insightful feedback. To say she will be missed is a massive understatement. Rest in Peace Carolyn, my deepest condolencies to your family.
+
+## Aaron Schlesinger
+
+I had the good fortune of meeting Carolyn in 2017 when she joined Microsoft, and we became fast friends. Over the years, we talked about life, work, open source, and many other things we had in common. I got to work on several projects with her and got to know her as an outstanding engineer, compassionate community leader, and all-around great person.
+
+One of the recent highlights of my career was going to get ramen with Carolyn and David after GopherCon 2022. That day stands out in my mind because it represents some important things Carolyn valued - finding room for human connection and taking the time to experience life to its fullest, even when we're busy.
+
+Carolyn, I'm lucky to have called you my friend. Thank you for being there for me during difficult times, and thank you for being a role model. I, like so many others, will miss you dearly. Rest in peace.
