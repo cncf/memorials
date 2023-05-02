@@ -245,3 +245,7 @@ Carolyn, thank you from the bottom of my heart for introducing me to the wonderf
 ## Jonathan Berkhahn
 
 I met Carolyn when we both worked on Service Catalog. We worked on subprojects toegther, we gave talks at Kubecon together. She worked tirelessly to better the communities she was a part of of and herself. I hadn't spoken to her much since she moved on to better and brighter things with the CNCF TAG. I wish I had. I don't know what else to say. Goodbye Carolyn.
+
+## Simon Davies
+
+I have worked on the same team as Carolyn for the past 3 years. Much has already been said above about her qualities. I knew her as someone who was deeply passionate and caring, this applied to everything she did, the technology she was using, the technology she was creating, the people that she wanted to benefit from her innovation, the people she wanted to help and the people that she worked with in our team , in Microsoft and in the community. She was always willing and able to give sound advice and insightful feedback. To say she will be missed is a massive understatement. Rest in Peace Carolyn, my deepest condolencies to your family.
