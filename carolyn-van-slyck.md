@@ -303,3 +303,7 @@ I had the chance to work with Carolyn on Porter for a while. Carolyn made me lea
 I will always remember that night session where we put together a Porter demo right before a developer conference. Although her schedule was quite packed, immediately she put everything aside and assisted me in building an end-to-end demo that amazed the audience 💝.
 
 Thank you, Carolyn, for everything you did for me and the open-source community. 🌈
+
+## James Sturtevant
+
+I feel lucky to have gotten to know Carolyn over the last few months.  She was so welcoming and brought a wonderful energy to our team.  She always provided an optimistic outlook and spread her joy to the rest of us.  She will be missed dearly.
