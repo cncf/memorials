@@ -304,6 +304,13 @@ I will always remember that night session where we put together a Porter demo ri
 
 Thank you, Carolyn, for everything you did for me and the open-source community. 🌈
 
+## Brian DeGeeter
+
+I had the pleasure of working with Carolyn the past couple of years on Porter. She was so welcoming, inquisitive and just fun to work with. She taught me so much about working as part of an open source community. Always striving to find that right balance of doing something well and meeting the pragmatic requirements of the real world. All along the way showing kindness, patience and a thirst to understand more about how her work helps others. We were all looking forward to many more years working together. I hope it brings just a touch of solace to her family and friends knowing she had such a positive impact on so many people.
+
+Rest in peace Carolyn
+
 ## James Sturtevant
 
 I feel lucky to have gotten to know Carolyn over the last few months.  She was so welcoming and brought a wonderful energy to our team.  She always provided an optimistic outlook and spread her joy to the rest of us.  She will be missed dearly.
+
