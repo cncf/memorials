@@ -296,3 +296,10 @@ Our careers took different paths within Microsoft, then our worlds came together
 
 RIP CVS.  Keep smiling and laughing.
 
+## Thorsten Hans
+
+I had the chance to work with Carolyn on Porter for a while. Carolyn made me learn Go in order to contribute to Porter and other projects. No matter how stupid my questions were, Carolyn was always there and helped with whatever was needed. I had never met a community leader who was that welcoming, supportive, and inspiring! 
+
+I will always remember that night session where we put together a Porter demo right before a developer conference. Although her schedule was quite packed, immediately she put everything aside and assisted me in building an end-to-end demo that amazed the audience 💝.
+
+Thank you, Carolyn, for everything you did for me and the open-source community. 🌈
