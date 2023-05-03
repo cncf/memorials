@@ -287,3 +287,12 @@ Carolyn and my paths crossed many times in Go and CNCF projects. She was an outs
 and really cared about what she built and the people she built with. She had a deep impact on many
 people in her communities. She was truly a positive element in everything she touched. It's hard
 to process that she is gone so soon. Rest in peace, Carolyn.
+
+## Graham Bury
+
+Carolyn was my officemate as an intern at Microsoft in 2005.  I will never forget her persistent positive attitude and joy, inspiring me to believe that anything is possible.  She was there to onboard me, guide me through the logistics of working in a massive multi-national company, and how to navigate across organizations.  She sold me on Microsoft as a great place to turn an internship into a career, to continue to work with more people like her – smart, passionate, collaborative, and supportive.
+
+Our careers took different paths within Microsoft, then our worlds came together again in Azure in the cloud native space.  My happiness of re-connecting with her last year is now reversed to sadness by learning of her passing.  I’ll continue to find silver linings and drive with the positive and collaborative approach that Carolyn taught me.
+
+RIP CVS.  Keep smiling and laughing.
+
