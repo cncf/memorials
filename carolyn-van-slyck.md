@@ -329,3 +329,11 @@ The last message she sent me on Thursday, after helping me jump out of a meeting
 "I am a thought leader 🦄💨" - and honestly, yeah, she was, she was one of a kind.
 
 I miss you Carolyn.
+
+## Steve Francia
+
+Carolyn's dedication to the community was unparalleled. She embodied everything that is good about open source. She was generous with her time and talents including her deep involvement with Women Who Go and other open source initiatives. While known for her public contributions and talks, most of her contributions were outside of the public eye. She had deep empathy for newcomers and underrepresented people. A common thread throughout all of her work was paving the way for others. Helping a person new to the community feel included by listening to them and making them feel like they were as important as anyone else. Helping people to have opportunities they wouldn’t otherwise through encouragement and even sponsorships. Helping to elevate the interactions through her code of conduct work so that everyone felt included.
+
+Carolyn was a gifted speaker. She had a rare talent for explaining complex topics in a way that was both informative and entertaining. I personally really appreciated [her talk on CLIs](https://carolynvanslyck.com/talks/). Not many other people share such a deep love for this somewhat obscure user experience. I very much appreciated how she added depth, experience and empathy to the conversation around CLIs. Her talk which she gave at GopherCon in 2019 is the definitive talk on CLI design. 
+
+I will miss Carolyn. Her happiness and excitement was contagious as was her love for emjois 🌈⭐. You couldn’t be around her without feeling good. Carolyn believed in paying it forward. In her memory I rewatched one of [her talks](https://carolynvanslyck.com/talks/) today grateful for all she stood for and the legacy she left behind. 
