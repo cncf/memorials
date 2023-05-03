@@ -314,3 +314,18 @@ Rest in peace Carolyn
 
 I feel lucky to have gotten to know Carolyn over the last few months.  She was so welcoming and brought a wonderful energy to our team.  She always provided an optimistic outlook and spread her joy to the rest of us.  She will be missed dearly.
 
+## Sarah Christoff
+
+I met Carolyn at Kubecon Europe 2018. We had lunch together with folks around and I was so intimidated by how smart she was. I barely said more
+than a few words, but she was part of the CNCF crew that I looked up too. Those who were 'tech famous' in my eyes. It wasn't until I was
+joining Microsoft that I shyly reached out to Carolyn again to chat. She was so warm, friendly, and welcoming. She immediately treated me
+as a friend and equal. I was lucky enough to work with her on Porter and enjoyed being able to message her every day, say good mornings,
+and have tons of Zoom calls as we debugged things.
+
+Carolyn wasn't just an amazing engineer, she was an amazing person. Her qualities as a person are qualities I desperately strive to have.
+I was so excited to work with her, to spend time learning from her. That will only continue, but in a different way.
+
+The last message she sent me on Thursday, after helping me jump out of a meeting early was:
+"I am a thought leader 🦄💨" - and honestly, yeah, she was, she was one of a kind.
+
+I miss you Carolyn.
