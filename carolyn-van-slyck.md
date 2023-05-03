@@ -303,3 +303,9 @@ I had the chance to work with Carolyn on Porter for a while. Carolyn made me lea
 I will always remember that night session where we put together a Porter demo right before a developer conference. Although her schedule was quite packed, immediately she put everything aside and assisted me in building an end-to-end demo that amazed the audience 💝.
 
 Thank you, Carolyn, for everything you did for me and the open-source community. 🌈
+
+## Brian DeGeeter
+
+I had the pleasure of working with Carolyn the past couple of years on Porter. She was so welcoming, inquisitive and just fun to work with. She taught me so much about working as part of an open source community. Always striving to find that right balance of doing something well and meeting the pragmatic requirements of the real world. All along the way showing kindness, patience and a thirst to understand more about how her work helps others. We were all looking forward to many more years working together. I hope it brings just a touch of solace to her family and friends knowing she had such a positive impact on so many people.
+
+Rest in peace Carolyn
