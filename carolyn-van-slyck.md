@@ -2,7 +2,17 @@
 
 Dear community and friends,
 
-I thought it might be a good idea for us all to gather our thoughts, memories and stories of Carolyn and what she meant to us in one place. Please add your contribution below via a pull request. 
+I thought it might be a good idea for us all to gather our thoughts, memories and stories of Carolyn and what she meant to us in one place. Please add your contribution below, via a pull request.
+
+## Other memorials, etc...
+
+via `@K8sContributors` on [Twitter](https://twitter.com/K8sContributors/status/1653198314731388932):
+
+![Carolyn Van Slyck memorial from @K8sContributors on Twitter](./carolyn-van-slyck-assets/cvs-k8scontributors-twitter.png)
+
+via `@fuzzychef` on [the fediverse](https://hachyderm.io/@fuzzychef@m6n.io/110296316774920413):
+
+![Carolyn Van Slyck memorial from @fuzzychef on Hachyderm.io](./carolyn-van-slyck-assets/cvs-fuzzychef-hachyderm.png)
 
 ## Jeremy Rickard
 
