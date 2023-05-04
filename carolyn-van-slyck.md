@@ -337,3 +337,14 @@ Carolyn's dedication to the community was unparalleled. She embodied everything 
 Carolyn was a gifted speaker. She had a rare talent for explaining complex topics in a way that was both informative and entertaining. I personally really appreciated [her talk on CLIs](https://carolynvanslyck.com/talks/). Not many other people share such a deep love for this somewhat obscure user experience. I very much appreciated how she added depth, experience and empathy to the conversation around CLIs. Her talk which she gave at GopherCon in 2019 is the definitive talk on CLI design. 
 
 I will miss Carolyn. Her happiness and excitement was contagious as was her love for emjois 🌈⭐. You couldn’t be around her without feeling good. Carolyn believed in paying it forward. In her memory I rewatched one of [her talks](https://carolynvanslyck.com/talks/) today grateful for all she stood for and the legacy she left behind. 
+
+## Alison Stanton
+
+Smiles, kindness, and a Gopher logo. Those are the first things that come to mind when I think about you, Carolyn. I think we must have met at a Write/Speak/Code event. We never got enough time to talk, but the few minutes here and there catching up at conferences was always a joy. All those times just seeing you across a hotel ballroom were feel good moments for me. You were a light for good. As with so many things in life, I took it for granted that I would see and talk to you again, and now we'll never have the chance.
+
+It never occurred to you not to share your wisdom or your passion or your compassion. I have no idea how you were so consistently positive over the years. Starting things is hard. Building things is hard. Leadership that includes people instead of driving them out is a Herculean task. Yet you did them repeatedly. I am in awe of the strength that took. Deep technical skill and getting people to work together and being able to explain things - those traits almost never converge. And yet, there you were.
+
+Carolyn, I think the news of your passing is so hard because I can't think of anyone else like you. There isn't another lighthouse that can be counted on. You gave of yourself selflessly. I hope with all that I am that you had moments where you stepped back and were able to internalize all the good you did and feel how unprecedentedly, remarkably, exceptionally, magnificent you are.
+
+I am better for having known you. You will always mean so much to me. Peace.
+
