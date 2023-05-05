@@ -358,3 +358,12 @@ Carolyn, I think the news of your passing is so hard because I can't think of an
 
 I am better for having known you. You will always mean so much to me. Peace.
 
+# Ronan Flynn-Curran
+
+I had the pleasure of working with Carolyn at Microsoft. She was amazing; resourceful and thoughtful in her work and she cared deeply about making things helpful, kind and accessible in everyday possible. She had ability to cut through the noise around her and get the honest, human truth of the matter, which was marvelous to behold.
+
+Her work on Porter, and how she approached ways to simplify things and empower the end user was just great. Working on the cat mascot will always be one of my favorite memories. She had the perfect vision for it, we would discuss the optimal whisker length and the perfect level of cat 'chonk' to embody.
+
+I'm so sorry Carolyn. You were a breath of fresh air and we miss you. I don't know what else to say.
+
+![./carolyn-van-slyck-assets/porter-cat.png](./carolyn-van-slyck-assets/porter-cat.png)
