@@ -366,4 +366,8 @@ Her work on Porter, and how she approached ways to simplify things and empower t
 
 I'm so sorry Carolyn. You were a breath of fresh air and we miss you. I don't know what else to say.
 
+# Ramyasree Chakka
+
+Carolyn was an absolute gem to work with. Every time I interacted with her, she was kind, helpful, and extremely knowledgeable about the products she worked on. She was brilliant in patiently explaining various scenarios and responding promptly and professionally to our queries. Her strong work ethic was always evident, and it was truly inspiring.
+
 ![./carolyn-van-slyck-assets/porter-cat.png](./carolyn-van-slyck-assets/porter-cat.png)
