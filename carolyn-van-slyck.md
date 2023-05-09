@@ -371,3 +371,9 @@ I'm so sorry Carolyn. You were a breath of fresh air and we miss you. I don't kn
 Carolyn was an absolute gem to work with. Every time I interacted with her, she was kind, helpful, and extremely knowledgeable about the products she worked on. She was brilliant in patiently explaining various scenarios and responding promptly and professionally to our queries. Her strong work ethic was always evident, and it was truly inspiring.
 
 ![./carolyn-van-slyck-assets/porter-cat.png](./carolyn-van-slyck-assets/porter-cat.png)
+
+## Linda Zhou
+
+Carolyn was the original definition of a real one. Her contributions to the software engineering discipline cannot be measured merely by the impact of her decorated engineering career. Much more than that, she has made an impact on those breaking into tech, especially in the female Go community. I met Carolyn through Women Who Go in Chicago, and I’m grateful for every second I got to spend with her. She made sure there is room for everyone at the table and greeted them with an affable smile and a welcoming hand. 
+
+Thank you, CVS. You made your mark here. 
