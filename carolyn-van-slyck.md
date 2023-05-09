@@ -4,6 +4,21 @@ Dear community and friends,
 
 I thought it might be a good idea for us all to gather our thoughts, memories and stories of Carolyn and what she meant to us in one place. Please add your contribution below, via a pull request.
 
+## Obituary and Tribute Book
+>Carolyn Van Slyck, 40, of Palatine, died in a car crash on Thursday, April 27, 2023.
+>
+>She is survived by her Husband, Mike Steder of Palatine. She is survived by her parents Bill and Mary Van Slyck; sister Elizabeth Willner (Keith); brother Joshua Van Slyck (Shannon) and nephews Hudson and Ryan; brother Ted Van Slyck (Lisa) and niece and nephew Abigail and Ozwald. She is survived by loving uncles and aunts, cousins, in-laws, and a host of long-time friends.
+>
+> Carolyn was born in Elgin, Il. She graduated from Elgin High School, then Elgin Community College. She finished with Honors at the University of Illinois Urbana with a bachelor’s degree in computer science.
+> 
+> Carolyn was a gifted programmer working at Microsoft as a Principal Software Engineer.
+> 
+> While no funeral service is currently scheduled, a celebration of life ceremony will be announced at a future date.
+> 
+> Carolyn loved her cats: Silverbelle, Big Red, and Little Smokey. She believed strongly in supporting your local animal shelter. Her family requests that, in lieu of flowers, donations can be made to Anderson Humane.
+
+[Laird Funeral Home Obituary](https://www.lairdfamilyfuneralservices.com/obituaries/Carolyn-Van-Slyck?obId=27872715)
+
 ## Other memorials, etc...
 
 via `@K8sContributors` on [Twitter](https://twitter.com/K8sContributors/status/1653198314731388932):
