@@ -390,4 +390,15 @@ Carolyn was an absolute gem to work with. Every time I interacted with her, she 
 
 Carolyn was the original definition of a real one. Her contributions to the software engineering discipline cannot be measured merely by the impact of her decorated engineering career. Much more than that, she has made an impact on those breaking into tech, especially in the female Go community. I met Carolyn through Women Who Go in Chicago, and I’m grateful for every second I got to spend with her. She made sure there is room for everyone at the table and greeted them with an affable smile and a welcoming hand. 
 
-Thank you, CVS. You made your mark here. 
+Thank you, CVS. You made your mark here.
+
+## Karen Cárcamo
+
+Carolyn, my dear friend, I'm having a hard time knowing what to say, and I'm sorry I've taken so long to write something.
+
+We met through Women Who Go when I decided I wanted to open up a chapter in New Zealand. It wasn't until Kubecon 2018 when I finally had a chance to meet her in person. I wasn't aware at the time that I was about to meet one of my favourite people. We had a blast in Copenhagen touring the city, and meeting a lot of people along the way.
+
+We kept in touch, and continued to have regular catchups via Zoom since we lived so far away. I was lucky to be able to see her once more in Toronto. She insisted that we visit the botanical gardnes no matter what, and had so many interesting things to say about all the plants there. I feel so fortunate to have been able to call her my friend.
+
+Carolyn, I hope you know that you made a huge impact in my life, and that I will forever cherish having been a small part of yours. 💖🦄
+ 
