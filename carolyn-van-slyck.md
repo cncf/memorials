@@ -401,4 +401,19 @@ We met through Women Who Go when I decided I wanted to open up a chapter in New 
 We kept in touch, and continued to have regular catchups via Zoom since we lived so far away. I was lucky to be able to see her once more in Toronto. She insisted that we visit the botanical gardnes no matter what, and had so many interesting things to say about all the plants there. I feel so fortunate to have been able to call her my friend.
 
 Carolyn, I hope you know that you made a huge impact in my life, and that I will forever cherish having been a small part of yours. 💖🦄
- 
+
+# Amye Scavarda Perrin
+
+I've let your absence sit with me for a few months.
+
+This is good - I can tell how much I miss you. 
+
+This is bad - this now means I can put words to it! 
+
+I miss your humor, your ability to understand what's a technical problem and what wasn't - and who mattered to be able to solve it.
+
+I miss your ability to be able to discern how, exactly, someone could use feedback to become a better contributor. 
+
+I miss your cooking journey storytelling and how you were finding your way through a part of life.
+
+I wish we had so many more years together, I am sorry that we don't.
