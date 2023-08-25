@@ -1,1 +1,3 @@
-Placeholder, please do not proceed with this PR unless you've contacted myself, jbeda, or parispittman.
+The family would prefer that memorials be submitted to nivenly.org:
+
+- https://nivenly.org/memorials/krisnova/
