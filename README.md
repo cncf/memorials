@@ -9,3 +9,4 @@ This area is intended to rejoice in them, their contributions, and to keep their
 * [Peeyush Gupta](peeyush-gupta.md)
 * [Cody Crudgington](cody-crudgington.md)
 * [Carolyn Van Slyck](carolyn-van-slyck.md)
+* [Kris Nóva](kris-nóva.md)
