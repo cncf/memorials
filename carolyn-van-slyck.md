@@ -417,3 +417,15 @@ I miss your ability to be able to discern how, exactly, someone could use feedba
 I miss your cooking journey storytelling and how you were finding your way through a part of life.
 
 I wish we had so many more years together, I am sorry that we don't.
+
+## Om More
+
+When I was contributing to Porter, Carolyn always guided me with issues and pull requests. I had a lot of confusion at the start, and she cleared it all up. 
+
+I was able to merge my first PR in Porter with her help. 
+
+I was also following her work and planning to understand more about Porter, but unfortunately, I wasn't able to find the time for it. I wish I could have made more contributions and learned more from her. 
+
+I will never forget this experience.
+
+Rest In Peace, Carolyn.
