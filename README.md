@@ -10,3 +10,7 @@ This area is intended to rejoice in them, their contributions, and to keep their
 * [Cody Crudgington](cody-crudgington.md)
 * [Carolyn Van Slyck](carolyn-van-slyck.md)
 * [Kris Nóva](kris-nóva.md)
+* [Sefi Genis](Sefi-Genis.md)
+* [Gal Navon](Gal-Navon.md)
+* [Ido Hubara](Ido-Hubara.md)
+* [Roee Negri](Roee-Negri.md)
