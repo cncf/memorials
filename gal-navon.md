@@ -1,3 +1,17 @@
+
+## Zohar Bergman
+Gal was my team leader at Melio. He was an exceptional manager, surprisingly young, but with the experience of someone a decade above his actual age.
+He brought joy and happiness to the team every day. One of his routines was to bless every team member with a cheerful good morning blessing in the daily meetings.
+It was clear that he took the responsibility to bring out the best in every teammate, and show it to everyone.
+He always told us to communicate in public channels about our work’s output, letting everyone know what we’ve achieved. That made us feel impactful.
+
+Gal was kind, modest, brilliant, and hilarious.
+We could have spoken nonsense for a while and then in one moment to focus and talk business.
+He had a natural gift of looking at people’s eyes, reading their feelings, and being mindful of their needs.
+He always knew to give the right advice, his tips always worked, and he taught me how to remove my blockers and overcome my challenges.
+
+Since October 7th, Gal has always been on my mind. I wish we could have had many more moments together.
+
 ## Ori Sela
 Gal was my direct manager,
 It was always funny with him, every time he returned to his table I knew he would say something and we would laugh. Every meeting we had, I always knew we would laugh at something that might happen.
@@ -18,3 +32,4 @@ Gal, in Hebrew, meaning 'wave', as waves carry things away and bring new treasur
 The irony is that the person who would be best suited to write this memorial is Sefi Genis, Gal's closest friend, who died with him in the October 7th massacre.
 They died heroes together, fighting off terrorists with their bare hands to save the people that were hiding in the bunker with them. This just demonstrates how Gal was all kindness, and put everyone before himself. 
 He lived as a mensch, and died a hero on October 7th. The [#tlvcommunity](https://tlvcommunity.dev) will remember him forever.
+
