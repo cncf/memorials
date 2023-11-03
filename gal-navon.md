@@ -1,3 +1,9 @@
+## Ori Sela
+Gal was my direct manager,
+It was always funny with him, every time he returned to his table I knew he would say something and we would laugh. Every meeting we had, I always knew we would laugh at something that might happen.
+He had a high emotional intelligence and the level of care for the people around him was at the top, it gave a lot of strength with positive energies, and the feeling of "there is someone to trust" is in the space of the room.
+Every decision he made was made seriously and calmly thinking about the smallest details, it was inspiring every time he broke down a huge problem by writing a few lines in his notebook.
+
 ## Or Frenkel
 Gal was a team leader at Melio. As Gal's direct manager, I can confidently say that he was not only a colleague but also a true friend to everyone. He was beacon of happiness and positivity, and his intelligence was exceptional. 
 His ability to give accurate feedback was unparalleled, and he had a talent for bringing out the best in everyone.
