@@ -1,4 +1,4 @@
-# In Memory of Ido Huber
+# In Memory of Ido Hubara
 
 Dear community and friends,
 
