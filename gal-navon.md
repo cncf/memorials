@@ -1,3 +1,19 @@
+## Eliran Goldstein
+When you are thinking of a person you know, the first thing that pops into your head is usually one of his main features. 
+With Gal Navon it was his huge smile. 
+A smile is not only a facial expression, it is the person's energy, it is their radiance, it can change the entire atmosphere of a room.
+Gal had a really contagious smile on his face, at all times. You can not picture him without.
+When I intreviewed Gal for the job I remember that the first thing I wrote on his scorecard is "Really amazingly positive guy", the second thing was "and a well driven engineer".
+Gal had the best can-do attitude I've seen in a while, and he made his entire surroundings adopt it. He was kind, smart, a great team leader who lead by example, the type of colleagues you love to entaract with.
+He was smart, very thorough, always tried to plan ahaed, communicative, and he knew how to channel his endless amount of energy to try and make everything better.
+
+In the aftermath of the Oct 7 events, I came to the office one day and walked passed his desk. I wanted to do the regular "Hi Gal" and hear him through a funny remark in order to make me smile, and was heartbroken to think that it is just not going to happen anymore. 
+
+What an amazing thing it is to be remmembered as a huge walking talking smile. What a great job you did as a human being.
+You had a tragecly short life, but boy did you leave an impact.
+I miss him, I guess we will always will.
+RIP Gal Navon
+
 ## Niv Yungelson
 Unlike tears that are triggered easily since we've heard the news, I've been struggling to find the words.
 the right words to say to my colleagues that are grieving, or to friends asking me if we we're close.
