@@ -429,3 +429,7 @@ I was also following her work and planning to understand more about Porter, but 
 I will never forget this experience.
 
 Rest In Peace, Carolyn.
+
+## Trishank Karthik Kuppusamy
+
+Carolyn was nothing but fantastic while Radu Matei and I were working on [CNAB Security](https://github.com/cnabio/cnab-spec/blob/main/300-CNAB-security.md), the [implementation](https://github.com/cnabio/signy) of which she also helped to maintain. I was shocked to hear the tragic news of her passing, and regret that I did not know her on a more personal level. I remember her as being warm, friendly, funny, and very receptive. RIP, Carolyn, you are missed.
