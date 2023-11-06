@@ -32,3 +32,8 @@ Thanks to my IBMers for sharing this with me. I’m deeply saddened by this and 
 OMG. Shocked. Speechless. Can’t believe this!! 
 Ido is such a nice person, strong technical leader and always smiling with can-do attitude!! Such a wonderful colleague. I had the privilege and honor to have had him in my team and to have had great f2f discussions and evolving our tech capabilities. Still reeling from this terrible news. May his soul rest in peace!! 
 
+## Yuval Dekel
+
+I’ve met Ido as my interviewer. Even though I never worked under him, I learned from him a lot about what’s important in life: The balance between family and work was your pinnacle. I’ll miss our random morning meetings on the train to work. Your calmness, humor and intelligence were what made you such a great team member and a leader.
+
+Ido lived in Kibbutz Sufa which was a heaven on earth. hopefully, the Kibbutz will get back to what it was.
