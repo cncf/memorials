@@ -80,6 +80,16 @@ Rodo, the LATAM community and our ambassadors’ group will miss you so much. Th
 
 Vuela alto Rodo! 🖤
 
-<div align="center">
-<img src="./ramrodo-assets/rodolfo-memorial.png" alt="Rodolfo M.V." width="30%">
-</div>
+## Angel Ramirez
+
+In Memory of Rodolfo “Rodo” Martínez Vega
+
+I met Rodo in 2023 at KubeCon Amsterdam — our first in-person KubeCon. From the very first hours of day one, it was friendship at first sight. It felt like we’d known each other for years, not hours. That was Rodo’s magic: he made strangers feel like lifelong friends in minutes.
+
+Rodo was the kind of person who didn’t wait to be asked — he just jumped right in to help. Unselfish to his core, he gave his time, energy, and heart to everyone around him. He didn’t blink twice before stepping up to help us with KCD Colombia, and he championed contributions across multiple projects, including the Spanish localization efforts.
+
+He was more than just a CNCF Ambassador — he was a bridge-builder, especially for Latin America. Rodo believed in opening doors, breaking down barriers, and making the tech community a place where everyone could belong. His kindness was constant, his enthusiasm contagious, and his impact undeniable.
+
+We’re going to miss him deeply — his laugh, his encouragement, and the way he always knew how to make you feel supported. Rest in peace, my friend. Watch over us, and guide us to always do the right thing. Your legacy will keep inspiring us to build, to help, and to connect — just as you always did.
+
+Gracias, Rodo. You made our community and our lives better.
