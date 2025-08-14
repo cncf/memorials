@@ -37,3 +37,25 @@ Rodolfo, I will always remember you for what you were: a great human being and a
 My thoughts and prayers are with his family during this difficult time.
 
 Thank you for evertything, Rodolfo and rest in peace. 🌹
+
+## Carol Valencia
+
+Rodolfo had a profound impact and was a true inspiration in how he shared his knowledge, time, dedication, and charisma with the community.
+
+I first met him while working on the Kubernetes Spanish localization team alongside Víctor. He was always there to support and help everyone, making a real difference—especially for beginners or newcomers to the group.
+
+He actively contributed to Kubernetes releases and inspired me to apply as well. He never hesitated to answer my questions, no matter how small.
+
+After almost three years together in the Spanish localization team, Rodolfo became not just a colleague but a friend. It was a joy to meet him in person at several Kubecons, the last time in Salt Lake City—where we spoke, as always, about how to collaborate and support the Latin American community.
+
+We will deeply miss his presence. Until the very end, he was contributing, answering questions, and merging pull requests for the community.
+
+Those of us who had the privilege to know him will never forget his kindness and his unwavering dedication to helping others.
+
+Rest in peace, Rodolfo. My heartfelt condolences and a warm embrace to his family and friends during this difficult time.
+
+From where you are, you will always be an inspiration, and we will strive to follow in your footsteps.
+
+<div align="center">
+<img src="./ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="50%">
+</div>
