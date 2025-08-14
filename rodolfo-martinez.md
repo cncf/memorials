@@ -94,5 +94,5 @@ Rodo, the LATAM community and our ambassadors’ group will miss you so much. Th
 Vuela alto Rodo! 🖤
 
 <div align="center">
-<img src="./ramrodo-assets/rodolfo-memorial.png" alt="Rodolfo M.V." width="30%">
+<img src="./ramrodo-assets/rodolfo-memorial.jpg" alt="Rodolfo M.V." width="30%">
 </div>
