@@ -6,6 +6,15 @@ I thought it might be a good idea for us all to gather our thoughts, memories an
 
 Please add your contribution below via a pull request.
 
+## Katie Greenley
+
+I had the honor of getting to know and work with Rodolfo through the CNCF ambassador program. His passion to support and grow his community was inspiring. 
+He truly embodied the spirit of open source with his collabortive, and contributive nature. He was always happy to help. His legacy of contributing to projects like 
+KCD Guadalajara, translating the CNCF glossary and Kubenetes docs into Spanish, and being part of the Kubernetes Release Team. 
+
+I will miss him, as he was always a friendly face at events and I enjoyed hearing about the next thing he was doing to help support the community. He will be very missed 
+by the LATAM community.
+
 ## Victor Morales
 
 I had the privilege of working with Rodo on multiple initiatives over the past few years,
