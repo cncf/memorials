@@ -116,6 +116,33 @@ We’re going to miss him deeply — his laugh, his encouragement, and the way h
 
 Gracias, Rodo. You made our community and our lives better.
 
+## Adolfo García Veytia (@puerco)
+
+Building and nurturing the Kubernetes Community takes time and effort. This has
+been especially difficult in Mexico, as there has been little engagement, and
+often talks and presentations don't produce much results. But every now and
+then, you find that one person who makes it all worthwhile.
+
+This was Rodolfo for me.
+
+I met Rodolfo on Twitter after giving a talk about the K8s Release Team
+at a Mexican open source conference in 2020. I was not expecting much traction
+but right after I was done, he DM'ed me and wanted to sign up.
+He simply got it. Rodo was built of what this community has always needed:
+Kindness, passion to help others and love for the project.
+
+And so began an amazing journey. I could not be prouder as I saw Rodo get
+involved with SIG Release, climb through the Release Team ladder and become a
+CNCF ambassador while organizing KCD Mexico. Soon, I was learning from him, 
+in awe of how much he had accomplished.
+
+I saw him for the last time at Kubecon in SLC, he was so happy to have landed a
+new job at Lyft and it just filled my heart seeing how much he had grown. I
+will miss him terribly.
+
+Gracias por todo Rodolfo, te quiero cabrón.
+
+
 <div align="center">
 <img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
 </div>
