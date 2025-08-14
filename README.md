@@ -14,3 +14,4 @@ This area is intended to rejoice in them, their contributions, and to keep their
 * [Gal Navon](gal-navon.md)
 * [Ido Hubara](ido-hubara.md)
 * [Roee Negri](roee-negri.md)
+* [Rodolfo Martínez Vega](rodolfo-martinez.md)
