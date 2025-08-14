@@ -23,3 +23,17 @@ His active contributions to translating the CNCF glossary and Kubernetes documen
 I learned many things from him—not only as a professional but, more importantly, as a friend.
 His passing is a tremendous loss for the CNCF LATAM community.
 We will deeply miss him. I hope his family, like so many of us, will find strength in his legacy and the lives he touched.
+
+
+## Edith Puclla
+
+I met Rodolfo through his contributions to the Kubernetes documentation, especially in translating from English to Spanish. I was impressed by his strong focus on community and his mindset of always delivering excellent work.
+I had the opportunity to attend one of his talks alongside Víctor Morales in Guadalajara, Mexico, and it was inspiring to see all that they achieved together in the Spanish translation community.
+
+Rodolfo was collaborative, diligent caring for his team, always contributing, providing, and striving for something better, all with an incredible smile and humility.
+
+Rodolfo, I will always remember you for what you were: a great human being and an example to follow.
+
+My thoughts and prayers are with his family during this difficult time.
+
+Thank you for evertything, Rodolfo and rest in peace. 🌹
