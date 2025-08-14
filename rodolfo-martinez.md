@@ -4,7 +4,7 @@ Dear community and friends,
 
 I thought it might be a good idea for us all to gather our thoughts, memories and stories of Rodolfo and what he meant to us in one place.
 
-Please add your contribution below via a pull request. 
+Please add your contribution below via a pull request.
 
 ## Victor Morales
 
@@ -23,7 +23,6 @@ His active contributions to translating the CNCF glossary and Kubernetes documen
 I learned many things from him—not only as a professional but, more importantly, as a friend.
 His passing is a tremendous loss for the CNCF LATAM community.
 We will deeply miss him. I hope his family, like so many of us, will find strength in his legacy and the lives he touched.
-
 
 ## Edith Puclla
 
@@ -55,6 +54,20 @@ Those of us who had the privilege to know him will never forget his kindness and
 Rest in peace, Rodolfo. My heartfelt condolences and a warm embrace to his family and friends during this difficult time.
 
 From where you are, you will always be an inspiration, and we will strive to follow in your footsteps.
+
+## Abraham López
+
+I met Rodo in 2018 while working at a startup incubator in Guadalajara, Jalisco, México. He moved from Estado de México to Guadalajara in order to pursue his dream. Leaving your familiy behind and everything you are familiar with must be incredible hard.
+
+He was a Python developer who gladly took the challenge of becoming a Front-End developer. He was the kind of man that, whenever he set a goal for himself, worked relentlessly towards it until he was succesful. Yes, he became a great FE dev, I'm sure he was fantastic at infrastructure tasks as well.
+
+His love for finances got him a position in a fintech startup owned by the incubator we worked at. He was a perfect fit. We then parted ways and pursued different careers in different companies. But, I deeply missed his contagious laugh, super-friendly manners and his constant state of joy.
+
+He and Gustavo Díaz created GoLang GDL. He contributed to open source. Bought his own apartment before he was 30, it's worth saying that Guadalajara's real state is not exactly buyer friendly. Got a girlfriend. Proposed to her in Paris. And, left a mark in everyone who had the pleasure of working with him.
+
+Rodomar, Ramrodo, Rodo, you are an inspiration to us all. You will be missed.
+
+_"What is grief, if not love persevering?"_
 
 ## Lee Calcote
 
