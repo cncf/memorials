@@ -69,6 +69,30 @@ Rodomar, Ramrodo, Rodo, you are an inspiration to us all. You will be missed.
 
 _"What is grief, if not love persevering?"_
 
+## Lee Calcote
+
+I mourn the loss of Rodolfo, a cherished member of the CNCF community whose passion and dedication left its mark. I first met Rodolfo at a conference workshop I hosted in Guadalajara, Mexico. Rodolfo's enthusiasm for learning and contributing shone brightly. He was eager to join the Meshery project. Over time, his consistent engagement and collaborative spirit earned him a well-deserved role as a maintainer, leading our CI working group with skill and commitment.
+
+Rodolfo’s impact extended far beyond Meshery, touching many corners of the CNCF community. His warmth, curiosity, and drive to make a difference inspired those around him. Though it had been too long since we last spoke, his contributions and spirit will live on. Among many other places, Rodolfo’s legacy is forever honored in his Layer5 community member profile - https://layer5.io/community/members/rodolfo-martinez-vega.
+
+Rest in peace, Rodolfo.
+
+## Cristher Castro
+
+🖤 **In Memory of Rodolfo Martinez Vega – Rodo** 🖤
+
+Today, my heart and the entire **Cloud Native LATAM** community are in mourning. We’ve lost a dear friend, colleague, and true community leader: **Rodolfo Martinez Vega**, **CNCF Ambassador**, whose active work in translating the **CNCF glossary** and **Kubernetes documentation into Spanish** was key to the success of those projects and to making knowledge accessible to thousands of developers across the region.
+
+Rodo was one of the first to believe in initiatives like *La Hora de Kubernetes*. His help in the translation tag for Kubernetes documentation —and so many other projects— was fundamental. He was always ready to contribute, invite others to join, and inspire people to follow his lead.
+
+I met him in person at **KubeCon Amsterdam 2023**, and from then on we shared so many moments: **KCD Medellín, El Salvador, Guadalajara**… The last time we saw each other was at **KubeCon Salt Lake 2024**, where we spent three days each fighting for our causes —he for **KCD Guadalajara** and I for Colombia. I’ll never forget that cold night outside the convention center, both of us with dead phones, sitting on the stairs charging from a portable battery, swapping stories, dreams, and life plans. Those memories are treasures I’ll carry in my heart.
+
+He spoke at our **Fellowship by Cloud Native LATAM**, I met his fiancée, and we shared personal and professional moments that made me admire him even more. One of his biggest wishes was to overcome leukemia and be able to contribute to open source again —something he was truly passionate about.
+
+Rodo, the LATAM community and our ambassadors’ group will miss you so much. Thank you for your friendship, your example, and your generosity.
+
+Vuela alto Rodo! 🖤
+
 <div align="center">
-<img src="./ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="50%">
+<img src="./ramrodo-assets/rodolfo-memorial.png" alt="Rodolfo M.V." width="30%">
 </div>
