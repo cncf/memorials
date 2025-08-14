@@ -59,3 +59,23 @@ From where you are, you will always be an inspiration, and we will strive to fol
 <div align="center">
 <img src="./ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="50%">
 </div>
+
+## Cristher Castro
+
+🖤 **In Memory of Rodolfo Martinez Vega – Rodo** 🖤
+
+Today, my heart and the entire **Cloud Native LATAM** community are in mourning. We’ve lost a dear friend, colleague, and true community leader: **Rodolfo Martinez Vega**, **CNCF Ambassador**, whose active work in translating the **CNCF glossary** and **Kubernetes documentation into Spanish** was key to the success of those projects and to making knowledge accessible to thousands of developers across the region.
+
+Rodo was one of the first to believe in initiatives like *La Hora de Kubernetes*. His help in the translation tag for Kubernetes documentation —and so many other projects— was fundamental. He was always ready to contribute, invite others to join, and inspire people to follow his lead.
+
+I met him in person at **KubeCon Amsterdam 2023**, and from then on we shared so many moments: **KCD Medellín, El Salvador, Guadalajara**… The last time we saw each other was at **KubeCon Salt Lake 2024**, where we spent three days each fighting for our causes —he for **KCD Guadalajara** and I for Colombia. I’ll never forget that cold night outside the convention center, both of us with dead phones, sitting on the stairs charging from a portable battery, swapping stories, dreams, and life plans. Those memories are treasures I’ll carry in my heart.
+
+He spoke at our **Fellowship by Cloud Native LATAM**, I met his fiancée, and we shared personal and professional moments that made me admire him even more. One of his biggest wishes was to overcome leukemia and be able to contribute to open source again —something he was truly passionate about.
+
+Rodo, the LATAM community and our ambassadors’ group will miss you so much. Thank you for your friendship, your example, and your generosity.
+
+Vuela alto Rodo! 🖤
+
+<div align="center">
+<img src="./ramrodo-assets/rodolfo-memorial.png" alt="Rodolfo M.V." width="30%">
+</div>
