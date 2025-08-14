@@ -56,9 +56,13 @@ Rest in peace, Rodolfo. My heartfelt condolences and a warm embrace to his famil
 
 From where you are, you will always be an inspiration, and we will strive to follow in your footsteps.
 
-<div align="center">
-<img src="./ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="50%">
-</div>
+## Lee Calcote
+
+I mourn the loss of Rodolfo, a cherished member of the CNCF community whose passion and dedication left its mark. I first met Rodolfo at a conference workshop I hosted in Guadalajara, Mexico. Rodolfo's enthusiasm for learning and contributing shone brightly. He was eager to join the Meshery project. Over time, his consistent engagement and collaborative spirit earned him a well-deserved role as a maintainer, leading our CI working group with skill and commitment.
+
+Rodolfo’s impact extended far beyond Meshery, touching many corners of the CNCF community. His warmth, curiosity, and drive to make a difference inspired those around him. Though it had been too long since we last spoke, his contributions and spirit will live on. Among many other places, Rodolfo’s legacy is forever honored in his Layer5 community member profile - https://layer5.io/community/members/rodolfo-martinez-vega.
+
+Rest in peace, Rodolfo.
 
 ## Cristher Castro
 
