@@ -116,6 +116,19 @@ We’re going to miss him deeply — his laugh, his encouragement, and the way h
 
 Gracias, Rodo. You made our community and our lives better.
 
+## Brad McCoy
+
+I admired Rodo's passion and dedication for Open Source, he has been a big part of the success of the CNCF and helped scale the community making it inclusive to all not only for LATAM but also APAC. This has helped change the world for good, empowering other regions with education, mentoring and collabration to leverage cloud native technology.
+
+I first met him online on the Kubernetes Release team where I was the Comms release lead and it was very challenging for me due to being in APAC timezone. Rodo and Caro helped, and taught me alot during the release and had my back when the workload got intense near the end. I was lucky to continue doing 3 releases with him.
+
+The first time we met in person was in Detroit for the sig-release meeting at the Kubernetes contributor summit. Rodo knew I could speak spanish as I used to once live in his home city Guadalajara so we spoke in spanish.  This was special to me as many spanish speakers also speak in english and eventually default back to english, but Rodo held speaking in spanish the whole time which i respected alot, this is when I knew how good of a mentor he was, and the value that he gave to the world.
+
+Rest in peace Rodo! 💙
+
+Para la familia y amigos que están leyendo esto, deberían estar muy orgullosos de Rodo. Fue un gran mentor para mí y aprendí mucho de él. Sus contribuciones a la tecnología y la comunidad tuvieron un impacto positivo en el mundo, ampliando las oportunidades para aprender, usar y adoptar tecnología nativa de la nube.
+
+
 <div align="center">
 <img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
 </div>
