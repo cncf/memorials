@@ -6,13 +6,19 @@ I thought it might be a good idea for us all to gather our thoughts, memories an
 
 Please add your contribution below via a pull request.
 
+## Alex Parra
+
+I am deeply saddened to say goodbye to a dear friend and a true pillar of the Cloud Native communities in Mexico and LATAM. Rodo always looked for the "how" to make things happen, always willing to share, build, and inspire. His passion for the community was contagious, inspiring everyone around him to get involved and give their best. His energy and generosity left a mark that will live on in every community, every project, and every person fortunate enough to have known him.
+
+Gracias por todo, Rodo, Te rifaste. You leave us a legacy that will continue to grow.
+
 ## Katie Greenley
 
-I had the honor of getting to know and work with Rodolfo through the CNCF ambassador program. His passion to support and grow his community was inspiring. 
-He truly embodied the spirit of open source with his collabortive, and contributive nature. He was always happy to help. His legacy of contributing to projects like 
-KCD Guadalajara, translating the CNCF glossary and Kubenetes docs into Spanish, and being part of the Kubernetes Release Team. 
+I had the honor of getting to know and work with Rodolfo through the CNCF ambassador program. His passion to support and grow his community was inspiring.
+He truly embodied the spirit of open source with his collabortive, and contributive nature. He was always happy to help. His legacy of contributing to projects like
+KCD Guadalajara, translating the CNCF glossary and Kubenetes docs into Spanish, and being part of the Kubernetes Release Team.
 
-I will miss him, as he was always a friendly face at events and I enjoyed hearing about the next thing he was doing to help support the community. He will be very missed 
+I will miss him, as he was always a friendly face at events and I enjoyed hearing about the next thing he was doing to help support the community. He will be very missed
 by the LATAM community.
 
 ## Victor Morales
@@ -92,7 +98,7 @@ Rest in peace, Rodolfo.
 
 Today, my heart and the entire **Cloud Native LATAM** community are in mourning. We’ve lost a dear friend, colleague, and true community leader: **Rodolfo Martinez Vega**, **CNCF Ambassador**, whose active work in translating the **CNCF glossary** and **Kubernetes documentation into Spanish** was key to the success of those projects and to making knowledge accessible to thousands of developers across the region.
 
-Rodo was one of the first to believe in initiatives like *La Hora de Kubernetes*. His help in the translation tag for Kubernetes documentation —and so many other projects— was fundamental. He was always ready to contribute, invite others to join, and inspire people to follow his lead.
+Rodo was one of the first to believe in initiatives like _La Hora de Kubernetes_. His help in the translation tag for Kubernetes documentation —and so many other projects— was fundamental. He was always ready to contribute, invite others to join, and inspire people to follow his lead.
 
 I met him in person at **KubeCon Amsterdam 2023**, and from then on we shared so many moments: **KCD Medellín, El Salvador, Guadalajara**… The last time we saw each other was at **KubeCon Salt Lake 2024**, where we spent three days each fighting for our causes —he for **KCD Guadalajara** and I for Colombia. I’ll never forget that cold night outside the convention center, both of us with dead phones, sitting on the stairs charging from a portable battery, swapping stories, dreams, and life plans. Those memories are treasures I’ll carry in my heart.
 
@@ -127,6 +133,32 @@ The first time we met in person was in Detroit for the sig-release meeting at th
 Rest in peace, Rodo! :blue_heart:
 
 Para la familia y amigos que están leyendo esto, deberían estar muy orgullosos de Rodo. Fue un gran mentor para mí y aprendí mucho de él. Sus contribuciones a la tecnología y la comunidad tuvieron un impacto positivo en el mundo, ampliando las oportunidades para aprender, usar y adoptar tecnología nativa de la nube.
+
+## Adolfo García Veytia (@puerco)
+
+Building and nurturing the Kubernetes Community takes time and effort. This has
+been especially difficult in Mexico, as there has been little engagement, and
+often talks and presentations don't produce much results. But every now and
+then, you find that one person who makes it all worthwhile.
+
+This was Rodolfo for me.
+
+I met Rodolfo on Twitter after giving a talk about the K8s Release Team
+at a Mexican open source conference in 2020. I was not expecting much traction
+but right after I was done, he DM'ed me and wanted to sign up.
+He simply got it. Rodo was built of what this community has always needed:
+Kindness, passion to help others and love for the project.
+
+And so began an amazing journey. I could not be prouder as I saw Rodo get
+involved with SIG Release, climb through the Release Team ladder and become a
+CNCF ambassador while organizing KCD Mexico. Soon, I was learning from him, 
+in awe of how much he had accomplished.
+
+I saw him for the last time at Kubecon in SLC, he was so happy to have landed a
+new job at Lyft and it just filled my heart seeing how much he had grown. I
+will miss him terribly.
+
+Gracias por todo Rodolfo, te quiero cabrón.
 
 <div align="center">
 <img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
