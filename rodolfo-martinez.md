@@ -122,6 +122,18 @@ We’re going to miss him deeply — his laugh, his encouragement, and the way h
 
 Gracias, Rodo. You made our community and our lives better.
 
+## Brad McCoy
+
+I admired Rodo's passion and dedication for Open Source, he has been a big part of the success of the CNCF and helped scale the community making it inclusive to all not only for LATAM but also APAC. This has helped change the world for good, empowering other regions with education, mentoring and collabration to leverage cloud native technology.
+
+I first met him online on the Kubernetes Release team, where I was the Comms release lead, and it was very challenging for me due to being in the APAC timezone. Rodo and Caro helped and taught me a lot during the release and had my back when the workload got intense near the end. I was lucky to continue doing 3 releases with him.
+
+The first time we met in person was in Detroit for the sig-release meeting at the Kubernetes contributor summit. Rodo knew I could speak spanish as I used to once live in his home city, Guadalajara, so we spoke in spanish.  This was special to me as many Spanish speakers also speak in English and eventually default back to English, but Rodo held speaking in Spanish the whole time, which I respected a lot. This is when I knew how good a mentor he was and the value that he gave to the world.
+
+Rest in peace, Rodo! :blue_heart:
+
+Para la familia y amigos que están leyendo esto, deberían estar muy orgullosos de Rodo. Fue un gran mentor para mí y aprendí mucho de él. Sus contribuciones a la tecnología y la comunidad tuvieron un impacto positivo en el mundo, ampliando las oportunidades para aprender, usar y adoptar tecnología nativa de la nube.
+
 ## Adolfo García Veytia (@puerco)
 
 Building and nurturing the Kubernetes Community takes time and effort. This has
@@ -147,7 +159,6 @@ new job at Lyft and it just filled my heart seeing how much he had grown. I
 will miss him terribly.
 
 Gracias por todo Rodolfo, te quiero cabrón.
-
 
 <div align="center">
 <img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
