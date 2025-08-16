@@ -172,3 +172,8 @@ Your commitment to Go and open source was truly inspiring, always bringing the e
 I was lucky to meet you at a [Go Meetup](https://www.youtube.com/watch?v=TaWTGEpsAs4) we organized, and I’ll never forget how you stepped up to take the whole event on your shoulders, helping with every detail and even arranging giveaways for the community. That generous and collaborative spirit is something we’ll miss deeply — and also what will keep inspiring us to move forward.
 
 Thank you for everything you gave, Rodo. The community will always remember you. 💙
+
+## Martín Quintero
+I had the privilege of meeting Rodolfo in different parts of the world and sharing conversations with him that went far beyond technology: we spoke about community, values, and life itself. In every encounter, I was able to appreciate not only his professional brilliance but, above all, the wonderful human being he was. Rodolfo clearly embodied deep values, lived with passion for what he did, and always conveyed warmth, generosity, and authenticity. His legacy is not only in what he built, but also in the mark he left on those of us who had the blessing of knowing him.
+
+¡Buen viaje, Amigo!
