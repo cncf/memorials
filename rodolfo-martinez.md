@@ -163,3 +163,12 @@ Gracias por todo Rodolfo, te quiero cabrón.
 <div align="center">
 <img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
 </div>
+
+## Thiago Mowszet
+
+Today we say goodbye to someone who left a huge mark on our community.
+Your commitment to Go and open source was truly inspiring, always bringing the energy and willingness to help everyone grow together.
+
+I was lucky to meet you at a [Go Meetup](https://www.youtube.com/watch?v=TaWTGEpsAs4) we organized, and I’ll never forget how you stepped up to take the whole event on your shoulders, helping with every detail and even arranging giveaways for the community. That generous and collaborative spirit is something we’ll miss deeply — and also what will keep inspiring us to move forward.
+
+Thank you for everything you gave, Rodo. The community will always remember you. 💙
