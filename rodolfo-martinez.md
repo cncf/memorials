@@ -172,3 +172,11 @@ Your commitment to Go and open source was truly inspiring, always bringing the e
 I was lucky to meet you at a [Go Meetup](https://www.youtube.com/watch?v=TaWTGEpsAs4) we organized, and I’ll never forget how you stepped up to take the whole event on your shoulders, helping with every detail and even arranging giveaways for the community. That generous and collaborative spirit is something we’ll miss deeply — and also what will keep inspiring us to move forward.
 
 Thank you for everything you gave, Rodo. The community will always remember you. 💙
+
+## Abraham Alfaro
+
+Rodolfo was one of the first people recommended to me to contact to learn more about the CNCF community in Mexico. Rodo was always eager to help people interested in these movements.
+
+You will always be an inspiration to everyone in the Latin American community. The legacy you left behind and the experiences you shared with those interested were truly remarkable.
+
+Thank you, Rodo.
