@@ -160,9 +160,17 @@ will miss him terribly.
 
 Gracias por todo Rodolfo, te quiero cabrón.
 
-<div align="center">
-<img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
-</div>
+## Eryx Paredes (@heryxpc)
+
+I can truly say that Rodo was one of the most committed and kind tech community leaders I had the honor to meet.
+
+I met you at the first Go Lang Meetup in Guadalajara and from there I kept seeing you over and over again doing amazing work to foster the tech community landscape in Guadalajara. From volunteer to core organizer in Posadev, your help was priceless. Thank you for all the responsibilities you took and the hard work you did.
+
+You were already a well-known local leader but always remained humble as you escalated from attendee to Cumbre de Contribuidores de Open Source Software (CCOSS), to Meshery contributor, to Kubernetes Latam Community Leader as both Kubernetes Release Team member and CNCF Glossary committer. KCD Mexico was a great success thanks to you, my friend!
+
+You demonstrated that achieving great success with humility and a good smile was the path to follow.
+
+Rodo, you set a great example for all of us and we will always remember you as the generous, open, friendly, and dedicated leader you were. It's hard to say goodbye to someone who has given so much and was so nice. Grateful for all you shared, _dev-compita_.
 
 ## Thiago Mowszet
 
@@ -171,8 +179,7 @@ Your commitment to Go and open source was truly inspiring, always bringing the e
 
 I was lucky to meet you at a [Go Meetup](https://www.youtube.com/watch?v=TaWTGEpsAs4) we organized, and I’ll never forget how you stepped up to take the whole event on your shoulders, helping with every detail and even arranging giveaways for the community. That generous and collaborative spirit is something we’ll miss deeply — and also what will keep inspiring us to move forward.
 
-Thank you for everything you gave, Rodo. The community will always remember you. 💙.
-
+Thank you for everything you gave, Rodo. The community will always remember you. 💙
 
 ## Carlos Santana (@csantanapr)
 I fondly remember working alongside Rodolfo in the Kubernetes Release Special Interest Group (SIG), where we collaborated on the release notes team. Rodolfo's exceptional intelligence and quick grasp of complex concepts were immediately apparent, but what truly set him apart was his genuine desire to help others succeed. He never hesitated to mentor newcomers and thoughtfully address their questions, making our team stronger and more inclusive.
@@ -184,3 +191,13 @@ One of my warmest memories of Rodolfo comes from the CNCF Kubernetes Book Club s
 Rodolfo's legacy lives on through the many lives he touched and the stronger, more supportive community he helped build.
 
 Rest in peace, Rodolfo 💙
+
+## Martín Quintero
+I had the privilege of meeting Rodolfo in different parts of the world and sharing conversations with him that went far beyond technology: we spoke about community, values, and life itself. In every encounter, I was able to appreciate not only his professional brilliance but, above all, the wonderful human being he was. Rodolfo clearly embodied deep values, lived with passion for what he did, and always conveyed warmth, generosity, and authenticity. His legacy is not only in what he built, but also in the mark he left on those of us who had the blessing of knowing him.
+
+¡Buen viaje, Amigo!
+
+<div align="center">
+<img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
+</div>
+
