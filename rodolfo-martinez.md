@@ -172,10 +172,6 @@ You demonstrated that achieving great success with humility and a good smile was
 
 Rodo, you set a great example for all of us and we will always remember you as the generous, open, friendly, and dedicated leader you were. It's hard to say goodbye to someone who has given so much and was so nice. Grateful for all you shared, _dev-compita_.
 
-<div align="center">
-<img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
-</div>
-
 ## Thiago Mowszet
 
 Today we say goodbye to someone who left a huge mark on our community.
@@ -185,7 +181,23 @@ I was lucky to meet you at a [Go Meetup](https://www.youtube.com/watch?v=TaWTGEp
 
 Thank you for everything you gave, Rodo. The community will always remember you. 💙
 
+## Carlos Santana (@csantanapr)
+I fondly remember working alongside Rodolfo in the Kubernetes Release Special Interest Group (SIG), where we collaborated on the release notes team. Rodolfo's exceptional intelligence and quick grasp of complex concepts were immediately apparent, but what truly set him apart was his genuine desire to help others succeed. He never hesitated to mentor newcomers and thoughtfully address their questions, making our team stronger and more inclusive.
+
+Recognizing his capabilities and dedication, I recommended Rodolfo for the position of release notes lead in the subsequent release cycle. He exceeded all expectations in this role and continued to contribute his expertise across multiple releases, becoming an invaluable mentor to countless team members.
+
+One of my warmest memories of Rodolfo comes from the CNCF Kubernetes Book Club sessions, which I help organize. His name on the participants list never failed to brighten my day, as his presence always enriched our discussions. His consistent engagement and enthusiasm for learning exemplified the collaborative spirit that makes our community special.
+
+Rodolfo's legacy lives on through the many lives he touched and the stronger, more supportive community he helped build.
+
+Rest in peace, Rodolfo 💙
+
 ## Martín Quintero
 I had the privilege of meeting Rodolfo in different parts of the world and sharing conversations with him that went far beyond technology: we spoke about community, values, and life itself. In every encounter, I was able to appreciate not only his professional brilliance but, above all, the wonderful human being he was. Rodolfo clearly embodied deep values, lived with passion for what he did, and always conveyed warmth, generosity, and authenticity. His legacy is not only in what he built, but also in the mark he left on those of us who had the blessing of knowing him.
 
 ¡Buen viaje, Amigo!
+
+<div align="center">
+<img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
+</div>
+
