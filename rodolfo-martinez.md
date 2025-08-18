@@ -171,4 +171,16 @@ Your commitment to Go and open source was truly inspiring, always bringing the e
 
 I was lucky to meet you at a [Go Meetup](https://www.youtube.com/watch?v=TaWTGEpsAs4) we organized, and I’ll never forget how you stepped up to take the whole event on your shoulders, helping with every detail and even arranging giveaways for the community. That generous and collaborative spirit is something we’ll miss deeply — and also what will keep inspiring us to move forward.
 
-Thank you for everything you gave, Rodo. The community will always remember you. 💙
+Thank you for everything you gave, Rodo. The community will always remember you. 💙.
+
+
+## Carlos Santana (@csantanapr)
+I fondly remember working alongside Rodolfo in the Kubernetes Release Special Interest Group (SIG), where we collaborated on the release notes team. Rodolfo's exceptional intelligence and quick grasp of complex concepts were immediately apparent, but what truly set him apart was his genuine desire to help others succeed. He never hesitated to mentor newcomers and thoughtfully address their questions, making our team stronger and more inclusive.
+
+Recognizing his capabilities and dedication, I recommended Rodolfo for the position of release notes lead in the subsequent release cycle. He exceeded all expectations in this role and continued to contribute his expertise across multiple releases, becoming an invaluable mentor to countless team members.
+
+One of my warmest memories of Rodolfo comes from the CNCF Kubernetes Book Club sessions, which I help organize. His name on the participants list never failed to brighten my day, as his presence always enriched our discussions. His consistent engagement and enthusiasm for learning exemplified the collaborative spirit that makes our community special.
+
+Rodolfo's legacy lives on through the many lives he touched and the stronger, more supportive community he helped build.
+
+Rest in peace, Rodolfo 💙
