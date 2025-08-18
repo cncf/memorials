@@ -160,6 +160,18 @@ will miss him terribly.
 
 Gracias por todo Rodolfo, te quiero cabrón.
 
+## Eryx Paredes (@heryxpc)
+
+I can truly say that Rodo was one of the most committed and kind tech community leaders I had the honor to meet.
+
+I met you at the first Go Lang Meetup in Guadalajara and from there I kept seeing you over and over again doing amazing work to foster the tech community landscape in Guadalajara. From volunteer to core organizer in Posadev, your help was priceless. Thank you for all the responsibilities you took and the hard work you did.
+
+You were already a well-known local leader but always remained humble as you escalated from attendee to Cumbre de Contribuidores de Open Source Software (CCOSS), to Meshery contributor, to Kubernetes Latam Community Leader as both Kubernetes Release Team member and CNCF Glossary committer. KCD Mexico was a great success thanks to you, my friend!
+
+You demonstrated that achieving great success with humility and a good smile was the path to follow.
+
+Rodo, you set a great example for all of us and we will always remember you as the generous, open, friendly, and dedicated leader you were. It's hard to say goodbye to someone who has given so much and was so nice. Grateful for all you shared, _dev-compita_.
+
 <div align="center">
 <img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
 </div>
