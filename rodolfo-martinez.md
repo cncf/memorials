@@ -197,6 +197,9 @@ I had the privilege of meeting Rodolfo in different parts of the world and shari
 
 ¡Buen viaje, Amigo!
 
+## JhonnyPong
+I had the opprotunity to talk and share among Rodolfo (Rodo, as mentioned back), was an awesome person, pretty awesome and very opened to talk about any topic! Sincerely I was impacted with this news, this lightment for him! Sincerely my condolences for his family and friends! Sincerely I had the change to work with him, in every chat that we had he demosntrate his values and his humanity! Rest in pace man I hope you move to the Lords side! 
+
 <div align="center">
 <img src="https://github.com/cncf/memorials/blob/main/ramrodo-assets/ramrodo-memorial.jpg" alt="Rodolfo M.V." width="30%">
 </div>
