@@ -208,7 +208,7 @@ I had the opprotunity to talk and share among Rodolfo (Rodo, as mentioned back),
 
 Rodolfo was one of the first people in the community who, without knowing me, offered me his help to get involved in these projects. Without a doubt, the legacy he leaves behind is enormous in Mexico and Latin America.
 
-Thank you very much for everything, Rodo.
+Thank you very much for everything, rest in pace Rodolfo.
 
 
 
