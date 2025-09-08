@@ -15,3 +15,4 @@ This area is intended to rejoice in them, their contributions, and to keep their
 * [Ido Hubara](ido-hubara.md)
 * [Roee Negri](roee-negri.md)
 * [Rodolfo Martínez Vega](rodolfo-martinez.md)
+* [Han Kang](han-kang.md)
