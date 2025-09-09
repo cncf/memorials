@@ -4,9 +4,9 @@ Dear community and friends,
 
 I thought it might be a good idea for us all to gather our thoughts, memories and stories of Han and what he meant to us in one place. Please add your contribution below, via a pull request.
 
-## Orbituary
+## Obituary
 
-[Orbituary](https://www.legacy.com/us/obituaries/legacyremembers/han-kang-obituary?id=59374211)
+[Obituary](https://www.legacy.com/us/obituaries/legacyremembers/han-kang-obituary?id=59374211)
 
 Memorial contributions can be made to https://gofund.me/5ef5290f9.
 
