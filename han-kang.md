@@ -22,3 +22,23 @@ I had the privilege of working with Han as part of SIG Instrumentation for sever
 
 Rest in peace, Han.
 
+## Hongcai Ren
+
+I was so sad when I heard that Han Kang, my friend, passed away.
+
+I first knew Han in 2019. It was because of his proposal called `Kubernetes Control-Plane Metrics Stability`. The proposal 
+was perfect, so I decided to help make it come true. When we worked on this proposal, Han gave me a lot of encouragement 
+and help. He shared some principles with me, and I still remember them now. For example, one principle about instrumentation
+is: it must not affect the program’s function and stability.
+
+We worked happily together in SIG Instrumentation. I even encouraged him to be the chair of SIG Instrumentation. Because 
+I thought his talent was good enough for this role. Most of the time, Han and I talked on Slack or in Zoom meetings. 
+Besides work, he also told me interesting things about his life. For example, during the pandemic, he was always brave 
+to go out with his family. I was lucky to meet him face to face at KubeCon EU 2024 in Paris. He was still so funny and 
+humorous. What surprised me was that he still cared about my work. He even gave me valuable advice on my projects.
+
+The last time I talked to Han was in July 2025, on LinkedIn. He said he had joined a new company. At the same time, 
+he encouraged me and praised me again. But it’s a pity—after that short chat, I never thought it would be our forever goodbye.
+To me, Han was not only a friend but also a good teacher. Getting the news of his death suddenly makes me very, very sad. 
+
+Rest in peace, Han. I will miss you forever.
