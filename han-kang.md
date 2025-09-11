@@ -72,3 +72,31 @@ appropriate age to depart. Maybe someday signal will fill in the checkmarks on t
 we can have a laugh about what a scare I had.
 
 Until then, rest in peace, Han.
+
+## Benjamin Elder
+
+Han was such an incredible engineer and a wonderful soul. I was shocked and dismayed to hear he had passed suddenly.
+
+I was lucky to work with Han in his time at Google, where he was an excellent technical lead.
+When I first transferred to the team, Han was exactly the sort of person I was excited to work with more closely.
+Han was smart, funny, kind, and thoughtful. 
+
+He was a mentor and a leader in the Kubernetes community, who brought a spark to every conversation with a twinkle in his eye.
+
+In this community we're lucky to meet and work with a lot of incredibly talented people, among them all I held Han in very high regard.
+
+Han put so much thought and energy into everything, yet he was always willing to chat and give advice.
+I really appreciate how much time he spent mentoring those around us, and I think he will be forever remembered for this and his good humor.
+
+When Han let us know he was leaving for another role, my gut reaction was dissapointment, but he seemed truly excited.
+
+Later he began to be more active again in the Kubernetes project, and we got back in touch, just a few weeks ago.
+The last time I spoke to Han was only the week before in the Kubernetes Slack following a project meeting.
+Han seemed so happy and energetic, I was really looking forward to working together again through open source.
+We had been chatting about how things had changed, how he was doing, and where things were headed. I expected
+to continue that conversation in the coming weeks.
+I couldn't beleive he was gone so suddenly.
+
+I wish I'd gotten to know Han better personally, I looked up to and admired him and he was just a pleasure to be around.
+
+Han, you will be missed. Rest in peace.
