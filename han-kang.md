@@ -42,3 +42,33 @@ he encouraged me and praised me again. But it’s a pity—after that short chat
 To me, Han was not only a friend but also a good teacher. Getting the news of his death suddenly makes me very, very sad. 
 
 Rest in peace, Han. I will miss you forever.
+
+## Daniel Smith
+
+Han was my coworker, and then my friend. It has been more than a week and I still don't have words to say what he meant.
+
+Han and I had very similar upbringings and life history. It is hard to be more specific than that in public.
+
+Han really liked Lu Cixin and lent me a book of his short stories to read. I recommended "worm", an online serial and
+warned him it was "long". Weeks later Han gave me a bunch of friendly ribbing because my definition of "long" was a
+million plus words. I was very surprised he read it so fast.
+
+Han was smart. I remember eating lunch with him, discussing covid cases the Friday before the pandemic panic really took
+off in the US. I worked from home the following monday, but he moved his retirement account to cash from his phone that
+Friday at lunch. (But did he rebuy at the right time? Ah that I don't know. Few did.)
+
+We talked over a lot of designs when we worked together, kubecon talks, etc. Han had so much energy for accomplishing
+things, no one could match it. Energy and good taste about where to spend it, a rare combination.
+
+I moved away from the bay area, but Han came to visit. He brought my kids some legos. I cooked, we sampled my whiskey
+collection even though neither of us drank that much any more. I regret not making an equivalent trip.
+
+He knew I'd taken up a bit of woodworking, and one thing led to another and I made him a desk top. I traded messages
+with him on Sunday when the courier picked it up from my shop. But Han was gone before the delivery on Tuesday. I still
+can't believe it.
+
+This tribute is inadequate, but I don't know how to do better. I'm still not willing to say goodbye. His was not an
+appropriate age to depart. Maybe someday signal will fill in the checkmarks on the last messages I wrote to him and
+we can have a laugh about what a scare I had.
+
+Until then, rest in peace, Han.
