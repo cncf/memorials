@@ -100,3 +100,13 @@ I couldn't beleive he was gone so suddenly.
 I wish I'd gotten to know Han better personally, I looked up to and admired him and he was just a pleasure to be around.
 
 Han, you will be missed. Rest in peace.
+
+## Richa Banker
+
+I first met Han when I was still interviewing with Google and was being team matched. I remember him being so easy to talk to, he asked about what I was working on and we discussed some challenges with my ongoing work, for which he even offered some helpful tips.  I'm so glad I chose that team. Back then, my rationale was the chance to work on Kubernetes and gain open-source experience. But now I know the best part was working with Han for over two years.
+
+Han was there for me since my day one at Google - from helping with trivial tasks like sorting out permissions issues to setting me up for my first open source PR. His enthusiasm for open source was infectious. Gradually he went from advising me about my code to guiding me about my career. He taught me how to think like a good engineer - how there will always be problems to fix but how to identify the right problems to solve, how to always think about the end user and what they expect from a feature/functionality, how to always push for the right thing even when there were conflicts. In our 1:1s, he would always point me to interesting problems to solve or things to read - some technical, others philosophical. These discussions continued even after he left Google, and I was just so amazed by his consideration for the people he knew. He really cared. And he showed that not just with his words but also his actions. 
+
+Han was the rock for all my troubles. He was the person who "opened all the doors" for me. I was devastated to hear the news of him leaving Google and it was hard to imagine the team without Han. After he left, we still stayed in touch but it took some time for me to get used to not seeing him around. I think I was still coping with that when this tragic news dropped a week ago. Even today, I can't believe that he is no longer with us. Before this, whenever I would miss him, I would always imagine him being stellar at whatever he was doing, solving hard problems, sharing countless interesting ideas, having empathetic conversations and having fun while doing so. Now, I will always remember him that way.  
+
+I will forever remember his smile and his thoughtful expression as he listened so sincerely to whatever I had to say. I will also remember his big hug in Salt Lake City— our last in-person meeting, right before he left Google. I will forever miss you Han, and I don't have the words to thank you enough for your unwavering support, guidance, laughter, and all the incredible memories. Rest in peace. 
