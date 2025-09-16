@@ -114,3 +114,17 @@ I will forever remember his smile and his thoughtful expression as he listened s
 ## Joseph Davis
 
 I met Han through SIG Instrumentation and Han was one of the reasons I enjoyed contributing to the SIG. His leadership and positive attitude contributed to a great community.  When I changed employers and moved to Google, Han was again supportive which helped with my transition to a new company.  Knowing there was another great engineer and friendly face made the company seem less like a big unknown.  My condolences to the family, and I'll look forward to meeting up some day after this life.
+
+## Jago Macleod
+
+I'm so grateful for having known Han; he made me a much better teammate, leader, friend, and person. And it wasn't just me - Han made everyone around him better. His enthusiasm was infectious, and he inspired those around him. He also happened to also be an incredible engineer. 
+
+Han was an amazing person to work with and around. He set out to do the right thing and found a way to do it. He found the quietest and simplest way to solve a problem with most impact and the least drama. He found ways to be overly certain to share credit and to inspire newcomers to get more involved. And he was incredibly generous with his time, always going the extra mile to lift the team around him. 
+
+Han didn't get along with everyone always, but when he disagreed it was from a place of loyalty to ideals. And while often ready to debate a point, he was generally open to changing his perspective. He was also fiercely loyal to people - to his team and his community and his family, found or otherwise. 
+
+I still can't believe Han is gone. I am heart-broken and the only consolation is that I'm not alone in that feeling, and that I know Han inspired so many of us through his excellence, his actions, and his empathy. 
+
+Thank you Han for setting an example and for raising the bar - we'll aspire to meet it. 
+
+
