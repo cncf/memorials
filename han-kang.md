@@ -127,4 +127,30 @@ I still can't believe Han is gone. I am heart-broken and the only consolation is
 
 Thank you Han for setting an example and for raising the bar - we'll aspire to meet it. 
 
+## Federico Bongiovanni
+
+My dear Han, I've been repeating over the last 3 weeks that I was going to sit down and write something here when I am ready to write about you, and not write about me. And yet, as you can see my first sentence is about me and how hard has been to process and accept the news. Maybe that day will never come. We are all grieving, and there may never be a good time to write. So I'll write about you. 
+
+Because you, Han, you man, you were the light of the show. 
+
+First, how bright you were. And how kind you were with those of us that were not that bright. You had deep, long term, visionary ideas. But you also knew that people like me could not see that far. So you had this incredible patience and contagious enthusiasm, to explain things in a way that could make everybody see them, and get aligned. Who would not get aligned if most of your ideas were brillant? It was a mather of taking the work and time to talk to people, and you were so good at that. 
+
+I remember that every time you were coming to me to tell me a plan, I was always expecting the second part that comes after the sales pitch, where you would explain me the problems. But usually that part never came. "No, I already took care of it. I spoke with the people involved, I already fixed it, look at this", and you would show me what you did (when?) and explain it to me. Dude, where did all that energy came from? Where was the endless source? you would explain it a thousand times to a thousand people, and always with that enthusiasm and energy, like it was the first time. It was no surprise that people would follow you. 
+
+Second, how generous you were with your brighness. Almost a powerhouse, a bottomless factory of ideas, that you gave to people for free, opening doors and opportunities all around you. There is a testament of people whose life you have touched and changed. People who will always be better because of you. Who will honor your memory, remembering something you told them or taught them. At work and in life: because you didn't care about the lines, you blended them together.
+
+Indeed, you didn't care about lines and roles. You became my friend. You helped me to grow. You told me hard truths about myself. But most of the time you told me nice things. You gifted me with your friendship. After I met you, it didn't take a lot of time for me to trust you almost blindly. How could I not? And yet, you thanked me many times for my trust, in your humbleness, not understanding that there was nothing to thank, you earned it with remarks. Summa cum laude.
+
+Third, I know that your two daughters, Alisa and Mari, were your entire world. We spoke about our daughters and our role as parents until exhaustion! I tried to scare you about the upcoming teenage years. You tried to pretend you knew what you were going to do. And we played that game so many times. And through all of it, always your heart poured on every statement about them, and I would like your kids to know that they were undisputably the most important thing in your life -by years light- compared to anything else. And it filled my heart with joy everytime you showed me a picture of them, or your told me something about them. Maybe because I was always worried that you worked too much, and I knew they would bring you back to the ground. The light in your eyes would change when your kids would appear. I hope they have enough memories of me. And I'm here also to tell them a lot more about their dad when they grow older.
+
+Finally, "Give me an army of Hans and I'll conquer the world", many people heard me through the years saying that. I didn't carve that phrase after your passed, I started saying that after some months of working together. I never took it back. And I feel becomes even more true now that I've learned from many of your loved ones more great stories about you. You were a prolific bright mind, who made large lasting changes to everything you touched, including upstream Kubernetes and to GKE, expanding beyond the boundaries of companies and organizations. 
+
+I miss you a lot. Will always miss you. I still talk to you. And I know that my relationship with you did not end, it changed -sadly- and I'll learn how to accept that. I still talk to you sometimes. I hope your sould rests in peace my friend.
+
+Thank you for everything.
+
+  <div align="center">
+<img src="https://github.com/cncf/memorials/blob/main/han-kang-assets/han-memorial.jpeg" alt="Han Kang Rest in" width="30%">
+</div>
+
 
