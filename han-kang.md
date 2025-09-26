@@ -153,4 +153,14 @@ Thank you for everything.
 <img src="https://github.com/cncf/memorials/blob/main/han-kang-assets/han-memorial.jpeg" alt="Han Kang Rest in" width="30%">
 </div>
 
+## Janet Kuo
 
+I still can't process that Han is gone. It feels surreal. Just less than a week before he passed, he joined the AI Conformance WG meeting I was hosting. I was so happy and surprised to see him there, and I remember asking how he was doing. I was looking forward to seeing him more and collaborating again. I never imagined that would be our last conversation. His passing is a stark reminder of how fragile life is.
+
+I was lucky to have worked with Han for many years on the GKE team at Google. He was, without a doubt, one of the kindest and most brilliant engineers I've ever known. But my memories of him go far beyond just work.
+
+I’ll cherish the memories we made playing Pokemon Go, making dumplings, and pushing our limits during an outdoor survival training. I’ll remember our fun conversations, like the one about how Hiroshima has the best Okonomiyaki. These moments are a testament to the joy and camaraderie he brought to our lives.
+
+Before he left Google last year, we had a coffee chat to reflect on his time there, and I asked for his advice. He was always so generous with his wisdom and support.
+
+Han, you were a wonderful colleague and a dear friend. Your passion, brilliance, and kindness have left a lasting impact on everyone who had the privilege of knowing you. You will be deeply missed. Rest in peace, my friend.
