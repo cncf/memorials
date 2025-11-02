@@ -164,3 +164,13 @@ I’ll cherish the memories we made playing Pokemon Go, making dumplings, and pu
 Before he left Google last year, we had a coffee chat to reflect on his time there, and I asked for his advice. He was always so generous with his wisdom and support.
 
 Han, you were a wonderful colleague and a dear friend. Your passion, brilliance, and kindness have left a lasting impact on everyone who had the privilege of knowing you. You will be deeply missed. Rest in peace, my friend.
+
+## Catherine Fang
+
+I wish it were still Summer, not just for the warmth of the weather, but because you would still be here with us.
+
+I am eternally grateful for your mentorship from day one. You generously shared many technical books with me, including the one about "15 great programmers and computer scientists". I remember you mentioning your incredible memory—how you could remember all the details after just one read. To me, you are one of the Kubernetes great programmers. No matter how challenging the problem, you always found the optimal and creative solution. More than that, you were a dedicated friend, always there to unblock, encourage, and support us. 
+
+We discussed running sometimes; you mentioned completing several half-marathons years ago. I was looking forward to sharing and boasting about my half-marathon achievement this October, but sadly, there was no chance.
+
+When evening approaches and I look up, I know you are one of the brightest stars, illuminating the path for our future.
