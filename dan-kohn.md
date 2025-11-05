@@ -316,3 +316,13 @@ Rest well Dan.
 
 I meet him in person by change in some OSSUMMIT, he gave me some pointers for me career that have change my life for good, surely will be miss.
 
+## Ian Choi
+
+It has been nearly five years, but I would like to share my memories with Dan as they remain vivid and meaningful to me.
+
+From my first meeting with Dan and the Korea community leaders in Boston in May 2017, I felt honored to continuously see him offline until the pandemic began. I still remember the surprise and joy of running into Dan by chance at San Francisco Airport in Sep 2019. A few months later, I was truly grateful for the opportunity to contribute through both my session speech and my company's Platinum sponsorship at Kubernetes Forum Seoul 2019. Through these experiences, I learned so much by witnessing Dan’s dedication—how he built a real ecosystem, intertwining technology and passion alongside the community in a remarkable journey.
+
+This week, as I participate in the Open Source Summit Korea 2025, memories of Dan return to me even more strongly. I am grateful to witness the synergies between the CNCF and the OpenInfra Foundation flourishing this year—a testament to Dan’s impact that extends far beyond organizational boundaries. His influence and the memories we shared remain deep and lasting.
+
+Thank you, Dan, for everything.
+
