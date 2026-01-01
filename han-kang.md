@@ -174,3 +174,63 @@ I am eternally grateful for your mentorship from day one. You generously shared 
 We discussed running sometimes; you mentioned completing several half-marathons years ago. I was looking forward to sharing and boasting about my half-marathon achievement this October, but sadly, there was no chance.
 
 When evening approaches and I look up, I know you are one of the brightest stars, illuminating the path for our future.
+
+## Elana Hashman
+
+To Han: It’s hard to express how difficult this news has been for me. I thought
+I’d be the first to write one of these memorials—it seems I’m among the last.
+
+From the moment you first joined a SIG Instrumentation meeting, I knew you were
+going to get so much done. We had both wandered in to the open source community
+around the same time, somewhat confounded by the status quo—we swore at the
+state of things, and we swore we’d make it better. A year and a half later,
+we’d coauthored KEPs, given a KubeCon talk together (the memes, man! My god,
+the memes! You have to cut back!), and found ourselves both volunteering to
+fill the newly vacant SIG Instrumentation Chair roles. We were both acclaimed.
+Everyone was so thrilled that you stepped up.
+
+And in your words, we had the best SIG in all of Kubernetes. Both of us worked
+within other parts of the project, and ran into a host of challenges, gaining
+the perspective to want to build something a little different. And it was so
+obvious that you had far deeper experience within the project than your modesty
+let on, making it all the more meaningful to be able to use that in service of
+our SIG. You rolled out the red carpet for newcomers at our meetings, and when
+I had a rough week at my dayjob, I could always look forward to one of our
+syncs or triages. You were always so adamant about welcoming folks, and I
+remember how surprised people would be, expecting a much more intimidating
+environment or higher bar of entry. Your drive to mentor and grow folks within
+and outside Google felt boundless, and it was always a welcome surprise to see
+the new folks you had dragged along to the latest meeting and what they were
+going to work on. You worked tirelessly to help brand new contributors with
+their KEPs and contributions, even if we had doubts, and even through
+passionate arguments about technical design. We always worked things out.
+
+I remember poring over the contribution stats with you from folks who weren’t
+attending our weekly meetings, and doing our best to reach out to them, because
+you wanted to make sure they still felt valued. I remember seeing you working
+from your “home office” aka your newly converted garage, joking about taking
+the whole Silicon Valley experience a little bit too far early in the pandemic.
+We spent hours every year working on our annual report, doing our Chair-ly
+duties, and I couldn’t believe I’d look forward to filling out paperwork with
+you… but of course, we always took the opportunity to catch up a bit, too. We
+led so many KubeCon SIG sessions I lost count, starting with that first one
+where the leads had forgotten to submit a session and we ended up in a random
+conference room. Our SIG ran the first election in the entire project for a new
+TL, a fun fact I always enjoyed hearing you brag about. But that’s how you do
+it: setting a better example for everyone, and leading the way you wanted to be
+lead. We cared so much about sustainability and continuity that we made a pact
+that we wouldn’t be Chairs forever. Both of us succeeded in our handoffs, and
+you were so proud of your successors.
+
+When I needed to stop work with the SIG because of my illness, we fell out of
+touch. I’d heard about your new job through colleagues, but I always thought
+we’d have time later to catch up later. Maybe when I got better, because I
+couldn’t travel anymore to catch you at conferences. And I never got the
+chance.
+
+Friend, you were absolutely right about having built the best SIG in
+Kubernetes, _our_ SIG, and I’ll fight anyone who wants to argue about it. It’s
+just not fair that you didn’t get the opportunity to build the best of so many
+more things. I have felt your death like a constant presence this past few
+months, and I hope it means that a part of you is still with me. A light has
+gone out in our community, but those it has touched still glow.
